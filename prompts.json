@@ -1,0 +1,115 @@
+{
+  "adminPin": "3579",
+  "prompts": [
+    {
+      "id": "p1",
+      "title": "Exploded View Diagram",
+      "tags": ["product", "technical", "exploded-view"],
+      "imageUrl": "https://REPLACE_ME/prompts/p1-exploded-view.jpg",
+      "prompt": "Exploded view diagram of the object in [IMAGE_REFERENCE]: floating disassembled internal components, technical schematic grid background, clear outer shell, studio lighting, hyper-detailed product photography",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p2",
+      "title": "3D Pixar Character Transformation",
+      "tags": ["3d", "pixar", "character"],
+      "imageUrl": "https://REPLACE_ME/prompts/p2-pixar-transformation.jpg",
+      "prompt": "3D animated movie character transformation of the person in [IMAGE_REFERENCE]: Pixar style render, expressive eyes, soft studio lighting, detailed hair and fabric texture, warm vibrant colors --cref [IMAGE_REFERENCE]",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p3",
+      "title": "1980s Retro Film Portrait",
+      "tags": ["retro", "film", "portrait"],
+      "imageUrl": "https://REPLACE_ME/prompts/p3-retro-film-portrait.jpg",
+      "prompt": "1980s retro analog film portrait of the person in [IMAGE_REFERENCE]: direct camera flash, visible film grain, muted warm color palette, authentic vintage snapshot aesthetic --cref [IMAGE_REFERENCE]",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p4",
+      "title": "Epic Movie Poster",
+      "tags": ["movie-poster", "cinematic", "action"],
+      "imageUrl": "https://REPLACE_ME/prompts/p4-movie-poster.jpg",
+      "prompt": "Epic movie poster titled \"[MOVIE_TITLE]\" featuring the person from [IMAGE_REFERENCE]: tagline \"[YOUR_TAGLINE]\" at the bottom, wearing high-tech composite armor with glowing power core, dramatic rim lighting, particle smoke and embers in background, photorealistic --cref [IMAGE_REFERENCE]",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p5",
+      "title": "GTA V Loading Screen",
+      "tags": ["game", "gta", "poster"],
+      "imageUrl": "https://REPLACE_ME/prompts/p5-gta-loading-screen.jpg",
+      "prompt": "GTA V loading screen style illustration featuring the person from [IMAGE_REFERENCE]: bold game title text \"[GAME_TITLE]\" in the bottom corner, sunset gradient backdrop, high-contrast vector shading",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p6",
+      "title": "Fashion Magazine Cover",
+      "tags": ["magazine", "fashion", "editorial"],
+      "prompt": "Fashion magazine cover featuring the person in [IMAGE_REFERENCE]: bold title \"[MAGAZINE_TITLE]\" at top, main headline \"[MAIN_HEADLINE]\", high-fashion editorial portrait, soft box studio lighting, sleek typography --cref [IMAGE_REFERENCE]",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p7",
+      "title": "Cyberpunk Character Transformation",
+      "tags": ["cyberpunk", "neon", "character"],
+      "prompt": "Cyberpunk character transformation of the person in [IMAGE_REFERENCE]: wearing glowing neon glasses, rain-slicked city reflections, holographic tattoos, high-tech leather jacket, cinematic volumetric lighting, photorealistic --cref [IMAGE_REFERENCE]",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p8",
+      "title": "Corporate Executive Headshot",
+      "tags": ["corporate", "headshot", "professional"],
+      "prompt": "Professional corporate executive headshot of the person in [IMAGE_REFERENCE]: wearing a navy blue tailored blazer, soft diffused softbox lighting, clean blurred office backdrop, 85mm portrait lens --cref [IMAGE_REFERENCE]",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p9",
+      "title": "Studio Ghibli Anime Portrait",
+      "tags": ["anime", "ghibli", "watercolor"],
+      "prompt": "Hand-drawn Studio Ghibli style anime portrait of the person in [IMAGE_REFERENCE]: soft watercolor textures, warm golden hour lighting, gentle breeze in hair, nostalgic 90s cel-animated aesthetic --cref [IMAGE_REFERENCE]",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p10",
+      "title": "Collectible Action Figure",
+      "tags": ["toy", "action-figure", "collectible"],
+      "prompt": "Collectible plastic action figure of [CHARACTER_NAME] based on [IMAGE_REFERENCE]: packaged inside a blister card labeled \"[SERIES_NAME]\", retro toy store product shot, glossy plastic cover, studio lighting",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p11",
+      "title": "Renaissance Oil Painting Portrait",
+      "tags": ["renaissance", "painting", "classical"],
+      "prompt": "Classical Renaissance oil painting portrait of the person from [IMAGE_REFERENCE]: dressed in 16th-century royal velvet garments, chiaroscuro Rembrandt lighting, visible canvas texture, dark moody backdrop --cref [IMAGE_REFERENCE]",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p12",
+      "title": "Luxury Cosmetics Packaging",
+      "tags": ["packaging", "cosmetics", "luxury"],
+      "prompt": "Minimalist luxury cosmetics packaging mockup for \"[PRODUCT_NAME]\": brand name \"[BRAND_NAME]\" embossed in gold lettering, featuring the design from [IMAGE_REFERENCE], frosted glass bottle, studio lighting",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p13",
+      "title": "Vintage Travel Postcard",
+      "tags": ["postcard", "vintage", "travel"],
+      "prompt": "1970s vintage travel postcard featuring [CITY_NAME]: bold header text \"[GREETING_TEXT]\", incorporating the scenery from [IMAGE_REFERENCE], distressed paper texture, vibrant retro colors",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p14",
+      "title": "Fine Art Watercolor Portrait",
+      "tags": ["watercolor", "fine-art", "portrait"],
+      "prompt": "Expressive fine art watercolor portrait of the subject in [IMAGE_REFERENCE]: delicate paint splatters, visible textured paper grain, soft color bleeding, elegant artistic brushstrokes --cref [IMAGE_REFERENCE]",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p15",
+      "title": "Synthwave Album Cover",
+      "tags": ["synthwave", "album-cover", "retro"],
+      "prompt": "Synthwave music album cover featuring the person from [IMAGE_REFERENCE]: album title \"[ALBUM_TITLE]\" in glowing neon font, artist name \"[ARTIST_NAME]\" at top, wireframe grid landscape, retro 80s aesthetic",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    }
+  ]
+}
