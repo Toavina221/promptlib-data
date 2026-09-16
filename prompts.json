@@ -45,6 +45,7 @@
       "id": "p6",
       "title": "Fashion Magazine Cover",
       "tags": ["magazine", "fashion", "editorial"],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p6.jpeg",
       "prompt": "Fashion magazine cover featuring the person in [IMAGE_REFERENCE]: bold title \"[MAGAZINE_TITLE]\" at top, main headline \"[MAIN_HEADLINE]\", high-fashion editorial portrait, soft box studio lighting, sleek typography --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -52,6 +53,7 @@
       "id": "p7",
       "title": "Cyberpunk Character Transformation",
       "tags": ["cyberpunk", "neon", "character"],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p7.jpeg",
       "prompt": "Cyberpunk character transformation of the person in [IMAGE_REFERENCE]: wearing glowing neon glasses, rain-slicked city reflections, holographic tattoos, high-tech leather jacket, cinematic volumetric lighting, photorealistic --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -59,6 +61,7 @@
       "id": "p8",
       "title": "Corporate Executive Headshot",
       "tags": ["corporate", "headshot", "professional"],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p8.jpeg",
       "prompt": "Professional corporate executive headshot of the person in [IMAGE_REFERENCE]: wearing a navy blue tailored blazer, soft diffused softbox lighting, clean blurred office backdrop, 85mm portrait lens --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -66,6 +69,7 @@
       "id": "p9",
       "title": "Studio Ghibli Anime Portrait",
       "tags": ["anime", "ghibli", "watercolor"],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p9.jpeg",
       "prompt": "Hand-drawn Studio Ghibli style anime portrait of the person in [IMAGE_REFERENCE]: soft watercolor textures, warm golden hour lighting, gentle breeze in hair, nostalgic 90s cel-animated aesthetic --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -73,6 +77,7 @@
       "id": "p10",
       "title": "Collectible Action Figure",
       "tags": ["toy", "action-figure", "collectible"],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p10.jpeg",
       "prompt": "Collectible plastic action figure of [CHARACTER_NAME] based on [IMAGE_REFERENCE]: packaged inside a blister card labeled \"[SERIES_NAME]\", retro toy store product shot, glossy plastic cover, studio lighting",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -80,6 +85,7 @@
       "id": "p11",
       "title": "Renaissance Oil Painting Portrait",
       "tags": ["renaissance", "painting", "classical"],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p11.jpeg",
       "prompt": "Classical Renaissance oil painting portrait of the person from [IMAGE_REFERENCE]: dressed in 16th-century royal velvet garments, chiaroscuro Rembrandt lighting, visible canvas texture, dark moody backdrop --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -87,6 +93,7 @@
       "id": "p12",
       "title": "Luxury Cosmetics Packaging",
       "tags": ["packaging", "cosmetics", "luxury"],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p12.jpeg",
       "prompt": "Minimalist luxury cosmetics packaging mockup for \"[PRODUCT_NAME]\": brand name \"[BRAND_NAME]\" embossed in gold lettering, featuring the design from [IMAGE_REFERENCE], frosted glass bottle, studio lighting",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -94,6 +101,7 @@
       "id": "p13",
       "title": "Vintage Travel Postcard",
       "tags": ["postcard", "vintage", "travel"],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p13.jpeg",
       "prompt": "1970s vintage travel postcard featuring [CITY_NAME]: bold header text \"[GREETING_TEXT]\", incorporating the scenery from [IMAGE_REFERENCE], distressed paper texture, vibrant retro colors",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -101,6 +109,7 @@
       "id": "p14",
       "title": "Fine Art Watercolor Portrait",
       "tags": ["watercolor", "fine-art", "portrait"],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p14.jpeg",
       "prompt": "Expressive fine art watercolor portrait of the subject in [IMAGE_REFERENCE]: delicate paint splatters, visible textured paper grain, soft color bleeding, elegant artistic brushstrokes --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
