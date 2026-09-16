@@ -5,7 +5,7 @@
       "id": "p1",
       "title": "Exploded View Diagram",
       "tags": ["product", "technical", "exploded-view"],
-      "imageUrl": "https://REPLACE_ME/prompts/p1-exploded-view.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p1-exploded-view.jpg",
       "prompt": "Exploded view diagram of the object in [IMAGE_REFERENCE]: floating disassembled internal components, technical schematic grid background, clear outer shell, studio lighting, hyper-detailed product photography",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -13,7 +13,7 @@
       "id": "p2",
       "title": "3D Pixar Character Transformation",
       "tags": ["3d", "pixar", "character"],
-      "imageUrl": "https://REPLACE_ME/prompts/p2-pixar-transformation.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p2-pixar-transformation.jpg",
       "prompt": "3D animated movie character transformation of the person in [IMAGE_REFERENCE]: Pixar style render, expressive eyes, soft studio lighting, detailed hair and fabric texture, warm vibrant colors --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -21,7 +21,7 @@
       "id": "p3",
       "title": "1980s Retro Film Portrait",
       "tags": ["retro", "film", "portrait"],
-      "imageUrl": "https://REPLACE_ME/prompts/p3-retro-film-portrait.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p3-retro-film-portrait.jpg",
       "prompt": "1980s retro analog film portrait of the person in [IMAGE_REFERENCE]: direct camera flash, visible film grain, muted warm color palette, authentic vintage snapshot aesthetic --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -29,7 +29,7 @@
       "id": "p4",
       "title": "Epic Movie Poster",
       "tags": ["movie-poster", "cinematic", "action"],
-      "imageUrl": "https://REPLACE_ME/prompts/p4-movie-poster.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p4-movie-poster.jpg",
       "prompt": "Epic movie poster titled \"[MOVIE_TITLE]\" featuring the person from [IMAGE_REFERENCE]: tagline \"[YOUR_TAGLINE]\" at the bottom, wearing high-tech composite armor with glowing power core, dramatic rim lighting, particle smoke and embers in background, photorealistic --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -37,7 +37,7 @@
       "id": "p5",
       "title": "GTA V Loading Screen",
       "tags": ["game", "gta", "poster"],
-      "imageUrl": "https://REPLACE_ME/prompts/p5-gta-loading-screen.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p5-gta-loading-screen.jpg",
       "prompt": "GTA V loading screen style illustration featuring the person from [IMAGE_REFERENCE]: bold game title text \"[GAME_TITLE]\" in the bottom corner, sunset gradient backdrop, high-contrast vector shading",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
