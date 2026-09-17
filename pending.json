@@ -32,6 +32,17 @@
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/e8efb192-4c91-4443-9f62-f8c367f29962.jpg",
       "prompt": "Prompt 3",
       "createdAt": "2026-09-17T13:38:42.291Z"
+    },
+    {
+      "id": "71da0755-9536-4ae6-bc38-66891d824835",
+      "title": "Titre 4",
+      "category": "Pencil Sketch",
+      "tags": [
+        "tags 4"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/3a1f4553-6cb0-4e11-871a-bdac379fcfd6.jpg",
+      "prompt": "Prompt 4",
+      "createdAt": "2026-09-17T13:39:31.246Z"
     }
   ]
 }
