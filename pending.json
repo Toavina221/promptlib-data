@@ -1,17 +1,6 @@
 {
   "pending": [
     {
-      "id": "15912e1d-00e1-4114-9c58-2604261cd0b5",
-      "title": "Test1",
-      "category": "Pencil Sketch",
-      "tags": [
-        "tags 1"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/91f43a90-4566-461f-a3e7-6bba55ee809b.jpg",
-      "prompt": "Prompt 1",
-      "createdAt": "2026-09-17T13:37:15.321Z"
-    },
-    {
       "id": "b684d707-3560-45ac-9c30-4dc8240ebb0c",
       "title": "Titre 2",
       "category": "Anime",
