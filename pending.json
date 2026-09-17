@@ -10,6 +10,17 @@
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/91f43a90-4566-461f-a3e7-6bba55ee809b.jpg",
       "prompt": "Prompt 1",
       "createdAt": "2026-09-17T13:37:15.321Z"
+    },
+    {
+      "id": "b684d707-3560-45ac-9c30-4dc8240ebb0c",
+      "title": "Titre 2",
+      "category": "Anime",
+      "tags": [
+        "tags 2"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/90078849-f8fa-4912-b586-ad180d83aadb.jpg",
+      "prompt": "Prompt 2",
+      "createdAt": "2026-09-17T13:38:09.113Z"
     }
   ]
 }
