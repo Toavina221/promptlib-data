@@ -2,6 +2,17 @@
   "adminPin": "3579",
   "prompts": [
     {
+      "id": "ee606f42-2e28-4a23-ac39-cf15c34f0bf4",
+      "title": "Title test",
+      "category": "Custom Test",
+      "tags": [
+        "tags test"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/19d473dc-67f1-412f-b24b-ef7a2b190cdf.jpg",
+      "prompt": "Prompt test",
+      "createdAt": "2026-09-18T19:04:43.958Z"
+    },
+    {
       "id": "15912e1d-00e1-4114-9c58-2604261cd0b5",
       "title": "Test1",
       "category": "Pencil Sketch",
