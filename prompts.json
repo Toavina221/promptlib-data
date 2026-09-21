@@ -180,8 +180,45 @@
         "album-cover",
         "retro"
       ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p15.jpeg",
       "prompt": "Synthwave music album cover featuring the person from [IMAGE_REFERENCE]: album title \"[ALBUM_TITLE]\" in glowing neon font, artist name \"[ARTIST_NAME]\" at top, wireframe grid landscape, retro 80s aesthetic",
       "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "p16",
+      "title": "Paparazzi Candid",
+      "tags": [
+        "paparazzi",
+        "candid",
+        "photo"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/Gemini_Generated_Image_ba3hwgba3hwgba3h.jpg",
+      "prompt": "Paparazzi-style candid photo of the person in [IMAGE_REFERENCE]: surprised on a busy city street, harsh on-camera flash, high contrast, motion blur in the background, grainy tabloid aesthetic, slightly tilted composition, caught-off-guard expression --cref [IMAGE_REFERENCE]",
+      "createdAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "p17",
+      "title": "Expressive Caricature",
+      "tags": [
+        "caricature",
+        "pixar",
+        "cartoon"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/Gemini_Generated_Image_2ctosy2ctosy2cto.jpg",
+      "prompt": "Expressive caricature of the person in [IMAGE_REFERENCE] in Pixar style, unreal charming seemingly mischievous irritated expression, portrait, cartoon art style trending on artstation, sharp focus, studio photo, intricate details, highly detailed, by Greg Rutkowski --cref [IMAGE_REFERENCE]",
+      "createdAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "p18",
+      "title": "Warm Family Portrait",
+      "tags": [
+        "family",
+        "portrait",
+        "lifestyle"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/Gemini_Generated_Image_lb0qwlb0qwlb0qwl (1).jpg",
+      "prompt": "Warm family portrait of the people in [IMAGE_REFERENCE]: multi-generation group, natural relaxed poses, soft outdoor lighting, cozy home or park setting, genuine smiles, lifestyle photography --cref [IMAGE_REFERENCE]",
+      "createdAt": "2026-09-21T00:00:00.000Z"
     }
   ]
-}
+}s
