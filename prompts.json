@@ -9,7 +9,7 @@
         "technical",
         "exploded-view"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p1-exploded-view.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p1-exploded-view.jpg",
       "prompt": "Exploded view diagram of the object in [IMAGE_REFERENCE]: floating disassembled internal components, technical schematic grid background, clear outer shell, studio lighting, hyper-detailed product photography",
       "createdAt": "2026-01-01T00:00:00.000Z",
       "locked": true
@@ -22,7 +22,7 @@
         "pixar",
         "character"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p2-pixar-transformation.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p2-pixar-transformation.jpg",
       "prompt": "3D animated movie character transformation of the person in [IMAGE_REFERENCE]: Pixar style render, expressive eyes, soft studio lighting, detailed hair and fabric texture, warm vibrant colors --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z",
       "locked": true
@@ -35,7 +35,7 @@
         "film",
         "portrait"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p3-retro-film-portrait.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p3-retro-film-portrait.jpg",
       "prompt": "1980s retro analog film portrait of the person in [IMAGE_REFERENCE]: direct camera flash, visible film grain, muted warm color palette, authentic vintage snapshot aesthetic --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -47,7 +47,7 @@
         "cinematic",
         "action"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p4-movie-poster.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p4-movie-poster.jpg",
       "prompt": "Epic movie poster titled \"[MOVIE_TITLE]\" featuring the person from [IMAGE_REFERENCE]: tagline \"[YOUR_TAGLINE]\" at the bottom, wearing high-tech composite armor with glowing power core, dramatic rim lighting, particle smoke and embers in background, photorealistic --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -59,7 +59,7 @@
         "gta",
         "poster"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p5-gta-loading-screen.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p5-gta-loading-screen.jpg",
       "prompt": "GTA V loading screen style illustration featuring the person from [IMAGE_REFERENCE]: bold game title text \"[GAME_TITLE]\" in the bottom corner, sunset gradient backdrop, high-contrast vector shading",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -71,7 +71,7 @@
         "fashion",
         "editorial"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p6.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p6.jpeg",
       "prompt": "Fashion magazine cover featuring the person in [IMAGE_REFERENCE]: bold title \"[MAGAZINE_TITLE]\" at top, main headline \"[MAIN_HEADLINE]\", high-fashion editorial portrait, soft box studio lighting, sleek typography --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -83,7 +83,7 @@
         "neon",
         "character"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p7.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p7.jpeg",
       "prompt": "Cyberpunk character transformation of the person in [IMAGE_REFERENCE]: wearing glowing neon glasses, rain-slicked city reflections, holographic tattoos, high-tech leather jacket, cinematic volumetric lighting, photorealistic --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -95,7 +95,7 @@
         "headshot",
         "professional"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p8.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p8.jpeg",
       "prompt": "Professional corporate executive headshot of the person in [IMAGE_REFERENCE]: wearing a navy blue tailored blazer, soft diffused softbox lighting, clean blurred office backdrop, 85mm portrait lens --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z",
       "locked": true
@@ -108,7 +108,7 @@
         "ghibli",
         "watercolor"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p9.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p9.jpeg",
       "prompt": "Hand-drawn Studio Ghibli style anime portrait of the person in [IMAGE_REFERENCE]: soft watercolor textures, warm golden hour lighting, gentle breeze in hair, nostalgic 90s cel-animated aesthetic --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -120,7 +120,7 @@
         "action-figure",
         "collectible"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p10.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p10.jpeg",
       "prompt": "Collectible plastic action figure of [CHARACTER_NAME] based on [IMAGE_REFERENCE]: packaged inside a blister card labeled \"[SERIES_NAME]\", retro toy store product shot, glossy plastic cover, studio lighting",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -132,7 +132,7 @@
         "painting",
         "classical"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p11.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p11.jpeg",
       "prompt": "Classical Renaissance oil painting portrait of the person from [IMAGE_REFERENCE]: dressed in 16th-century royal velvet garments, chiaroscuro Rembrandt lighting, visible canvas texture, dark moody backdrop --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -144,7 +144,7 @@
         "cosmetics",
         "luxury"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p12.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p12.jpeg",
       "prompt": "Minimalist luxury cosmetics packaging mockup for \"[PRODUCT_NAME]\": brand name \"[BRAND_NAME]\" embossed in gold lettering, featuring the design from [IMAGE_REFERENCE], frosted glass bottle, studio lighting",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -156,7 +156,7 @@
         "vintage",
         "travel"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p13.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p13.jpeg",
       "prompt": "1970s vintage travel postcard featuring [CITY_NAME]: bold header text \"[GREETING_TEXT]\", incorporating the scenery from [IMAGE_REFERENCE], distressed paper texture, vibrant retro colors",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
@@ -168,7 +168,7 @@
         "fine-art",
         "portrait"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/p14.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p14.jpeg",
       "prompt": "Expressive fine art watercolor portrait of the subject in [IMAGE_REFERENCE]: delicate paint splatters, visible textured paper grain, soft color bleeding, elegant artistic brushstrokes --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
