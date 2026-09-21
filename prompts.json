@@ -201,18 +201,6 @@
       ],
       "prompt": "Synthwave music album cover featuring the person from [IMAGE_REFERENCE]: album title \"[ALBUM_TITLE]\" in glowing neon font, artist name \"[ARTIST_NAME]\" at top, wireframe grid landscape, retro 80s aesthetic",
       "createdAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "cb3fb69c-3955-464c-a3b7-0e7914caa64b",
-      "title": "ZZ TEMP - delete me",
-      "category": "Other",
-      "tags": [
-        "temp"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/aecf5724-528a-4a0d-ad31-a8413e2f6025.jpg",
-      "prompt": "Temporary entry created to test Manage Prompts. Safe to delete.",
-      "createdAt": "2026-09-21T08:45:12.968Z",
-      "locked": true
     }
   ]
 }
