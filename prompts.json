@@ -212,7 +212,7 @@
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/aecf5724-528a-4a0d-ad31-a8413e2f6025.jpg",
       "prompt": "Temporary entry created to test Manage Prompts. Safe to delete.",
       "createdAt": "2026-09-21T08:45:12.968Z",
-      "locked": false
+      "locked": true
     }
   ]
 }
