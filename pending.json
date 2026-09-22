@@ -13,18 +13,6 @@
       "locked": false
     },
     {
-      "id": "0a1ec6c8-b023-40a3-94d4-7d7de876aaa8",
-      "title": "Industrial Exploded View",
-      "category": "3D",
-      "tags": [
-        "industrial"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/b1472d30-3b64-4e81-858a-a2ee039cfe62.jpg",
-      "prompt": "Create an industrial exploded view of the object. Display all internal and external parts separated with precision, including screws, gears, and connectors. Use a workshop-style environment, warm industrial lighting, and a detailed realistic 3D render.",
-      "createdAt": "2026-09-22T16:19:57.705Z",
-      "locked": false
-    },
-    {
       "id": "97d5d6a7-b927-4cc0-909c-c22f38537ef3",
       "title": "Futuristic Exploded View",
       "category": "3D",
