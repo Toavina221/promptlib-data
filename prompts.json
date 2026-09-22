@@ -2,6 +2,16 @@
   "adminPin": "3579",
   "prompts": [
     {
+      "id": "4b25ba64-ab03-4e88-bddc-969cd0d672ca",
+      "title": "Cinematic Exploded View",
+      "category": "3D",
+      "tags": [],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/1ca4c267-aadc-46f8-963f-c36187949f7e.jpg",
+      "prompt": "Create a cinematic exploded view of the object in the attached image. Separate each component and let them float elegantly in space with dynamic angles. Use dramatic lighting, a dark background with subtle rim light, and a highly polished 3D render style with reflections and depth.",
+      "createdAt": "2026-09-22T16:08:11.969Z",
+      "locked": false
+    },
+    {
       "id": "9f852e74-ab82-4e62-8be2-b37a3de18dcb",
       "title": "Product Design Exploded View",
       "category": "3D",
