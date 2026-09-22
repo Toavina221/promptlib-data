@@ -2,6 +2,16 @@
   "adminPin": "3579",
   "prompts": [
     {
+      "id": "9f852e74-ab82-4e62-8be2-b37a3de18dcb",
+      "title": "Product Design Exploded View",
+      "category": "3D",
+      "tags": [],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/9d9c437b-5a4c-49bc-9a78-31bfb7cdb636.jpg",
+      "prompt": "Create a product design exploded view of the object. Show every part disassembled and suspended in mid-air, with clean lines and a minimal aesthetic. Use bright even lighting, a white studio background, and a sleek modern 3D render style.",
+      "createdAt": "2026-09-22T16:12:14.610Z",
+      "locked": false
+    },
+    {
       "id": "p1",
       "title": "Exploded View Diagram",
       "tags": [
