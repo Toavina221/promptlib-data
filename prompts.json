@@ -52,18 +52,6 @@
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
     {
-      "id": "p6",
-      "title": "Fashion Magazine Cover",
-      "tags": [
-        "magazine",
-        "fashion",
-        "editorial"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p6.jpeg",
-      "prompt": "Fashion magazine cover featuring the person in the photo: bold title \"[MAGAZINE_TITLE]\" at top, main headline \"[MAIN_HEADLINE]\", high-fashion editorial portrait, soft box studio lighting, sleek typography",
-      "createdAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
       "id": "p7",
       "title": "Cyberpunk Character Transformation",
       "tags": [
