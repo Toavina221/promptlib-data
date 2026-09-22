@@ -28,18 +28,6 @@
       "locked": false
     },
     {
-      "id": "p3",
-      "title": "1980s Retro Film Portrait",
-      "tags": [
-        "retro",
-        "film",
-        "portrait"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p3-retro-film-portrait.jpg",
-      "prompt": "1980s retro analog film portrait of the person in the photo: direct camera flash, visible film grain, muted warm color palette, authentic vintage snapshot aesthetic",
-      "createdAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
       "id": "p4",
       "title": "Epic Movie Poster",
       "tags": [
