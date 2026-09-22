@@ -2,6 +2,18 @@
   "adminPin": "3579",
   "prompts": [
     {
+      "id": "97d5d6a7-b927-4cc0-909c-c22f38537ef3",
+      "title": "Futuristic Exploded View",
+      "category": "3D",
+      "tags": [
+        "Futuristic"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/f9aa215f-cc25-4d9c-a46a-252ad30703ae.jpg",
+      "prompt": "Create a futuristic exploded view of the object. Separate all components and let them hover with glowing edges and holographic accents. Use a sci-fi environment, neon blue and orange lighting, a dark tech background, and a high-detail 3D render style.",
+      "createdAt": "2026-09-22T16:26:27.591Z",
+      "locked": false
+    },
+    {
       "id": "0a1ec6c8-b023-40a3-94d4-7d7de876aaa8",
       "title": "Industrial Exploded View",
       "category": "3D",
