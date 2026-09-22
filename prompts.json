@@ -25,7 +25,7 @@
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p2-pixar-transformation.jpg",
       "prompt": "3D animated movie character transformation of the person in [IMAGE_REFERENCE]: Pixar style render, expressive eyes, soft studio lighting, detailed hair and fabric texture, warm vibrant colors --cref [IMAGE_REFERENCE]",
       "createdAt": "2026-01-01T00:00:00.000Z",
-      "locked": true
+      "locked": false
     },
     {
       "id": "p3",
