@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "a10f2778-5b9d-4180-bd35-9b90fe103c6f",
+      "title": "Jungle Warrior and Lioness",
+      "category": "Photographie",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Wildlife Photography",
+      "tags": [
+        "wildlife",
+        "fantasy"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/6265432b-0629-4305-afd8-83de65f2835b.jpg",
+      "prompt": "An athletic tanned woman (the person) with long curly hair standing on a mossy rock by a turquoise waterfall in a lush jungle, wearing a beige tribal wrapped top and rust-orange sarong with a leather belt and tribal jewelry, barefoot with leg wraps, standing next to a giant wet golden lioness that is much larger than her. Sunbeams through mist, water droplets on skin, powerful companionship, photorealistic, National Geographic style, ultra detailed.",
+      "createdAt": "2026-09-23T16:29:52.976Z",
+      "locked": false
+    },
+    {
       "id": "fcbd8091-f33e-4d14-a398-e05c7c94b356",
       "title": "Glitch Double Exposure Editorial",
       "category": "Photographie",
