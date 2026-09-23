@@ -406,7 +406,7 @@
     {
       "id": "S1O3B3",
       "title": "Flat Design Vector",
-      "category": "Illustration",
+      "category": "Illustration/Dessin",
       "tags": [
         "vector",
         "flat"
@@ -415,10 +415,9 @@
       "prompt": "Create a flat design vector illustration of the subject. Use simple geometric shapes, solid colors, no gradients, and a clean minimalist composition.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Illustration",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Illustration",
-      "signature": "Signature"
+      "subSection": "Flat Design Vector"
     },
     {
       "id": "S1O3B4",
