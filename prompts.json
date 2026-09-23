@@ -10,7 +10,7 @@
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/f9aa215f-cc25-4d9c-a46a-252ad30703ae.jpg",
       "prompt": "Create a futuristic exploded view of the object. Separate all components and let them hover with glowing edges and holographic accents. Use a sci-fi environment, neon blue and orange lighting, a dark tech background, and a high-detail 3D render style.",
       "createdAt": "2026-09-22T16:26:27.591Z",
-      "locked": false,
+      "locked": true,
       "famille": "Objets & Véhicules",
       "axis": "style",
       "subSection": "Exploded View",
