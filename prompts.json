@@ -374,7 +374,7 @@
     {
       "id": "S1O3B1",
       "title": "Anime / Manga",
-      "category": "Illustration",
+      "category": "Illustration/Dessin",
       "tags": [
         "anime",
         "manga"
@@ -383,10 +383,9 @@
       "prompt": "Create an anime-style illustration of the person. Use cel shading, expressive large eyes, dynamic hair, [COLOR_PALETTE: vibrant] colors, and a [STYLE: Japanese manga] aesthetic.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Illustration",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Illustration",
-      "signature": "Signature"
+      "subSection": "Anime / Manga"
     },
     {
       "id": "S1O3B2",
