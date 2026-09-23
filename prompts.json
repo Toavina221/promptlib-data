@@ -518,7 +518,7 @@
     {
       "id": "S1O4B4",
       "title": "Pop Art",
-      "category": "Peinture",
+      "category": "Peinture/Art classique",
       "tags": [
         "popart",
         "warhol"
@@ -527,10 +527,9 @@
       "prompt": "Create a Pop Art portrait of the person. Use bold flat colors, thick black outlines, halftone dots, and a Warhol-inspired repeating grid.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Peinture",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Peinture",
-      "signature": "Signature"
+      "subSection": "Pop Art"
     },
     {
       "id": "S1O4B5",
