@@ -438,7 +438,7 @@
     {
       "id": "S1O3B6",
       "title": "Line Art Minimalist",
-      "category": "Illustration",
+      "category": "Illustration/Dessin",
       "tags": [
         "lineart",
         "minimal"
@@ -447,10 +447,9 @@
       "prompt": "Create a minimalist line art illustration of the person. Use clean single-weight black lines, a white background, and no shading or color.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Illustration",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Illustration",
-      "signature": "Signature"
+      "subSection": "Line Art Minimalist"
     },
     {
       "id": "S1O3B7",
