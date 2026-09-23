@@ -550,7 +550,7 @@
     {
       "id": "S1O4B7",
       "title": "Cubisme",
-      "category": "Peinture",
+      "category": "Peinture/Art classique",
       "tags": [
         "cubisme",
         "géométrique"
@@ -559,10 +559,9 @@
       "prompt": "Create a Cubist portrait of the person. Use fragmented geometric shapes, multiple perspectives, muted colors, and a Picasso-inspired composition.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Peinture",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Peinture",
-      "signature": "Signature"
+      "subSection": "Cubisme"
     },
     {
       "id": "S1O6B1",
