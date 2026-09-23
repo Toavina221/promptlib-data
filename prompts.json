@@ -267,13 +267,16 @@
       "title": "Realistic Soldier Portrait",
       "tags": [
         "military",
-        "soldier",
-        "portrait"
+        "soldier"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/Gemini_Generated_Image_7lvn257lvn257lvn.jfif",
       "prompt": "Create a realistic portrait of a soldier in full infantry combat gear. Use a gritty battlefield environment, dusty air, dramatic lighting, and a determined expression.",
       "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false
+      "locked": false,
+      "category": "Other",
+      "famille": "Sport & Militaire",
+      "axis": "famille",
+      "subSection": "Soldat d'infanterie"
     },
     {
       "id": "S1O2B1",
