@@ -598,7 +598,7 @@
     {
       "id": "S1O6B6",
       "title": "Skate Photography",
-      "category": "Urban",
+      "category": "Urban/Street",
       "tags": [
         "skate",
         "action"
@@ -607,10 +607,9 @@
       "prompt": "Create a dynamic skateboarding action photo. Use a low angle, motion blur, bright daylight, and an urban skatepark background.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Urban",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Urban",
-      "signature": "Signature"
+      "subSection": "Skate Photography"
     },
     {
       "id": "S1O6B8",
