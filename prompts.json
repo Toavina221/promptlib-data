@@ -454,7 +454,7 @@
     {
       "id": "S1O3B7",
       "title": "Concept Art",
-      "category": "Illustration",
+      "category": "Illustration/Dessin",
       "tags": [
         "concept",
         "art"
@@ -463,10 +463,9 @@
       "prompt": "Create a professional concept art piece of the subject. Use a cinematic composition, dramatic lighting, rich environmental details, and a digital painting style.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Illustration",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Illustration",
-      "signature": "Signature"
+      "subSection": "Concept Art"
     },
     {
       "id": "S1O3B8",
