@@ -228,12 +228,15 @@
       "title": "Paparazzi Candid",
       "tags": [
         "paparazzi",
-        "candid",
-        "photo"
+        "candid"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/Gemini_Generated_Image_ba3hwgba3hwgba3h.jpg",
       "prompt": "Paparazzi-style candid photo of the person in the photo: surprised on a busy city street, harsh on-camera flash, high contrast, motion blur in the background, grainy tabloid aesthetic, slightly tilted composition, caught-off-guard expression",
-      "createdAt": "2026-09-21T00:00:00.000Z"
+      "createdAt": "2026-09-21T00:00:00.000Z",
+      "category": "Photographie",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Paparazzi Candid"
     },
     {
       "id": "p17",
