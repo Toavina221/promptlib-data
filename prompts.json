@@ -470,7 +470,7 @@
     {
       "id": "S1O3B8",
       "title": "Cyanotype / Blueprint",
-      "category": "Illustration",
+      "category": "Illustration/Dessin",
       "tags": [
         "cyanotype",
         "blueprint"
@@ -479,10 +479,9 @@
       "prompt": "Create a cyanotype blueprint illustration of the object. Use white line drawings on a deep blue background, technical annotations, and a vintage engineering aesthetic.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Illustration",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Illustration",
-      "signature": "Signature"
+      "subSection": "Cyanotype / Blueprint"
     },
     {
       "id": "S1O4B1",
