@@ -31,6 +31,22 @@
       "prompt": "A sophisticated surreal double-exposure poster of the person in side profile, facing right, with their eyes gently closed. The subject's hair and body seamlessly transform into a breathtaking autumn landscape. A magnificent golden-orange tree grows from their head, with dense fiery red, amber, copper, and burnt-orange foliage. Inside their head, blend a glowing sunset city skyline with modern skyscrapers, warm sunlight, and atmospheric depth. Include a peaceful urban park with wooden benches, a winding wooden pathway, and scattered autumn leaves. The pathway flows naturally from the subject's face through their neck and torso. Use a warm ivory parchment-textured background with generous negative space. Style the artwork as premium conceptual photography combined with hyper-realistic digital art, cinematic lighting, photorealistic facial details, intricate hair strands, volumetric sunlight, subtle film grain, and a sophisticated editorial magazine aesthetic. Use a [COLOR_PALETTE: amber and orange] color palette, vertical 4:5 composition, ultra-detailed, high resolution.",
       "createdAt": "2026-09-23T16:23:15.590Z",
       "locked": false
+    },
+    {
+      "id": "fcbd8091-f33e-4d14-a398-e05c7c94b356",
+      "title": "Glitch Double Exposure Editorial",
+      "category": "Photographie",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Fashion Editorial",
+      "tags": [
+        "glitch",
+        "editorial"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/05401a19-ebea-4611-8e44-1d3ca6947bdd.jpg",
+      "prompt": "A double-exposure, long-exposure editorial photograph of the person in a brown hooded utility jacket with sharp facial features and curly blonde hair. Apply a digital glitch distortion effect with chromatic aberration (cyan and magenta color fringing), horizontal scan lines, and pixel sorting across the motion trails. Clean white backdrop, cinematic lighting, 35mm lens, high resolution, muted natural colors with tech-inspired digital artifacts.",
+      "createdAt": "2026-09-23T16:26:45.490Z",
+      "locked": false
     }
   ]
 }
