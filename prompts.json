@@ -422,7 +422,7 @@
     {
       "id": "S1O3B4",
       "title": "Comic / BD",
-      "category": "Illustration",
+      "category": "Illustration/Dessin",
       "tags": [
         "comic",
         "bd"
@@ -431,10 +431,9 @@
       "prompt": "Create a comic book style illustration of the person. Use bold black outlines, halftone dot shading, vivid primary colors, and a dynamic action pose.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Illustration",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Illustration",
-      "signature": "Signature"
+      "subSection": "Comic / BD"
     },
     {
       "id": "S1O3B6",
