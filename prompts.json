@@ -582,7 +582,7 @@
     {
       "id": "S1O6B3",
       "title": "Urban Tag",
-      "category": "Urban",
+      "category": "Urban/Street",
       "tags": [
         "tag",
         "graffiti"
@@ -591,10 +591,9 @@
       "prompt": "Create an urban graffiti tag on a subway train. Use bold marker strokes, quick spray paint lines, and a raw street style.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Urban",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Urban",
-      "signature": "Signature"
+      "subSection": "Urban Tag"
     },
     {
       "id": "S1O6B6",
