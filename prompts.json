@@ -630,7 +630,7 @@
     {
       "id": "S2O1B1",
       "title": "Portrait Solo",
-      "category": "Portrait",
+      "category": "Other",
       "tags": [
         "personne",
         "visage"
@@ -639,10 +639,9 @@
       "prompt": "Create a professional studio portrait of the person. Use [LIGHTING_STYLE: soft diffused] lighting, a [BACKGROUND_STYLE: clean neutral] background, and a sharp focus on the face with a natural expression.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Portrait",
+      "famille": "Personnes & Vie",
       "axis": "famille",
-      "subSection": "Portrait",
-      "signature": "Signature"
+      "subSection": "Portrait Solo"
     },
     {
       "id": "S2O1B2",
