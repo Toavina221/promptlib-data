@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "b9bd1026-3a2b-4cba-90ba-18139e9161f9",
+      "title": "Title trst",
+      "category": "3D/CGI",
+      "tags": [
+        "tags test"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/be33d666-3afa-4087-ba8c-f99fc52e954e.jpg",
+      "prompt": "Prompt test modifier avec github",
+      "createdAt": "2026-09-22T06:19:42.462Z",
+      "locked": false,
+      "famille": "Personnes & Vie",
+      "axis": "style",
+      "subSection": "3D Pixar Character Transformation",
+      "signature": "Test signature"
+    },
+    {
       "id": "97d5d6a7-b927-4cc0-909c-c22f38537ef3",
       "title": "Futuristic Exploded View",
       "category": "3D/CGI",
