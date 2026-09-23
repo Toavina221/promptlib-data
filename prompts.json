@@ -726,7 +726,7 @@
     {
       "id": "S2O1B7",
       "title": "Bébé / Naissance",
-      "category": "Portrait",
+      "category": "Other",
       "tags": [
         "bébé",
         "naissance"
@@ -735,10 +735,9 @@
       "prompt": "Create a tender newborn portrait. Use soft [COLOR_PALETTE: pastel] colors, gentle natural light, a cozy blanket, and a peaceful sleeping expression.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Portrait",
+      "famille": "Personnes & Vie",
       "axis": "famille",
-      "subSection": "Portrait",
-      "signature": "Signature"
+      "subSection": "Bébé / Naissance"
     },
     {
       "id": "S2O1B8",
