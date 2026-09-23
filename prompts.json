@@ -271,10 +271,9 @@
       "prompt": "Create a professional corporate headshot of the person. Dress them in a [OUTFIT_COLOR: navy blue] tailored blazer, use [LIGHTING_STYLE: soft diffused softbox] lighting, a clean blurred office backdrop, and an 85mm portrait lens look.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Photographie",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Photographie",
-      "signature": "Signature"
+      "subSection": "Corporate Headshot"
     },
     {
       "id": "S1O2B2",
