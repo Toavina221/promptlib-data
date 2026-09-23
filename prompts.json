@@ -502,7 +502,7 @@
     {
       "id": "S1O4B2",
       "title": "Baroque Painting",
-      "category": "Peinture",
+      "category": "Peinture/Art classique",
       "tags": [
         "baroque",
         "classique"
@@ -511,10 +511,9 @@
       "prompt": "Create a Baroque-style painting of the scene. Use dramatic light and shadow, rich [COLOR_PALETTE: gold and red] tones, dynamic composition, and ornate details.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Peinture",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Peinture",
-      "signature": "Signature"
+      "subSection": "Baroque Painting"
     },
     {
       "id": "S1O4B4",
