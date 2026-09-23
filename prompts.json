@@ -566,7 +566,7 @@
     {
       "id": "S1O6B1",
       "title": "Graffiti Mural",
-      "category": "Urban",
+      "category": "Urban/Street",
       "tags": [
         "graffiti",
         "mural"
@@ -575,10 +575,9 @@
       "prompt": "Create a large graffiti mural on a city wall. Use bold spray paint colors, dynamic lettering, urban decay textures, and a gritty street atmosphere.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Urban",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Urban",
-      "signature": "Signature"
+      "subSection": "Graffiti Mural"
     },
     {
       "id": "S1O6B3",
