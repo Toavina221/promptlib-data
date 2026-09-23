@@ -662,7 +662,7 @@
     {
       "id": "S2O1B3",
       "title": "Famille",
-      "category": "Portrait",
+      "category": "Other",
       "tags": [
         "famille",
         "groupe"
@@ -671,10 +671,9 @@
       "prompt": "Create a warm family portrait. Show multiple generations in natural relaxed poses, use soft outdoor lighting, a [SETTING: cozy home or park] setting, and genuine smiles.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Portrait",
+      "famille": "Personnes & Vie",
       "axis": "famille",
-      "subSection": "Portrait",
-      "signature": "Signature"
+      "subSection": "Famille"
     },
     {
       "id": "S2O1B4",
