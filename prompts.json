@@ -239,18 +239,6 @@
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
     {
-      "id": "p13",
-      "title": "Vintage Travel Postcard",
-      "tags": [
-        "postcard",
-        "vintage",
-        "travel"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p13.jpeg",
-      "prompt": "1970s vintage travel postcard featuring [CITY_NAME]: bold header text \"[GREETING_TEXT]\", incorporating the scenery shown in the photo, distressed paper texture, vibrant retro colors",
-      "createdAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
       "id": "p14",
       "title": "Fine Art Watercolor Portrait",
       "tags": [
