@@ -258,6 +258,533 @@
       "prompt": "Create a realistic portrait of a soldier in full infantry combat gear. Use a gritty battlefield environment, dusty air, dramatic lighting, and a determined expression.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false
+    },
+    {
+      "id": "S1O2B1",
+      "title": "Corporate Headshot",
+      "category": "Photographie",
+      "tags": [
+        "corporate",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B1.jpg",
+      "prompt": "Create a professional corporate headshot of the person. Dress them in a [OUTFIT_COLOR: navy blue] tailored blazer, use [LIGHTING_STYLE: soft diffused softbox] lighting, a clean blurred office backdrop, and an 85mm portrait lens look.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Photographie",
+      "axis": "style",
+      "subSection": "Photographie",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O2B2",
+      "title": "Fashion Editorial",
+      "category": "Photographie",
+      "tags": [
+        "mode",
+        "éditorial"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B2.jpg",
+      "prompt": "Create a high fashion editorial photo of the person. Use avant-garde designer clothing, [LIGHTING_STYLE: dramatic studio] lighting, a minimalist background, and a strong confident pose.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Photographie",
+      "axis": "style",
+      "subSection": "Photographie",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O2B3",
+      "title": "Product Photography",
+      "category": "Photographie",
+      "tags": [
+        "produit",
+        "commercial"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B3.jpg",
+      "prompt": "Create a professional product photography shot of the object. Use a clean seamless background, soft studio lighting, subtle reflections, and sharp focus on every detail.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Photographie",
+      "axis": "style",
+      "subSection": "Photographie",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O2B5",
+      "title": "Cinematic Portrait",
+      "category": "Photographie",
+      "tags": [
+        "cinématique",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B5.jpg",
+      "prompt": "Create a cinematic portrait of the person. Use [LIGHTING_STYLE: dramatic side] lighting, a [MOOD: dark moody] background, a shallow depth of field, and a strong film-like color grade.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Photographie",
+      "axis": "style",
+      "subSection": "Photographie",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O2B6",
+      "title": "Macro Photography",
+      "category": "Photographie",
+      "tags": [
+        "macro",
+        "détail"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B6.jpg",
+      "prompt": "Create a macro photography shot of the subject. Use extreme close-up framing, a very shallow depth of field, soft natural lighting, and highly detailed textures.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Photographie",
+      "axis": "style",
+      "subSection": "Photographie",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O2B7",
+      "title": "Wildlife Photography",
+      "category": "Photographie",
+      "tags": [
+        "animal",
+        "sauvage"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B7.jpg",
+      "prompt": "Create a wildlife photography shot of the animal. Use a telephoto lens look, [LIGHTING_STYLE: golden hour] lighting, a blurred [BACKGROUND: savanna] background, and sharp focus on the eyes.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Photographie",
+      "axis": "style",
+      "subSection": "Photographie",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O2B8",
+      "title": "Paparazzi Candid",
+      "category": "Photographie",
+      "tags": [
+        "paparazzi",
+        "candid"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B8.jpg",
+      "prompt": "Create a paparazzi-style candid photo of the person. Use a harsh on-camera flash, high contrast, motion blur in the background, and a grainy tabloid aesthetic.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Photographie",
+      "axis": "style",
+      "subSection": "Photographie",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O3B1",
+      "title": "Anime / Manga",
+      "category": "Illustration",
+      "tags": [
+        "anime",
+        "manga"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B1.jpg",
+      "prompt": "Create an anime-style illustration of the person. Use cel shading, expressive large eyes, dynamic hair, [COLOR_PALETTE: vibrant] colors, and a [STYLE: Japanese manga] aesthetic.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Illustration",
+      "axis": "style",
+      "subSection": "Illustration",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O3B2",
+      "title": "Digital Painting",
+      "category": "Illustration",
+      "tags": [
+        "digital",
+        "painting"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B2.jpg",
+      "prompt": "Create a digital painting of the subject. Use visible brushstrokes, rich colors, dramatic lighting, and a [STYLE: fantasy concept art] style.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Illustration",
+      "axis": "style",
+      "subSection": "Illustration",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O3B3",
+      "title": "Flat Design Vector",
+      "category": "Illustration",
+      "tags": [
+        "vector",
+        "flat"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B3.jpg",
+      "prompt": "Create a flat design vector illustration of the subject. Use simple geometric shapes, solid colors, no gradients, and a clean minimalist composition.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Illustration",
+      "axis": "style",
+      "subSection": "Illustration",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O3B4",
+      "title": "Comic / BD",
+      "category": "Illustration",
+      "tags": [
+        "comic",
+        "bd"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B4.jpg",
+      "prompt": "Create a comic book style illustration of the person. Use bold black outlines, halftone dot shading, vivid primary colors, and a dynamic action pose.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Illustration",
+      "axis": "style",
+      "subSection": "Illustration",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O3B6",
+      "title": "Line Art Minimalist",
+      "category": "Illustration",
+      "tags": [
+        "lineart",
+        "minimal"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B6.jpg",
+      "prompt": "Create a minimalist line art illustration of the person. Use clean single-weight black lines, a white background, and no shading or color.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Illustration",
+      "axis": "style",
+      "subSection": "Illustration",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O3B7",
+      "title": "Concept Art",
+      "category": "Illustration",
+      "tags": [
+        "concept",
+        "art"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B7.jpg",
+      "prompt": "Create a professional concept art piece of the subject. Use a cinematic composition, dramatic lighting, rich environmental details, and a digital painting style.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Illustration",
+      "axis": "style",
+      "subSection": "Illustration",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O3B8",
+      "title": "Cyanotype / Blueprint",
+      "category": "Illustration",
+      "tags": [
+        "cyanotype",
+        "blueprint"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B8.jpg",
+      "prompt": "Create a cyanotype blueprint illustration of the object. Use white line drawings on a deep blue background, technical annotations, and a vintage engineering aesthetic.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Illustration",
+      "axis": "style",
+      "subSection": "Illustration",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O4B1",
+      "title": "Renaissance Oil Portrait",
+      "category": "Peinture",
+      "tags": [
+        "renaissance",
+        "huile"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O4B1.jpg",
+      "prompt": "Create a Renaissance-style oil painting portrait of the person. Use chiaroscuro lighting, rich earthy tones, visible brushwork, and a dark classical background.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Peinture",
+      "axis": "style",
+      "subSection": "Peinture",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O4B2",
+      "title": "Baroque Painting",
+      "category": "Peinture",
+      "tags": [
+        "baroque",
+        "classique"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O4B2.jpg",
+      "prompt": "Create a Baroque-style painting of the scene. Use dramatic light and shadow, rich [COLOR_PALETTE: gold and red] tones, dynamic composition, and ornate details.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Peinture",
+      "axis": "style",
+      "subSection": "Peinture",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O4B4",
+      "title": "Pop Art",
+      "category": "Peinture",
+      "tags": [
+        "popart",
+        "warhol"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O4B4.jpg",
+      "prompt": "Create a Pop Art portrait of the person. Use bold flat colors, thick black outlines, halftone dots, and a Warhol-inspired repeating grid.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Peinture",
+      "axis": "style",
+      "subSection": "Peinture",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O4B5",
+      "title": "Art Nouveau",
+      "category": "Peinture",
+      "tags": [
+        "artnouveau",
+        "affiche"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O4B5.jpg",
+      "prompt": "Create an Art Nouveau style illustration of the person. Use flowing organic lines, floral ornaments, muted [COLOR_PALETTE: gold and green] tones, and a decorative poster composition.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Peinture",
+      "axis": "style",
+      "subSection": "Peinture",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O4B7",
+      "title": "Cubisme",
+      "category": "Peinture",
+      "tags": [
+        "cubisme",
+        "géométrique"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O4B7.jpg",
+      "prompt": "Create a Cubist portrait of the person. Use fragmented geometric shapes, multiple perspectives, muted colors, and a Picasso-inspired composition.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Peinture",
+      "axis": "style",
+      "subSection": "Peinture",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O6B1",
+      "title": "Graffiti Mural",
+      "category": "Urban",
+      "tags": [
+        "graffiti",
+        "mural"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O6B1.jpg",
+      "prompt": "Create a large graffiti mural on a city wall. Use bold spray paint colors, dynamic lettering, urban decay textures, and a gritty street atmosphere.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Urban",
+      "axis": "style",
+      "subSection": "Urban",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O6B3",
+      "title": "Urban Tag",
+      "category": "Urban",
+      "tags": [
+        "tag",
+        "graffiti"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O6B3.jpg",
+      "prompt": "Create an urban graffiti tag on a subway train. Use bold marker strokes, quick spray paint lines, and a raw street style.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Urban",
+      "axis": "style",
+      "subSection": "Urban",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O6B6",
+      "title": "Skate Photography",
+      "category": "Urban",
+      "tags": [
+        "skate",
+        "action"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O6B6.jpg",
+      "prompt": "Create a dynamic skateboarding action photo. Use a low angle, motion blur, bright daylight, and an urban skatepark background.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Urban",
+      "axis": "style",
+      "subSection": "Urban",
+      "signature": "Signature"
+    },
+    {
+      "id": "S1O6B8",
+      "title": "Neon City",
+      "category": "Urban",
+      "tags": [
+        "néon",
+        "nuit"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O6B8.jpg",
+      "prompt": "Create a neon-lit city street at night. Use glowing signs, wet reflective pavement, blurred traffic lights, and a [MOOD: cyberpunk] atmosphere.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Urban",
+      "axis": "style",
+      "subSection": "Urban",
+      "signature": "Signature"
+    },
+    {
+      "id": "S2O1B1",
+      "title": "Portrait Solo",
+      "category": "Portrait",
+      "tags": [
+        "personne",
+        "visage"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B1.jpg",
+      "prompt": "Create a professional studio portrait of the person. Use [LIGHTING_STYLE: soft diffused] lighting, a [BACKGROUND_STYLE: clean neutral] background, and a sharp focus on the face with a natural expression.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Portrait",
+      "axis": "famille",
+      "subSection": "Portrait",
+      "signature": "Signature"
+    },
+    {
+      "id": "S2O1B2",
+      "title": "Couple",
+      "category": "Portrait",
+      "tags": [
+        "couple",
+        "amour"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B2.jpg",
+      "prompt": "Create a romantic portrait of a couple. Position them close together with [LIGHTING_STYLE: warm golden hour] lighting, a soft blurred background, and a natural intimate pose.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Portrait",
+      "axis": "famille",
+      "subSection": "Portrait",
+      "signature": "Signature"
+    },
+    {
+      "id": "S2O1B3",
+      "title": "Famille",
+      "category": "Portrait",
+      "tags": [
+        "famille",
+        "groupe"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B3.jpg",
+      "prompt": "Create a warm family portrait. Show multiple generations in natural relaxed poses, use soft outdoor lighting, a [SETTING: cozy home or park] setting, and genuine smiles.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Portrait",
+      "axis": "famille",
+      "subSection": "Portrait",
+      "signature": "Signature"
+    },
+    {
+      "id": "S2O1B4",
+      "title": "Groupe / Équipe",
+      "category": "Portrait",
+      "tags": [
+        "équipe",
+        "groupe"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B4.jpg",
+      "prompt": "Create a professional group portrait. Arrange the team in coordinated poses, use a clean [SETTING: studio or office] background, balanced lighting, and a corporate aesthetic.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Portrait",
+      "axis": "famille",
+      "subSection": "Portrait",
+      "signature": "Signature"
+    },
+    {
+      "id": "S2O1B5",
+      "title": "Selfie / Lifestyle",
+      "category": "Portrait",
+      "tags": [
+        "selfie",
+        "lifestyle"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B5.jpg",
+      "prompt": "Create a casual lifestyle selfie of the person. Use a handheld selfie angle, natural daylight, a candid expression, and an [BACKGROUND: urban or travel] background.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Portrait",
+      "axis": "famille",
+      "subSection": "Portrait",
+      "signature": "Signature"
+    },
+    {
+      "id": "S2O1B6",
+      "title": "Mariage",
+      "category": "Portrait",
+      "tags": [
+        "mariage",
+        "couple"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B6.jpg",
+      "prompt": "Create an elegant wedding portrait of a couple. Use soft natural light, a romantic outdoor setting, formal attire, and a joyful emotional expression.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Portrait",
+      "axis": "famille",
+      "subSection": "Portrait",
+      "signature": "Signature"
+    },
+    {
+      "id": "S2O1B7",
+      "title": "Bébé / Naissance",
+      "category": "Portrait",
+      "tags": [
+        "bébé",
+        "naissance"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B7.jpg",
+      "prompt": "Create a tender newborn portrait. Use soft [COLOR_PALETTE: pastel] colors, gentle natural light, a cozy blanket, and a peaceful sleeping expression.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Portrait",
+      "axis": "famille",
+      "subSection": "Portrait",
+      "signature": "Signature"
+    },
+    {
+      "id": "S2O1B8",
+      "title": "Personne Âgée",
+      "category": "Portrait",
+      "tags": [
+        "senior",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B8.jpg",
+      "prompt": "Create a dignified portrait of an elderly person. Use warm natural light, a shallow depth of field, visible wrinkles and character, and a gentle wise expression.",
+      "createdAt": "2026-09-23T00:00:00.000Z",
+      "locked": false,
+      "famille": "Portrait",
+      "axis": "famille",
+      "subSection": "Portrait",
+      "signature": "Signature"
     }
   ]
 }
