@@ -614,7 +614,7 @@
     {
       "id": "S1O6B8",
       "title": "Neon City",
-      "category": "Urban",
+      "category": "Urban/Street",
       "tags": [
         "néon",
         "nuit"
@@ -623,10 +623,9 @@
       "prompt": "Create a neon-lit city street at night. Use glowing signs, wet reflective pavement, blurred traffic lights, and a [MOOD: cyberpunk] atmosphere.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Urban",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Urban",
-      "signature": "Signature"
+      "subSection": "Neon City"
     },
     {
       "id": "S2O1B1",
