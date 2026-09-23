@@ -742,7 +742,7 @@
     {
       "id": "S2O1B8",
       "title": "Personne Âgée",
-      "category": "Portrait",
+      "category": "Other",
       "tags": [
         "senior",
         "portrait"
@@ -751,10 +751,9 @@
       "prompt": "Create a dignified portrait of an elderly person. Use warm natural light, a shallow depth of field, visible wrinkles and character, and a gentle wise expression.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Portrait",
+      "famille": "Personnes & Vie",
       "axis": "famille",
-      "subSection": "Portrait",
-      "signature": "Signature"
+      "subSection": "Personne Âgée"
     }
   ]
 }
