@@ -26,7 +26,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/b1472d30-3b64-4e81-858a-a2ee039cfe62.jpg",
       "prompt": "Create an industrial exploded view of the object. Display all internal and external parts separated with precision, including screws, gears, and connectors. Use a workshop-style environment, warm industrial lighting, and a detailed realistic 3D render.",
       "createdAt": "2026-09-22T16:19:57.705Z",
-      "locked": false
+      "locked": false,
+      "famille": "Objets & Véhicules"
     },
     {
       "id": "4b25ba64-ab03-4e88-bddc-969cd0d672ca",
