@@ -390,7 +390,7 @@
     {
       "id": "S1O3B2",
       "title": "Digital Painting",
-      "category": "Illustration",
+      "category": "Illustration/Dessin",
       "tags": [
         "digital",
         "painting"
@@ -399,10 +399,9 @@
       "prompt": "Create a digital painting of the subject. Use visible brushstrokes, rich colors, dramatic lighting, and a [STYLE: fantasy concept art] style.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Illustration",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Illustration",
-      "signature": "Signature"
+      "subSection": "Digital Painting"
     },
     {
       "id": "S1O3B3",
