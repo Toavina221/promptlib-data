@@ -15,6 +15,22 @@
       "prompt": "A romantic double-exposure charcoal pencil sketch portrait of the person. Top: the woman with long wavy hair and a gentle smile behind a wet glass window pane covered in rain droplets, tracing a glowing heart shape on the foggy glass with her finger. Bottom: the handsome man with dark wavy wet hair standing outside in the rain, wearing a wet dark jacket, looking up with open arms, holding a vibrant bouquet of fresh red, pink, and peach roses. Mostly black and white graphite with selective coloring on the rose bouquet and subtle pink blush on the girl's cheeks. Emotional and dreamlike atmosphere, fine pencil textures, hyper-detailed, cinematic lighting.",
       "createdAt": "2026-09-23T16:18:07.075Z",
       "locked": false
+    },
+    {
+      "id": "429cede6-d9f5-406a-b244-427fc70d9d0b",
+      "title": "Surreal Autumn Cityscape Poster",
+      "category": "Typographie/Affiche",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Epic Movie Poster",
+      "tags": [
+        "cinema",
+        "poster"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/72a0713e-39db-45cd-bb79-d95eb3b4c380.jpg",
+      "prompt": "A sophisticated surreal double-exposure poster of the person in side profile, facing right, with their eyes gently closed. The subject's hair and body seamlessly transform into a breathtaking autumn landscape. A magnificent golden-orange tree grows from their head, with dense fiery red, amber, copper, and burnt-orange foliage. Inside their head, blend a glowing sunset city skyline with modern skyscrapers, warm sunlight, and atmospheric depth. Include a peaceful urban park with wooden benches, a winding wooden pathway, and scattered autumn leaves. The pathway flows naturally from the subject's face through their neck and torso. Use a warm ivory parchment-textured background with generous negative space. Style the artwork as premium conceptual photography combined with hyper-realistic digital art, cinematic lighting, photorealistic facial details, intricate hair strands, volumetric sunlight, subtle film grain, and a sophisticated editorial magazine aesthetic. Use a [COLOR_PALETTE: amber and orange] color palette, vertical 4:5 composition, ultra-detailed, high resolution.",
+      "createdAt": "2026-09-23T16:23:15.590Z",
+      "locked": false
     }
   ]
 }
