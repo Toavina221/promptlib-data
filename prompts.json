@@ -48,7 +48,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/9d9c437b-5a4c-49bc-9a78-31bfb7cdb636.jpg",
       "prompt": "Create a product design exploded view of the object. Show every part disassembled and suspended in mid-air, with clean lines and a minimal aesthetic. Use bright even lighting, a white studio background, and a sleek modern 3D render style.",
       "createdAt": "2026-09-22T16:12:14.610Z",
-      "locked": false
+      "locked": false,
+      "famille": "Objets & Véhicules"
     },
     {
       "id": "p1",
