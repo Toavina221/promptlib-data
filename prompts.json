@@ -678,7 +678,7 @@
     {
       "id": "S2O1B4",
       "title": "Groupe / Équipe",
-      "category": "Portrait",
+      "category": "Other",
       "tags": [
         "équipe",
         "groupe"
@@ -687,10 +687,9 @@
       "prompt": "Create a professional group portrait. Arrange the team in coordinated poses, use a clean [SETTING: studio or office] background, balanced lighting, and a corporate aesthetic.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Portrait",
+      "famille": "Personnes & Vie",
       "axis": "famille",
-      "subSection": "Portrait",
-      "signature": "Signature"
+      "subSection": "Groupe / Équipe"
     },
     {
       "id": "S2O1B5",
