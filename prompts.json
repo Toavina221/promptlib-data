@@ -486,7 +486,7 @@
     {
       "id": "S1O4B1",
       "title": "Renaissance Oil Portrait",
-      "category": "Peinture",
+      "category": "Peinture/Art classique",
       "tags": [
         "renaissance",
         "huile"
@@ -495,10 +495,9 @@
       "prompt": "Create a Renaissance-style oil painting portrait of the person. Use chiaroscuro lighting, rich earthy tones, visible brushwork, and a dark classical background.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Peinture",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Peinture",
-      "signature": "Signature"
+      "subSection": "Renaissance Oil Portrait"
     },
     {
       "id": "S1O4B2",
