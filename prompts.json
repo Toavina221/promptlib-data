@@ -694,7 +694,7 @@
     {
       "id": "S2O1B5",
       "title": "Selfie / Lifestyle",
-      "category": "Portrait",
+      "category": "Other",
       "tags": [
         "selfie",
         "lifestyle"
@@ -703,10 +703,9 @@
       "prompt": "Create a casual lifestyle selfie of the person. Use a handheld selfie angle, natural daylight, a candid expression, and an [BACKGROUND: urban or travel] background.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Portrait",
+      "famille": "Personnes & Vie",
       "axis": "famille",
-      "subSection": "Portrait",
-      "signature": "Signature"
+      "subSection": "Selfie / Lifestyle"
     },
     {
       "id": "S2O1B6",
