@@ -1,22 +1,6 @@
 {
   "pending": [
     {
-      "id": "fcbd8091-f33e-4d14-a398-e05c7c94b356",
-      "title": "Glitch Double Exposure Editorial",
-      "category": "Photographie",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Fashion Editorial",
-      "tags": [
-        "glitch",
-        "editorial"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/05401a19-ebea-4611-8e44-1d3ca6947bdd.jpg",
-      "prompt": "A double-exposure, long-exposure editorial photograph of the person in a brown hooded utility jacket with sharp facial features and curly blonde hair. Apply a digital glitch distortion effect with chromatic aberration (cyan and magenta color fringing), horizontal scan lines, and pixel sorting across the motion trails. Clean white backdrop, cinematic lighting, 35mm lens, high resolution, muted natural colors with tech-inspired digital artifacts.",
-      "createdAt": "2026-09-23T16:26:45.490Z",
-      "locked": false
-    },
-    {
       "id": "a10f2778-5b9d-4180-bd35-9b90fe103c6f",
       "title": "Jungle Warrior and Lioness",
       "category": "Photographie",
