@@ -646,7 +646,7 @@
     {
       "id": "S2O1B2",
       "title": "Couple",
-      "category": "Portrait",
+      "category": "Other",
       "tags": [
         "couple",
         "amour"
@@ -655,10 +655,9 @@
       "prompt": "Create a romantic portrait of a couple. Position them close together with [LIGHTING_STYLE: warm golden hour] lighting, a soft blurred background, and a natural intimate pose.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Portrait",
+      "famille": "Personnes & Vie",
       "axis": "famille",
-      "subSection": "Portrait",
-      "signature": "Signature"
+      "subSection": "Couple"
     },
     {
       "id": "S2O1B3",
