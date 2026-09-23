@@ -287,10 +287,9 @@
       "prompt": "Create a high fashion editorial photo of the person. Use avant-garde designer clothing, [LIGHTING_STYLE: dramatic studio] lighting, a minimalist background, and a strong confident pose.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Photographie",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Photographie",
-      "signature": "Signature"
+      "subSection": "Fashion Editorial"
     },
     {
       "id": "S1O2B3",
