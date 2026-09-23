@@ -710,7 +710,7 @@
     {
       "id": "S2O1B6",
       "title": "Mariage",
-      "category": "Portrait",
+      "category": "Other",
       "tags": [
         "mariage",
         "couple"
@@ -719,10 +719,9 @@
       "prompt": "Create an elegant wedding portrait of a couple. Use soft natural light, a romantic outdoor setting, formal attire, and a joyful emotional expression.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Portrait",
+      "famille": "Personnes & Vie",
       "axis": "famille",
-      "subSection": "Portrait",
-      "signature": "Signature"
+      "subSection": "Mariage"
     },
     {
       "id": "S2O1B7",
