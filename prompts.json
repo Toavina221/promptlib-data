@@ -534,7 +534,7 @@
     {
       "id": "S1O4B5",
       "title": "Art Nouveau",
-      "category": "Peinture",
+      "category": "Peinture/Art classique",
       "tags": [
         "artnouveau",
         "affiche"
@@ -543,10 +543,9 @@
       "prompt": "Create an Art Nouveau style illustration of the person. Use flowing organic lines, floral ornaments, muted [COLOR_PALETTE: gold and green] tones, and a decorative poster composition.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Peinture",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Peinture",
-      "signature": "Signature"
+      "subSection": "Art Nouveau"
     },
     {
       "id": "S1O4B7",
