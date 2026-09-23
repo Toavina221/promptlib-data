@@ -1,22 +1,6 @@
 {
   "pending": [
     {
-      "id": "640fda4e-8b44-475c-8f64-b6d64e07bd68",
-      "title": "Romantic Rain Charcoal Sketch",
-      "category": "Illustration/Dessin",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Digital Painting",
-      "tags": [
-        "charcoal",
-        "romance"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/dacc142b-5cbf-45b6-8992-57db6a48347b.jpg",
-      "prompt": "A romantic double-exposure charcoal pencil sketch portrait of the person. Top: the woman with long wavy hair and a gentle smile behind a wet glass window pane covered in rain droplets, tracing a glowing heart shape on the foggy glass with her finger. Bottom: the handsome man with dark wavy wet hair standing outside in the rain, wearing a wet dark jacket, looking up with open arms, holding a vibrant bouquet of fresh red, pink, and peach roses. Mostly black and white graphite with selective coloring on the rose bouquet and subtle pink blush on the girl's cheeks. Emotional and dreamlike atmosphere, fine pencil textures, hyper-detailed, cinematic lighting.",
-      "createdAt": "2026-09-23T16:18:07.075Z",
-      "locked": false
-    },
-    {
       "id": "429cede6-d9f5-406a-b244-427fc70d9d0b",
       "title": "Surreal Autumn Cityscape Poster",
       "category": "Typographie/Affiche",
