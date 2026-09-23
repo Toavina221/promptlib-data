@@ -239,13 +239,16 @@
       "id": "p17",
       "title": "Expressive Caricature",
       "tags": [
-        "caricature",
         "pixar",
         "cartoon"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/Gemini_Generated_Image_2ctosy2ctosy2cto.jpg",
       "prompt": "Expressive caricature of the person in the photo in Pixar style, unreal charming seemingly mischievous irritated expression, portrait, cartoon art style trending on artstation, sharp focus, studio photo, intricate details, highly detailed, by Greg Rutkowski",
-      "createdAt": "2026-09-21T00:00:00.000Z"
+      "createdAt": "2026-09-21T00:00:00.000Z",
+      "category": "3D/CGI",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "3D Pixar Character Transformation"
     },
     {
       "id": "p18",
