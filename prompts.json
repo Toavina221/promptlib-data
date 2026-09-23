@@ -351,10 +351,9 @@
       "prompt": "Create a wildlife photography shot of the animal. Use a telephoto lens look, [LIGHTING_STYLE: golden hour] lighting, a blurred [BACKGROUND: savanna] background, and sharp focus on the eyes.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
-      "famille": "Photographie",
+      "famille": "Other",
       "axis": "style",
-      "subSection": "Photographie",
-      "signature": "Signature"
+      "subSection": "Wildlife Photography"
     },
     {
       "id": "S1O2B8",
