@@ -240,18 +240,6 @@
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
     {
-      "id": "p15",
-      "title": "Synthwave Album Cover",
-      "tags": [
-        "synthwave",
-        "album-cover",
-        "retro"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p15.jpeg",
-      "prompt": "Synthwave music album cover featuring the person in the photo: album title \"[ALBUM_TITLE]\" in glowing neon font, artist name \"[ARTIST_NAME]\" at top, wireframe grid landscape, retro 80s aesthetic",
-      "createdAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
       "id": "p16",
       "title": "Paparazzi Candid",
       "tags": [
