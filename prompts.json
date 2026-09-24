@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "9525743a-3e07-4f56-8ba9-7274ccafafd1",
+      "title": "Médecin / Personnel de santé",
+      "category": "Other",
+      "famille": "Métiers",
+      "axis": "famille",
+      "subSection": "Médecin / Personnel de santé",
+      "tags": [
+        "médical",
+        "santé"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/5a06fb70-561c-4272-87a4-e34a664d15f3.jpg",
+      "prompt": "Show the person in the photo as a doctor, keeping their face and identity unchanged. Dress them in a white coat with a stethoscope, use a clean [SETTING: clinical] background, soft lighting, and a confident caring expression.",
+      "createdAt": "2026-09-24T14:06:50.652Z",
+      "locked": false
+    },
+    {
       "id": "5a335374-ed5b-4c13-9732-5474775ea478",
       "title": "Policier / Pompier",
       "category": "Other",
