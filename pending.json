@@ -127,22 +127,6 @@
       "prompt": "Show the person in the photo as a navy special forces operator, keeping their face and identity unchanged. Dress them in tactical gear, use a [SETTING: naval deck or ocean] background, and cool blue lighting.",
       "createdAt": "2026-09-24T14:30:18.837Z",
       "locked": false
-    },
-    {
-      "id": "95f8abc6-3a06-48c8-aef0-64760b74a64e",
-      "title": "Haute couture",
-      "category": "Other",
-      "famille": "Mode & Nourriture",
-      "axis": "famille",
-      "subSection": "Haute couture",
-      "tags": [
-        "couture",
-        "luxe"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/ee4c0d72-4522-4d4c-9f8c-9fd3b43b04c1.jpg",
-      "prompt": "Create a high fashion haute couture photo of the person in the photo, keeping their face and identity unchanged. Dress them in an avant-garde designer gown, use dramatic studio lighting, and a minimalist runway background.",
-      "createdAt": "2026-09-24T14:30:43.875Z",
-      "locked": false
     }
   ]
 }
