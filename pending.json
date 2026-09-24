@@ -95,6 +95,22 @@
       "prompt": "Show the person in the photo as an artist, keeping their face and identity unchanged. Use a [SETTING: paint-splattered studio] background, casual artistic clothing, natural window light, and a thoughtful expression.",
       "createdAt": "2026-09-24T14:08:17.911Z",
       "locked": false
+    },
+    {
+      "id": "f0a4b34e-adc5-40be-ad28-764b7875c5a3",
+      "title": "Chef Cuisinier / Pâtissier",
+      "category": "Other",
+      "famille": "Métiers",
+      "axis": "famille",
+      "subSection": "Chef Cuisinier / Pâtissier",
+      "tags": [
+        "cuisine",
+        "chef"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/7f260d21-7939-416d-b80e-7a12d01fcbaf.jpg",
+      "prompt": "Show the person in the photo as a chef, keeping their face and identity unchanged. Dress them in a white chef jacket and hat, use a [SETTING: professional kitchen] background, warm lighting, and a proud confident expression.",
+      "createdAt": "2026-09-24T14:08:37.125Z",
+      "locked": false
     }
   ]
 }
