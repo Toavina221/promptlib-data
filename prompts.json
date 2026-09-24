@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "3a0f1f7b-6dd4-41a6-ae22-079c530cac39",
+      "title": "Technicien / Ouvrier spécialisé",
+      "category": "Other",
+      "famille": "Métiers",
+      "axis": "famille",
+      "subSection": "Technicien / Ouvrier spécialisé",
+      "tags": [
+        "technique",
+        "ouvrier"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/87c3eaff-8d08-4d01-94e2-148b4940e658.jpg",
+      "prompt": "Show the person in the photo as a skilled technician, keeping their face and identity unchanged. Dress them in work overalls and safety gear, use an [SETTING: industrial workshop] background, and warm industrial lighting.",
+      "createdAt": "2026-09-24T14:07:57.426Z",
+      "locked": false
+    },
+    {
       "id": "05d65b85-843b-46c8-85ca-6d9721563113",
       "title": "Enseignant / Formateur",
       "category": "Other",
