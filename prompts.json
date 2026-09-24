@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "863b5b05-5790-4c63-b134-b0fea67ce64b",
+      "title": "Athlétisme",
+      "category": "Other",
+      "famille": "Sport & Militaire",
+      "axis": "famille",
+      "subSection": "Athlétisme",
+      "tags": [
+        "athlétisme",
+        "course"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/dad4a9af-43da-4af2-a792-8d5be1336342.jpg",
+      "prompt": "Show the person in the photo as a runner mid-sprint on a stadium track, keeping their face and identity unchanged. Use motion blur and golden hour lighting.",
+      "createdAt": "2026-09-24T14:29:31.025Z",
+      "locked": false
+    },
+    {
       "id": "28af7cff-ebb1-4252-9c07-f77fc211a79e",
       "title": "Sports extrêmes",
       "category": "Other",
