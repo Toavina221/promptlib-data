@@ -11,10 +11,11 @@
         "corporate",
         "portrait"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/07545cd3-8011-4d8e-885f-17f432fb3f2e.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/39d1c35c-2a8e-4039-ad49-82f0f8816883.jpg",
       "prompt": "Create a professional corporate headshot of the person. Dress them in a [OUTFIT_COLOR: navy blue] tailored blazer, use [LIGHTING_STYLE: soft diffused softbox] lighting, a clean blurred office backdrop, and an 85mm portrait lens look.",
       "createdAt": "2026-09-24T05:18:13.245Z",
-      "locked": false
+      "locked": false,
+      "signature": "A supprimer"
     }
   ]
 }
