@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "05d65b85-843b-46c8-85ca-6d9721563113",
+      "title": "Enseignant / Formateur",
+      "category": "Other",
+      "famille": "Métiers",
+      "axis": "famille",
+      "subSection": "Enseignant / Formateur",
+      "tags": [
+        "éducation",
+        "enseignant"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/3e45ebc5-bf89-4aea-86fc-1c57d98b4d48.jpg",
+      "prompt": "Show the person in the photo as a teacher standing in a [SETTING: classroom] with a chalkboard behind them, keeping their face and identity unchanged. Use warm natural light and a friendly approachable expression.",
+      "createdAt": "2026-09-24T14:07:37.113Z",
+      "locked": false
+    },
+    {
       "id": "5c7697e4-766a-4c13-87f0-d3ab27991c07",
       "title": "Directeur comptable / Finance",
       "category": "Other",
