@@ -1,3 +1,20 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "id": "e3706410-6b66-41cb-8ca4-64de4c9ec833",
+      "title": "Office Paper Explosion Portrait",
+      "category": "Photographie",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "cinematic",
+        "office"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/e80a1014-b48a-40be-a261-a80e65816eda.jpg",
+      "prompt": "A dynamic, frozen-in-time scene where the person in the photo is standing in the center of an office explosion of paperwork. Thousands of white sheets of paper are suspended in mid-air around the subject in a spiral pattern. The subject is wearing a sleek black turtleneck and glasses, standing perfectly still and calm amidst the chaos, looking at the camera. Use a [LENS_STYLE: 50mm] lens effect to capture the depth of the paper storm, dramatic high-key studio lighting with rim lighting on every sheet of paper to define the edges, and a shallow depth of field that blurs the papers closest to the lens and furthest away. Hyper-realistic skin tones and a cinematic atmosphere. Keep the person's face and identity unchanged. Include a small handwritten cursive artist signature \"Bilal x\" in the bottom-right with a thin hairline stroke, no glow.",
+      "createdAt": "2026-09-24T17:08:51.808Z",
+      "locked": false
+    }
+  ]
 }
