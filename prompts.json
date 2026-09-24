@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "2c15f873-a08c-483a-b939-2b11cd16f0b4",
+      "title": "Ingénieur / Développeur",
+      "category": "Other",
+      "famille": "Métiers",
+      "axis": "famille",
+      "subSection": "Ingénieur / Développeur",
+      "tags": [
+        "tech",
+        "développeur"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/15f683db-5724-4d31-a642-040fad2d03ca.jpg",
+      "prompt": "Show the person in the photo as a software developer, keeping their face and identity unchanged. Use a modern [SETTING: tech office] background, casual smart clothing, a laptop in hand, and soft daylight.",
+      "createdAt": "2026-09-24T14:06:08.551Z",
+      "locked": false
+    },
+    {
       "id": "a10f2778-5b9d-4180-bd35-9b90fe103c6f",
       "title": "Jungle Warrior and Lioness",
       "category": "Photographie",
