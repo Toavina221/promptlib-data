@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "5a335374-ed5b-4c13-9732-5474775ea478",
+      "title": "Policier / Pompier",
+      "category": "Other",
+      "famille": "Métiers",
+      "axis": "famille",
+      "subSection": "Policier / Pompier",
+      "tags": [
+        "sécurité",
+        "uniforme"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/14d6deac-0727-44f8-bf01-9c882b0a6545.jpg",
+      "prompt": "Show the person in the photo as a police officer or firefighter, keeping their face and identity unchanged. Dress them in the official uniform, use an [SETTING: urban or station] background, and a strong determined expression.",
+      "createdAt": "2026-09-24T14:09:36.420Z",
+      "locked": false
+    },
+    {
       "id": "d1322085-0dac-4bbc-bff1-bef1ecce5ee8",
       "title": "Avocat / Juge",
       "category": "Other",
