@@ -17,22 +17,6 @@
       "locked": false
     },
     {
-      "id": "d1322085-0dac-4bbc-bff1-bef1ecce5ee8",
-      "title": "Avocat / Juge",
-      "category": "Other",
-      "famille": "Métiers",
-      "axis": "famille",
-      "subSection": "Avocat / Juge",
-      "tags": [
-        "justice",
-        "avocat"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/a31cdfa1-66c9-48c8-ae1c-f9e01b8fd132.jpg",
-      "prompt": "Show the person in the photo as a lawyer, keeping their face and identity unchanged. Dress them in a formal suit or robe, use a [SETTING: law library or courtroom] background, and a serious confident expression.",
-      "createdAt": "2026-09-24T14:09:17.062Z",
-      "locked": false
-    },
-    {
       "id": "5a335374-ed5b-4c13-9732-5474775ea478",
       "title": "Policier / Pompier",
       "category": "Other",
