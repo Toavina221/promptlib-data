@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "fd634929-9062-4b74-89e2-d69f7fcc4713",
+      "title": "Streetwear",
+      "category": "Other",
+      "famille": "Mode & Nourriture",
+      "axis": "famille",
+      "subSection": "Streetwear",
+      "tags": [
+        "streetwear",
+        "urbain"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/95ca0d0f-db35-4c30-85c6-2705b7a39153.jpg",
+      "prompt": "Create a streetwear fashion photo of the person in the photo, keeping their face and identity unchanged. Dress them in an oversized hoodie and sneakers, use an urban background, natural daylight, and a casual confident pose.",
+      "createdAt": "2026-09-24T14:31:08.095Z",
+      "locked": false
+    },
+    {
       "id": "9525743a-3e07-4f56-8ba9-7274ccafafd1",
       "title": "Médecin / Personnel de santé",
       "category": "Other",
