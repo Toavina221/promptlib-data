@@ -17,22 +17,6 @@
       "locked": false
     },
     {
-      "id": "5c7697e4-766a-4c13-87f0-d3ab27991c07",
-      "title": "Directeur comptable / Finance",
-      "category": "Other",
-      "famille": "Métiers",
-      "axis": "famille",
-      "subSection": "Directeur comptable / Finance",
-      "tags": [
-        "finance",
-        "corporate"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/7e6204a0-4b9a-4e88-ada2-7b3726a75ebd.jpg",
-      "prompt": "Show the person in the photo as a finance director, keeping their face and identity unchanged. Dress them in a sharp business suit, use a modern [SETTING: office] background, soft lighting, and a confident authoritative expression.",
-      "createdAt": "2026-09-24T14:07:11.449Z",
-      "locked": false
-    },
-    {
       "id": "05d65b85-843b-46c8-85ca-6d9721563113",
       "title": "Enseignant / Formateur",
       "category": "Other",
