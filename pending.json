@@ -1,3 +1,20 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "id": "909a89b7-19bc-4bad-8347-331ffcf798b7",
+      "title": "Digital Painting",
+      "category": "Illustration/Dessin",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Digital Painting",
+      "tags": [
+        "vintage",
+        "scrapbook"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/0b6ac8a0-2747-4f6c-b00e-90fa35522494.jpg",
+      "prompt": "Create a dreamy vintage-aesthetic sticker collage composite featuring three cut-out portrait stickers of the person in the photo, arranged overlapping each other. Layer them on top of a soft pastel scrapbook background filled with vintage florals, pearls, ribbons, music sheet paper, and whimsical stickers.\n\nSticker 1 (top-right, largest): a close-up portrait of the person with a straight-on calm direct gaze, soft neutral expression, long straight hair with soft bangs, and an off-shoulder cream knit top, all inside a white cutout sticker border.\n\nSticker 2 (left-middle): a close-up portrait of the person with their eyes gently closed and a soft smile, wearing the same off-shoulder cream knit top, inside a white cutout sticker border.\n\nSticker 3 (bottom-right): a close-up portrait of the person smiling warmly with their hands gently touching their cheeks, wearing a cream knit sweater, inside a white cutout sticker border.\n\nKeep the person's face and identity unchanged in all three stickers. Use a [COLOR_PALETTE: soft pastel] color scheme, cinematic lighting, and a highly detailed scrapbook aesthetic.",
+      "createdAt": "2026-09-24T16:10:36.053Z",
+      "locked": false
+    }
+  ]
 }
