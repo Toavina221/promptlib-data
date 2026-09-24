@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "4d54e7b1-7b11-4706-91bc-0d5a0db137ed",
+      "title": "Artiste / Créatif",
+      "category": "Other",
+      "famille": "Métiers",
+      "axis": "famille",
+      "subSection": "Artiste / Créatif",
+      "tags": [
+        "artiste",
+        "créatif"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/c4d0af3b-d938-4943-8e9f-a4aa61d53370.jpg",
+      "prompt": "Show the person in the photo as an artist, keeping their face and identity unchanged. Use a [SETTING: paint-splattered studio] background, casual artistic clothing, natural window light, and a thoughtful expression.",
+      "createdAt": "2026-09-24T14:08:17.911Z",
+      "locked": false
+    },
+    {
       "id": "3a0f1f7b-6dd4-41a6-ae22-079c530cac39",
       "title": "Technicien / Ouvrier spécialisé",
       "category": "Other",
