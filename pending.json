@@ -47,6 +47,22 @@
       "prompt": "Show the person in the photo as a boxer or martial artist mid-action in a ring, keeping their face and identity unchanged. Use a dramatic spotlight and sweat details.",
       "createdAt": "2026-09-24T14:28:01.449Z",
       "locked": false
+    },
+    {
+      "id": "4ffea1aa-7831-466e-900d-aeed835fa10c",
+      "title": "Soldat d'infanterie",
+      "category": "Other",
+      "famille": "Sport & Militaire",
+      "axis": "famille",
+      "subSection": "Soldat d'infanterie",
+      "tags": [
+        "soldat",
+        "armée"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/68a4f716-4e0b-469c-aa18-1f8836e7f4c8.jpg",
+      "prompt": "Show the person in the photo as a soldier in full infantry combat gear, keeping their face and identity unchanged. Use a gritty battlefield environment, dusty air, dramatic lighting, and a determined expression.",
+      "createdAt": "2026-09-24T14:28:27.897Z",
+      "locked": false
     }
   ]
 }
