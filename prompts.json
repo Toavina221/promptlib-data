@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "2c174ea5-4063-47ac-8b80-0d2f505b0237",
+      "title": "Pilote de chasse",
+      "category": "Other",
+      "famille": "Sport & Militaire",
+      "axis": "famille",
+      "subSection": "Pilote de chasse",
+      "tags": [
+        "pilote",
+        "avion"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/5ac6e05d-e752-416c-a069-26d3583c07d8.jpg",
+      "prompt": "Show the person in the photo as a fighter pilot standing next to a fighter jet, keeping their face and identity unchanged. Dress them in a flight suit with a helmet under the arm, use [LIGHTING_STYLE: golden hour] lighting, and a runway background.",
+      "createdAt": "2026-09-24T14:29:04.166Z",
+      "locked": false
+    },
+    {
       "id": "863b5b05-5790-4c63-b134-b0fea67ce64b",
       "title": "Athlétisme",
       "category": "Other",
