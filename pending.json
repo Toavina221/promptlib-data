@@ -111,6 +111,22 @@
       "prompt": "Show the person in the photo skateboarding or surfing mid-air, keeping their face and identity unchanged. Use a dramatic sky background, motion blur, and vibrant colors.",
       "createdAt": "2026-09-24T14:29:56.078Z",
       "locked": false
+    },
+    {
+      "id": "acea0ff4-e1a8-4db0-b9a5-5740563a8c28",
+      "title": "Marine / Forces spéciales",
+      "category": "Other",
+      "famille": "Sport & Militaire",
+      "axis": "famille",
+      "subSection": "Marine / Forces spéciales",
+      "tags": [
+        "marine",
+        "forces"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/3a97bcfd-060a-434a-9c42-eccc49f674b0.jpg",
+      "prompt": "Show the person in the photo as a navy special forces operator, keeping their face and identity unchanged. Dress them in tactical gear, use a [SETTING: naval deck or ocean] background, and cool blue lighting.",
+      "createdAt": "2026-09-24T14:30:18.837Z",
+      "locked": false
     }
   ]
 }
