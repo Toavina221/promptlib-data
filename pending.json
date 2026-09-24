@@ -111,6 +111,22 @@
       "prompt": "Show the person in the photo as a chef, keeping their face and identity unchanged. Dress them in a white chef jacket and hat, use a [SETTING: professional kitchen] background, warm lighting, and a proud confident expression.",
       "createdAt": "2026-09-24T14:08:37.125Z",
       "locked": false
+    },
+    {
+      "id": "e07ad301-fa6f-473c-8702-afaab1df4f8f",
+      "title": "Pilote / Steward",
+      "category": "Other",
+      "famille": "Métiers",
+      "axis": "famille",
+      "subSection": "Pilote / Steward",
+      "tags": [
+        "aviation",
+        "pilote"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/49458509-92c5-4f6d-b051-da39fe1d4ad3.jpg",
+      "prompt": "Show the person in the photo as an airline pilot, keeping their face and identity unchanged. Dress them in a pilot uniform with epaulettes, use a [SETTING: cockpit or airport] background, and soft professional lighting.",
+      "createdAt": "2026-09-24T14:08:58.869Z",
+      "locked": false
     }
   ]
 }
