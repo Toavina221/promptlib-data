@@ -276,7 +276,7 @@
         "soldier"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/Gemini_Generated_Image_7lvn257lvn257lvn.jfif",
-      "prompt": "Create a realistic portrait of a soldier in full infantry combat gear. Use a gritty battlefield environment, dusty air, dramatic lighting, and a determined expression.",
+      "prompt": "Show the person in the photo as a soldier in full infantry combat gear, keeping their face and identity unchanged. Use a gritty battlefield environment, dusty air, dramatic lighting, and a determined expression.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "category": "Other",
@@ -293,7 +293,7 @@
         "portrait"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B1.jpg",
-      "prompt": "Create a professional corporate headshot of the person. Dress them in a [OUTFIT_COLOR: navy blue] tailored blazer, use [LIGHTING_STYLE: soft diffused softbox] lighting, a clean blurred office backdrop, and an 85mm portrait lens look.",
+      "prompt": "Create a professional corporate headshot of the person in the photo, keeping their face and identity unchanged. Dress them in a [OUTFIT_COLOR: navy blue] tailored blazer, use [LIGHTING_STYLE: soft diffused softbox] lighting, a clean blurred office backdrop, and an 85mm portrait lens look.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -309,7 +309,7 @@
         "éditorial"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B2.jpg",
-      "prompt": "Create a high fashion editorial photo of the person. Use avant-garde designer clothing, [LIGHTING_STYLE: dramatic studio] lighting, a minimalist background, and a strong confident pose.",
+      "prompt": "Create a high fashion editorial photo of the person in the photo, keeping their face and identity unchanged. Dress them in avant-garde designer clothing, use [LIGHTING_STYLE: dramatic studio] lighting, a minimalist background, and a strong confident pose.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -325,7 +325,7 @@
         "commercial"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B3.jpg",
-      "prompt": "Create a professional product photography shot of the object. Use a clean seamless background, soft studio lighting, subtle reflections, and sharp focus on every detail.",
+      "prompt": "Create a professional product photography shot of the object in the photo, keeping its exact shape, colors and branding. Use a clean seamless background, soft studio lighting, subtle reflections, and sharp focus on every detail.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -341,7 +341,7 @@
         "portrait"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B5.jpg",
-      "prompt": "Create a cinematic portrait of the person. Use [LIGHTING_STYLE: dramatic side] lighting, a [MOOD: dark moody] background, a shallow depth of field, and a strong film-like color grade.",
+      "prompt": "Create a cinematic portrait of the person in the photo, keeping their face and identity unchanged. Use [LIGHTING_STYLE: dramatic side] lighting, a [MOOD: dark moody] background, a shallow depth of field, and a strong film-like color grade.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -357,7 +357,7 @@
         "détail"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B6.jpg",
-      "prompt": "Create a macro photography shot of the subject. Use extreme close-up framing, a very shallow depth of field, soft natural lighting, and highly detailed textures.",
+      "prompt": "Turn the photo into a macro photography shot of its main subject. Use extreme close-up framing, a very shallow depth of field, soft natural lighting, and highly detailed textures.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -373,7 +373,7 @@
         "sauvage"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B7.jpg",
-      "prompt": "Create a wildlife photography shot of the animal. Use a telephoto lens look, [LIGHTING_STYLE: golden hour] lighting, a blurred [BACKGROUND: savanna] background, and sharp focus on the eyes.",
+      "prompt": "Create a wildlife photography shot of the animal in the photo, keeping its species, markings and colors. Use a telephoto lens look, [LIGHTING_STYLE: golden hour] lighting, a blurred [BACKGROUND: savanna] background, and sharp focus on the eyes.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -389,7 +389,7 @@
         "candid"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B8.jpg",
-      "prompt": "Create a paparazzi-style candid photo of the person. Use a harsh on-camera flash, high contrast, motion blur in the background, and a grainy tabloid aesthetic.",
+      "prompt": "Create a paparazzi-style candid photo of the person in the photo on a busy city street, keeping their face and identity unchanged. Use a harsh on-camera flash, high contrast, motion blur in the background, and a grainy tabloid aesthetic.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -405,7 +405,7 @@
         "manga"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B1.jpg",
-      "prompt": "Create an anime-style illustration of the person. Use cel shading, expressive large eyes, dynamic hair, [COLOR_PALETTE: vibrant] colors, and a [STYLE: Japanese manga] aesthetic.",
+      "prompt": "Turn the person in the photo into an anime-style illustration, keeping their face shape, hairstyle and clothing recognizable. Use cel shading, expressive large eyes, dynamic hair, [COLOR_PALETTE: vibrant] colors, and a [STYLE: Japanese manga] aesthetic.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -421,7 +421,7 @@
         "painting"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B2.jpg",
-      "prompt": "Create a digital painting of the subject. Use visible brushstrokes, rich colors, dramatic lighting, and a [STYLE: fantasy concept art] style.",
+      "prompt": "Repaint the photo as a digital painting, keeping its main subject and composition recognizable. Use visible brushstrokes, rich colors, dramatic lighting, and a [STYLE: fantasy concept art] style.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -437,7 +437,7 @@
         "flat"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B3.jpg",
-      "prompt": "Create a flat design vector illustration of the subject. Use simple geometric shapes, solid colors, no gradients, and a clean minimalist composition.",
+      "prompt": "Redraw the subject of the photo as a flat design vector illustration, keeping its shape and main colors recognizable. Use simple geometric shapes, solid colors, no gradients, and a clean minimalist composition.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -453,7 +453,7 @@
         "bd"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B4.jpg",
-      "prompt": "Create a comic book style illustration of the person. Use bold black outlines, halftone dot shading, vivid primary colors, and a dynamic action pose.",
+      "prompt": "Turn the person in the photo into a comic book character, keeping their face, hairstyle and clothing recognizable. Use bold black outlines, halftone dot shading, vivid primary colors, and a dynamic action pose.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -469,7 +469,7 @@
         "minimal"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B6.jpg",
-      "prompt": "Create a minimalist line art illustration of the person. Use clean single-weight black lines, a white background, and no shading or color.",
+      "prompt": "Redraw the person in the photo as a minimalist line art illustration, keeping their face and features recognizable. Use clean single-weight black lines, a white background, and no shading or color.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -485,7 +485,7 @@
         "art"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B7.jpg",
-      "prompt": "Create a professional concept art piece of the subject. Use a cinematic composition, dramatic lighting, rich environmental details, and a digital painting style.",
+      "prompt": "Turn the subject of the photo into a professional concept art piece, keeping its features and silhouette recognizable. Use a cinematic composition, dramatic lighting, rich environmental details, and a digital painting style.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -501,7 +501,7 @@
         "blueprint"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B8.jpg",
-      "prompt": "Create a cyanotype blueprint illustration of the object. Use white line drawings on a deep blue background, technical annotations, and a vintage engineering aesthetic.",
+      "prompt": "Redraw the object in the photo as a cyanotype blueprint, keeping its exact shape and proportions. Use white line drawings on a deep blue background, technical annotations, and a vintage engineering aesthetic.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -517,7 +517,7 @@
         "huile"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O4B1.jpg",
-      "prompt": "Create a Renaissance-style oil painting portrait of the person. Use chiaroscuro lighting, rich earthy tones, visible brushwork, and a dark classical background.",
+      "prompt": "Paint the person in the photo as a Renaissance-style oil portrait, keeping their face and features recognizable. Use chiaroscuro lighting, rich earthy tones, visible brushwork, and a dark classical background.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -533,7 +533,7 @@
         "classique"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O4B2.jpg",
-      "prompt": "Create a Baroque-style painting of the scene. Use dramatic light and shadow, rich [COLOR_PALETTE: gold and red] tones, dynamic composition, and ornate details.",
+      "prompt": "Repaint the photo as a Baroque-style painting, keeping its main subject and composition recognizable. Use dramatic light and shadow, rich [COLOR_PALETTE: gold and red] tones, a dynamic composition, and ornate details.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -549,7 +549,7 @@
         "warhol"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O4B4.jpg",
-      "prompt": "Create a Pop Art portrait of the person. Use bold flat colors, thick black outlines, halftone dots, and a Warhol-inspired repeating grid.",
+      "prompt": "Turn the person in the photo into a Pop Art portrait, keeping their face recognizable. Use bold flat colors, thick black outlines, halftone dots, and a Warhol-inspired repeating grid of their face.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -565,7 +565,7 @@
         "affiche"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O4B5.jpg",
-      "prompt": "Create an Art Nouveau style illustration of the person. Use flowing organic lines, floral ornaments, muted [COLOR_PALETTE: gold and green] tones, and a decorative poster composition.",
+      "prompt": "Turn the person in the photo into an Art Nouveau illustration, keeping their face and features recognizable. Use flowing organic lines, floral ornaments, muted [COLOR_PALETTE: gold and green] tones, and a decorative poster composition.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -581,7 +581,7 @@
         "géométrique"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O4B7.jpg",
-      "prompt": "Create a Cubist portrait of the person. Use fragmented geometric shapes, multiple perspectives, muted colors, and a Picasso-inspired composition.",
+      "prompt": "Turn the person in the photo into a Cubist portrait, keeping their main features recognizable. Use fragmented geometric shapes, multiple perspectives, muted colors, and a Picasso-inspired composition.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -597,7 +597,7 @@
         "mural"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O6B1.jpg",
-      "prompt": "Create a large graffiti mural on a city wall. Use bold spray paint colors, dynamic lettering, urban decay textures, and a gritty street atmosphere.",
+      "prompt": "Paint the person in the photo as a large graffiti mural on a city wall, keeping their face recognizable. Use bold spray paint colors, dynamic lettering, urban decay textures, and a gritty street atmosphere.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -613,7 +613,7 @@
         "graffiti"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O6B3.jpg",
-      "prompt": "Create an urban graffiti tag on a subway train. Use bold marker strokes, quick spray paint lines, and a raw street style.",
+      "prompt": "Show the person in the photo spray-painting a graffiti tag on a subway train, keeping their face and identity unchanged. Use bold marker strokes, quick spray paint lines, and a raw street style.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -629,7 +629,7 @@
         "action"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O6B6.jpg",
-      "prompt": "Create a dynamic skateboarding action photo. Use a low angle, motion blur, bright daylight, and an urban skatepark background.",
+      "prompt": "Show the person in the photo riding a skateboard mid-trick, keeping their face and identity unchanged. Use a low angle, motion blur, bright daylight, and an urban skatepark background.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -645,7 +645,7 @@
         "nuit"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O6B8.jpg",
-      "prompt": "Create a neon-lit city street at night. Use glowing signs, wet reflective pavement, blurred traffic lights, and a [MOOD: cyberpunk] atmosphere.",
+      "prompt": "Place the person in the photo on a neon-lit city street at night, keeping their face and identity unchanged. Use glowing signs, wet reflective pavement, blurred traffic lights, and a [MOOD: cyberpunk] atmosphere.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Other",
@@ -661,7 +661,7 @@
         "visage"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B1.jpg",
-      "prompt": "Create a professional studio portrait of the person. Use [LIGHTING_STYLE: soft diffused] lighting, a [BACKGROUND_STYLE: clean neutral] background, and a sharp focus on the face with a natural expression.",
+      "prompt": "Create a professional studio portrait of the person in the photo, keeping their face and identity unchanged. Use [LIGHTING_STYLE: soft diffused] lighting, a [BACKGROUND_STYLE: clean neutral] background, and a sharp focus on the face with a natural expression.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Personnes & Vie",
@@ -677,7 +677,7 @@
         "amour"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B2.jpg",
-      "prompt": "Create a romantic portrait of a couple. Position them close together with [LIGHTING_STYLE: warm golden hour] lighting, a soft blurred background, and a natural intimate pose.",
+      "prompt": "Create a romantic portrait of the couple in the photo, keeping both faces and identities unchanged. Position them close together with [LIGHTING_STYLE: warm golden hour] lighting, a soft blurred background, and a natural intimate pose.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Personnes & Vie",
@@ -693,7 +693,7 @@
         "groupe"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B3.jpg",
-      "prompt": "Create a warm family portrait. Show multiple generations in natural relaxed poses, use soft outdoor lighting, a [SETTING: cozy home or park] setting, and genuine smiles.",
+      "prompt": "Create a warm family portrait of the people in the photo, keeping every face and identity unchanged. Use natural relaxed poses, soft outdoor lighting, a [SETTING: cozy home or park] setting, and genuine smiles.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Personnes & Vie",
@@ -709,7 +709,7 @@
         "groupe"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B4.jpg",
-      "prompt": "Create a professional group portrait. Arrange the team in coordinated poses, use a clean [SETTING: studio or office] background, balanced lighting, and a corporate aesthetic.",
+      "prompt": "Create a professional group portrait of the people in the photo, keeping every face and identity unchanged. Arrange them in coordinated poses, use a clean [SETTING: studio or office] background, balanced lighting, and a corporate aesthetic.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Personnes & Vie",
@@ -725,7 +725,7 @@
         "lifestyle"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B5.jpg",
-      "prompt": "Create a casual lifestyle selfie of the person. Use a handheld selfie angle, natural daylight, a candid expression, and an [BACKGROUND: urban or travel] background.",
+      "prompt": "Create a casual lifestyle selfie of the person in the photo, keeping their face and identity unchanged. Use a handheld selfie angle, natural daylight, a candid expression, and an [BACKGROUND: urban or travel] background.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Personnes & Vie",
@@ -741,7 +741,7 @@
         "couple"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B6.jpg",
-      "prompt": "Create an elegant wedding portrait of a couple. Use soft natural light, a romantic outdoor setting, formal attire, and a joyful emotional expression.",
+      "prompt": "Create an elegant wedding portrait of the couple in the photo, keeping both faces and identities unchanged. Dress them in formal wedding attire, use soft natural light, a romantic outdoor setting, and a joyful emotional expression.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Personnes & Vie",
@@ -757,7 +757,7 @@
         "naissance"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B7.jpg",
-      "prompt": "Create a tender newborn portrait. Use soft [COLOR_PALETTE: pastel] colors, gentle natural light, a cozy blanket, and a peaceful sleeping expression.",
+      "prompt": "Create a tender newborn portrait of the baby in the photo, keeping their face unchanged. Use soft [COLOR_PALETTE: pastel] colors, gentle natural light, a cozy blanket, and a peaceful expression.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Personnes & Vie",
@@ -773,7 +773,7 @@
         "portrait"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B8.jpg",
-      "prompt": "Create a dignified portrait of an elderly person. Use warm natural light, a shallow depth of field, visible wrinkles and character, and a gentle wise expression.",
+      "prompt": "Create a dignified portrait of the person in the photo, keeping their face and identity unchanged. Use warm natural light, a shallow depth of field, visible skin texture and character, and a gentle wise expression.",
       "createdAt": "2026-09-23T00:00:00.000Z",
       "locked": false,
       "famille": "Personnes & Vie",
