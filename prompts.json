@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "cc86d23b-a947-48ed-a759-81fd109860af",
+      "title": "Basketball",
+      "category": "Other",
+      "famille": "Sport & Militaire",
+      "axis": "famille",
+      "subSection": "Basketball",
+      "tags": [
+        "basketball",
+        "sport"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/b8a2357f-7d43-4c1e-b000-a411f8ef7c18.jpg",
+      "prompt": "Show the person in the photo as a basketball player dunking on an indoor court, keeping their face and identity unchanged. Use dramatic lighting and motion energy.",
+      "createdAt": "2026-09-24T14:27:36.848Z",
+      "locked": false
+    },
+    {
       "id": "3fd7997a-80be-4f1b-94d6-64e25b93fdd1",
       "title": "Football / Soccer",
       "category": "Other",
