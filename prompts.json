@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "59829fdd-81a4-45b1-ba7a-91e4f40f25eb",
+      "title": "Tenues traditionnelles",
+      "category": "Other",
+      "famille": "Mode & Nourriture",
+      "axis": "famille",
+      "subSection": "Tenues traditionnelles",
+      "tags": [
+        "tradition",
+        "culture"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/70c613ba-7235-4a46-9d9a-0dce6db867f5.jpg",
+      "prompt": "Create a respectful portrait of the person in the photo wearing traditional cultural attire, keeping their face and identity unchanged. Use authentic handwoven fabrics, natural lighting, and a cultural background.",
+      "createdAt": "2026-09-24T15:25:14.597Z",
+      "locked": false
+    },
+    {
       "id": "56cead25-8984-440f-8040-2b8ce8993438",
       "title": "Sports de combat",
       "category": "Other",
