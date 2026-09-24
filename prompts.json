@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "28af7cff-ebb1-4252-9c07-f77fc211a79e",
+      "title": "Sports extrêmes",
+      "category": "Other",
+      "famille": "Sport & Militaire",
+      "axis": "famille",
+      "subSection": "Sports extrêmes",
+      "tags": [
+        "extreme",
+        "action"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/80b09b98-c743-419c-b6ab-537f7aaf652c.jpg",
+      "prompt": "Show the person in the photo skateboarding or surfing mid-air, keeping their face and identity unchanged. Use a dramatic sky background, motion blur, and vibrant colors.",
+      "createdAt": "2026-09-24T14:29:56.078Z",
+      "locked": false
+    },
+    {
       "id": "acea0ff4-e1a8-4db0-b9a5-5740563a8c28",
       "title": "Marine / Forces spéciales",
       "category": "Other",
