@@ -17,22 +17,6 @@
       "locked": false
     },
     {
-      "id": "a940482a-72cb-409e-8bbb-172e167b9ae5",
-      "title": "Moonlit Park Pathway Portrait",
-      "category": "Photography",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Cinematic Portrait",
-      "tags": [
-        "cinematic",
-        "night"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/45adb5ea-a88e-4ef7-bc23-d6a5fe2b3226.jpg",
-      "prompt": "A cinematic, moody portrait of the person in the photo with stylish hair, walking alone along a quiet park pathway on a beautiful moonlit night. The subject is walking slowly with both hands in their pockets, looking far away. They are wearing a black loose fitting sweatshirt with a red and blue graphic print at the chest, loose gray sweatpants, white chunky sneakers, and a smartwatch. A dramatic natural size full moon shines through the branches above, while antique streetlamps along the pathway create pools of warm golden light. Dark trees and soft mist surround the path, with tree branches holding some green and pale red leaves overhead at the top left foreground. Use a [LIGHTING_STYLE: cinematic contrast between cool blue moonlight and warm streetlamp light], an emotional and reflective atmosphere, and a [COLOR_PALETTE: rich cinematic] color grade. Keep the person's face and identity unchanged.",
-      "createdAt": "2026-09-25T08:08:21.249Z",
-      "locked": false
-    },
-    {
       "id": "55031735-0038-4c4f-8357-bb59cdbb77da",
       "title": "Cinematic Lantern Night Portrait",
       "category": "Photography",
