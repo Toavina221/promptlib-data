@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "e7f6ac95-53c1-4875-a0f3-39393c285804",
+      "title": "Fragmented Luxury Fashion Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Fashion Editorial",
+      "tags": [
+        "fashion",
+        "editorial"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/f161e0f2-bff5-4a99-a022-04807b6840c7.jpg",
+      "prompt": "Create an ultra-realistic, premium cinematic editorial portrait of the person in the photo, inspired by a high-end luxury fashion campaign. The subject is positioned in the center of the composition, shown from approximately the waist up, standing confidently with their upper body slightly turned to one side while their face is angled slightly downward and toward the side. Their expression is calm, sophisticated, confident, and thoughtful, with a subtle natural smile. Their arms are crossed naturally in front of the body, with one forearm resting horizontally across the lower torso. Dress the subject in an elegant [OUTFIT_COLOR: dark navy-blue] traditional formal outfit with a high collar and refined tailoring, a premium metallic wristwatch with a detailed dark dial, and sophisticated dark-framed sunglasses. Transform the portrait into a sophisticated three-dimensional fragmented gallery composition. Instead of showing the person as one continuous flat photograph, divide the image into multiple tall, narrow vertical and diagonal rectangular panels. The central panels should contain the main portrait of the subject, while surrounding panels extend outward at different depths and angles, creating the illusion that the photograph has been physically separated into floating architectural panels. Each panel must look like a thin, rigid photographic slab with realistic thickness, sharp edges, and subtle shadows. Keep the person's face and identity unchanged, preserving their exact facial proportions, skin tone, jawline, eyes, nose, lips, realistic skin texture, and authentic human anatomy exactly as shown in the photo",
+      "createdAt": "2026-09-25T09:17:46.538Z",
+      "locked": false
+    },
+    {
       "id": "55031735-0038-4c4f-8357-bb59cdbb77da",
       "title": "Cinematic Lantern Night Portrait",
       "category": "Photography",
