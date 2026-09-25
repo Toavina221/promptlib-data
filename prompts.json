@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "42ead09b-fe2d-4b6e-884f-90f1ea9f4e67",
+      "title": "Elegant Watercolor Double Exposure",
+      "category": "Illustration/Drawing",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Watercolor Portrait",
+      "tags": [
+        "watercolor",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/66ce2464-59be-4aae-b99c-77f102461257.jpg",
+      "prompt": "Create a highly detailed elegant watercolor portrait composition of the person in the photo, combining a realistic full-body seated portrait with a large monochrome artistic facial portrait in the background. The subject is sitting elegantly on the floor with their legs gently crossed. They have long, thick, naturally wavy dark-black hair styled loosely with soft strands framing their face, expressive almond-shaped eyes, naturally defined eyebrows, a refined nose, soft lips, a smooth warm skin tone, and a calm gentle expression looking toward the right side. They are wearing an elegant lavender-gray fitted long-sleeve blouse paired with a flowing [SKIRT_COLOR: ivory-white] ankle-length skirt made from soft lightweight fabric, with natural folds and realistic draping. They wear delicate [JEWELRY_STYLE: pearl] jewelry including a necklace, earrings, and bracelets, with nude-beige high-heeled shoes. They are seated gracefully with both hands resting naturally over one knee, relaxed posture, shoulders slightly turned toward the right, looking peacefully into the distance. Full body visible. Behind them, create a large artistic black-and-white close-up portrait of the same person's face, occupying most of the upper-right background. The facial identity, hairstyle, eyes, nose, lips, jawline, and overall appearance should remain consistent with the foreground subject. The background portrait should look like a soft graphite-and-watercolor painting, slightly faded and atmospheric, blending naturally into the watercolor background. Use a luxury editorial watercolor style, sophisticated fashion illustration, realistic watercolor painting combined with delicate pencil and ink details, soft brush strokes, subtle paint bleeding, transparent watercolor washes, and a cold-pressed texture. Keep the person's face and identity unchanged, preserving their exact facial structure, eyes, nose, lips, jawline, and natural appearance exactly as shown in the photo.",
+      "createdAt": "2026-09-25T15:58:41.835Z",
+      "locked": false
+    },
+    {
       "id": "395ba347-0747-4031-bf32-e70b8ad66665",
       "title": "Cinematic Fantasy Poster",
       "category": "Typography/Poster",
