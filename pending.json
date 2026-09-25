@@ -1,20 +1,3 @@
 {
-  "pending": [
-    {
-      "id": "8dc51196-77dd-4d93-aa25-f77246376acc",
-      "title": "Guerriers / Fantasy",
-      "category": "Other",
-      "famille": "Fictif & Fantastique",
-      "axis": "famille",
-      "subSection": "Guerriers / Fantasy",
-      "tags": [
-        "guerrier",
-        "fantasy"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/ea10037b-bbc6-4eb7-a99c-cfe847d720ea.jpg",
-      "prompt": "Transform the person in the photo into an epic fantasy warrior, keeping their face and identity unchanged. Give them ornate armor, a dramatic [SETTING: battlefield] background, cinematic lighting, and a heroic pose.",
-      "createdAt": "2026-09-25T01:58:49.243Z",
-      "locked": false
-    }
-  ]
+  "pending": []
 }
