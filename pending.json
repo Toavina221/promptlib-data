@@ -1,20 +1,3 @@
 {
-  "pending": [
-    {
-      "id": "395ba347-0747-4031-bf32-e70b8ad66665",
-      "title": "Cinematic Fantasy Poster",
-      "category": "Typography/Poster",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Epic Movie Poster",
-      "tags": [
-        "fantasy",
-        "poster"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/1c4b11ba-145b-42fc-a713-56d31e77fd21.jpg",
-      "prompt": "Create an ultra-realistic cinematic fantasy poster of the person in the photo. The subject is a stylish young man wearing a premium black tailored suit with a black shirt, standing in a confident three-quarter portrait pose. He wears elegant black sunglasses and has naturally textured, slightly messy, professionally styled hair. His expression is calm, mysterious, and cinematic. Seamlessly blend a surreal futuristic city into the right side of the portrait, featuring towering sci-fi skyscrapers, glowing golden rings, floating platforms, advanced bridges, and a breathtaking fantasy landscape. Behind the city, show majestic mountains, dramatic clouds, a glowing golden sunset, a peaceful lake reflecting warm sunlight, flying birds, and a beautiful waterfall. Use a creative double-exposure effect with vertical glass-like cinematic panels, smooth transitions between the face and the city, atmospheric clouds, and realistic depth. In the lower center of the poster, include a small person wearing a dark outfit and backpack, walking alone along a wet rocky mountain path toward the futuristic city, reflecting soft golden light to symbolize ambition and the journey toward the future. Use epic cinematic lighting with a [COLOR_PALETTE: warm golden sunset and deep blue-gray shadows], realistic atmospheric haze, volumetric sunlight, and soft film grain. At the bottom, add elegant, bold, premium serif typography with the main title \"[TITLE_TEXT: SHAMIM]\" and the subtitle \"[SUBTITLE_TEXT: CREATIVE VISIONARY / VISUAL STORYTELLER]\" in refined golden-cream color with a subtle cinematic glow and professional layout. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, eyes, nose, lips, jawline, skin tone, and natural features without any distortion.",
-      "createdAt": "2026-09-25T10:15:23.779Z",
-      "locked": false
-    }
-  ]
+  "pending": []
 }
