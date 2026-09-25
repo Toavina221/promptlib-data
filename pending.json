@@ -15,22 +15,6 @@
       "prompt": "Transform the person in the photo into an epic fantasy warrior, keeping their face and identity unchanged. Give them ornate armor, a dramatic [SETTING: battlefield] background, cinematic lighting, and a heroic pose.",
       "createdAt": "2026-09-25T01:58:49.243Z",
       "locked": false
-    },
-    {
-      "id": "171feac1-c058-4e5d-aae8-ca4e8eed46e3",
-      "title": "Sorciers / Mages",
-      "category": "Other",
-      "famille": "Fictif & Fantastique",
-      "axis": "famille",
-      "subSection": "Sorciers / Mages",
-      "tags": [
-        "sorcier",
-        "mage"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/f96fed08-f4f5-420f-9682-ea73e5fa1514.jpg",
-      "prompt": "Transform the person in the photo into a mystical sorcerer, keeping their face and identity unchanged. Give them flowing robes, glowing magical runes, a dark enchanted background, and dramatic spell-casting lighting.",
-      "createdAt": "2026-09-25T01:59:28.087Z",
-      "locked": false
     }
   ]
 }
