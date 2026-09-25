@@ -1,3 +1,20 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "id": "5cde2faa-a9bd-4a2c-b951-71089118f9b8",
+      "title": "Cinematic Double Exposure Sports Car",
+      "category": "Photographie",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "cinematic",
+        "double exposure"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/a40ff954-c947-46b2-a551-ab47629cfc3a.jpg",
+      "prompt": "Create a cinematic portrait of the person in the photo, keeping their face and identity unchanged. Use [LIGHTING_STYLE: dramatic side] lighting, a [MOOD: dark moody] background, a shallow depth of field, and a strong film-like color grade.",
+      "createdAt": "2026-09-25T02:56:14.756Z",
+      "locked": false
+    }
+  ]
 }
