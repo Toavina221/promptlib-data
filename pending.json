@@ -15,6 +15,22 @@
       "prompt": "A hyper-realistic cinematic dramatic portrait of the person in the photo, shown in side profile reaching one hand toward the camera in a beckoning \"come here\" gesture. The subject has a warm olive-tan skin tone, a lean build, and a dynamic side-angle posture. Their head is turned in side profile with the chin raised slightly, looking off to the side with an intense composed expression. They have a small wooden toothpick held between their lips at the corner of the mouth, voluminous tousled dark hair, dark rectangular sunglasses, and a full thick beard and moustache. One arm is extended forward toward the camera with fingers curled in a slow beckoning motion, hand and fingers slightly motion-blurred from movement, close and prominent in the foreground. They are wearing a black button-up shirt with a stand-up collar and a thin ring on one finger. Use a [LIGHTING_STYLE: dramatic red backlight] glowing behind the subject, creating a deep crimson rim-light along the hair and shoulder, with a soft magenta-pink fill light catching the extended hand and forearm. The face is lit with cooler neutral light in contrast to the warm red background, and deep black shadows fill the rest of the frame. The background is a completely dark studio backdrop with a glowing deep red light source positioned behind and to the side. Use a [COLOR_PALETTE: deep red and black] dominant color scheme, magenta-pink highlights on the extended hand, natural warm skin tones on the face, and dramatic high-contrast cinematic color grading. Keep the person's face and identity unchanged, preserving their exact hairstyle, hairline, facial features, beard density, moustache style, jawline, skin tone, and masculine proportions exactly as shown in the photo.",
       "createdAt": "2026-09-25T08:06:23.590Z",
       "locked": false
+    },
+    {
+      "id": "a940482a-72cb-409e-8bbb-172e167b9ae5",
+      "title": "Moonlit Park Pathway Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "cinematic",
+        "night"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/45adb5ea-a88e-4ef7-bc23-d6a5fe2b3226.jpg",
+      "prompt": "A cinematic, moody portrait of the person in the photo with stylish hair, walking alone along a quiet park pathway on a beautiful moonlit night. The subject is walking slowly with both hands in their pockets, looking far away. They are wearing a black loose fitting sweatshirt with a red and blue graphic print at the chest, loose gray sweatpants, white chunky sneakers, and a smartwatch. A dramatic natural size full moon shines through the branches above, while antique streetlamps along the pathway create pools of warm golden light. Dark trees and soft mist surround the path, with tree branches holding some green and pale red leaves overhead at the top left foreground. Use a [LIGHTING_STYLE: cinematic contrast between cool blue moonlight and warm streetlamp light], an emotional and reflective atmosphere, and a [COLOR_PALETTE: rich cinematic] color grade. Keep the person's face and identity unchanged.",
+      "createdAt": "2026-09-25T08:08:21.249Z",
+      "locked": false
     }
   ]
 }
