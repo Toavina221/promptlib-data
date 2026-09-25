@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "2a6e2d90-674f-4721-9320-790003dee367",
+      "title": "Golden Hour Motion Blur Portrait",
+      "category": "Photographie",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "motionblur",
+        "goldenhour"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/d735de38-950e-4a0f-8dac-de37e225ca52.jpg",
+      "prompt": "A hyper-realistic cinematic photograph of the person in the photo, captured in strong, striking movement with intense motion blur. The subject is wearing their original outfit, standing outdoors in a lush green meadow at golden hour. Strong warm golden backlight creates a luminous halo around their hair and shoulders, with dense dark green trees in the background. Only the face remains a sharp focal anchor point, while the body, arms, and fabric are heavily blurred from the motion. Hair is caught dramatically in the wind, catching the backlight and glowing. Use a [POSE: mid-turn looking over shoulder] pose, and a [COLOR_PALETTE: warm golden amber and deep rich green] color grade. Keep the person's face and identity unchanged, and preserve their exact hairstyle, hair length, and body type.",
+      "createdAt": "2026-09-25T02:12:20.769Z",
+      "locked": false
+    },
+    {
       "id": "8dc51196-77dd-4d93-aa25-f77246376acc",
       "title": "Guerriers / Fantasy",
       "category": "Other",
