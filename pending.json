@@ -31,6 +31,22 @@
       "prompt": "A cinematic, moody portrait of the person in the photo with stylish hair, walking alone along a quiet park pathway on a beautiful moonlit night. The subject is walking slowly with both hands in their pockets, looking far away. They are wearing a black loose fitting sweatshirt with a red and blue graphic print at the chest, loose gray sweatpants, white chunky sneakers, and a smartwatch. A dramatic natural size full moon shines through the branches above, while antique streetlamps along the pathway create pools of warm golden light. Dark trees and soft mist surround the path, with tree branches holding some green and pale red leaves overhead at the top left foreground. Use a [LIGHTING_STYLE: cinematic contrast between cool blue moonlight and warm streetlamp light], an emotional and reflective atmosphere, and a [COLOR_PALETTE: rich cinematic] color grade. Keep the person's face and identity unchanged.",
       "createdAt": "2026-09-25T08:08:21.249Z",
       "locked": false
+    },
+    {
+      "id": "55031735-0038-4c4f-8357-bb59cdbb77da",
+      "title": "Cinematic Lantern Night Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "cinematic",
+        "lantern"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/255fd43c-ac4a-4248-9c66-088a8d312b52.jpg",
+      "prompt": "An ultra-realistic cinematic portrait of the person in the photo with long wavy dark brown hair, holding an antique vintage metal oil lantern with a glowing flame. The warm orange illumination from the lantern casts a soft glow on their face and chest, creating dramatic contrast and soft shadows. They are wearing an elegant white long-sleeved V-neck outfit. The background is a dark moody night with soft bokeh. Use a [LIGHTING_STYLE: warm orange] glow, a [COLOR_PALETTE: moody dark] color grade, highly detailed skin texture, and photorealistic eyes. Keep the person's face and identity unchanged, preserving their exact hairstyle, facial features, and skin tone.",
+      "createdAt": "2026-09-25T09:12:02.430Z",
+      "locked": false
     }
   ]
 }
