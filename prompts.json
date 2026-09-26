@@ -689,13 +689,16 @@
       "title": "3D Pixar Character Transformation",
       "tags": [
         "3d",
-        "pixar",
-        "character"
+        "pixar"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p2-pixar-transformation.jpg",
       "prompt": "3D animated movie character transformation of the person in the photo: Pixar style render, expressive eyes, soft studio lighting, detailed hair and fabric texture, warm vibrant colors",
       "createdAt": "2026-01-01T00:00:00.000Z",
-      "locked": false
+      "locked": false,
+      "category": "3D/CGI",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "3D Pixar Character Transformation"
     },
     {
       "id": "p4",
