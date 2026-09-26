@@ -1,22 +1,6 @@
 {
   "pending": [
     {
-      "id": "0509ac53-2830-4cfe-a3c5-3511a77b605d",
-      "title": "Split Composition Portrait Collage",
-      "category": "Photography",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Fashion Editorial",
-      "tags": [
-        "fashion",
-        "editorial"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/c2c2b7e8-85cc-46d5-8a4e-c26da0368f04.jpg",
-      "prompt": "Create a realistic split-composition artistic portrait collage of the person in the photo. On the right side, show a large close-up portrait of the person smiling warmly, with dark curly quiff hair, light stubble, soft green eyes, and wearing an open-collar [SHIRT_COLOR: olive green] linen shirt with layered gold necklaces. On the left side, show a full-body shot of the same person wearing a matching olive green shirt, green trousers, and white sneakers, posing leaning back. The background features an artistic [BACKGROUND_STYLE: watercolor splash paint] texture in earthy green and off-white tones, blending behind both figures. Use smooth lighting, realistic skin texture, and a highly detailed editorial aesthetic. Keep the person's face and identity unchanged, preserving their exact facial features, hair, and natural appearance exactly as shown in the photo.",
-      "createdAt": "2026-09-26T04:54:21.235Z",
-      "locked": false
-    },
-    {
       "id": "d1345139-c45b-4cbc-bd72-173778f379ee",
       "title": "Duotone Ghost Portrait Composite",
       "category": "Photography",
