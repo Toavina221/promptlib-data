@@ -1,3 +1,20 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "id": "4a15991a-601a-44b3-a3a3-3052d62ca023",
+      "title": "Golden-Hour Meadow Portrait Grid",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Fashion Editorial",
+      "tags": [
+        "goldenhour",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/8cd4eb0c-5f0e-4440-ad8a-11620cbba45e.jpg",
+      "prompt": "Create a 3x3 grid composite image showing the person in the photo in nine different natural poses in a sunlit wildflower meadow at golden hour, in a soft dreamy outdoor editorial style. The person has fair skin, a curvy build, long wavy [HAIR_COLOR: auburn] hair, and a natural warm smile. They are wearing a rust-brown off-shoulder crop top with short ruffled sleeves and high-waisted distressed light-wash denim jeans. The environment is a sunlit meadow filled with tall green grass and scattered orange wildflowers, with a soft blurred tree background, a warm golden-hour haze, and a large flat rock for the seated panels. Use a [COLOR_PALETTE: warm golden-orange and green] color grade, soft golden-hour backlighting, and a gentle warm rim-light on the hair.\n\nThe nine panels are arranged as follows: Panel 1 shows a standing pose, one hand raised to tuck hair behind the ear with a small flower tucked into the hair, weight shifted onto one hip, soft smile toward camera. Panel 2 shows a standing pose walking toward camera, both arms relaxed at the sides, calm warm smile. Panel 3 shows a standing pose in profile, one hand resting behind the head, looking back over the shoulder toward camera with a soft smile. Panel 4 shows a walking pose through tall grass, holding a small wildflower in one hand, looking downward with a gentle smile. Panel 5 shows a side profile pose, head tilted back slightly with eyes closed, hair flowing, joyful serene expression. Panel 6 shows a standing pose, one arm crossed holding a small flower bouquet close to the chest, other hand touching the hair, soft smile. Panel 7 shows a standing pose looking downward at a small flower held in both hands, gentle content expression. Panel 8 shows a seated pose on a large rock, one leg extended and one bent, hands resting near the lap, warm bright smile toward camera. Panel 9 shows a seated pose on the rock, head tilted with one hand touching the hair, looking off to the side with a soft calm expression.\n\nKeep the person's face and identity exactly the same as in the photo in all nine panels, preserving their exact hairstyle, facial features, jawline, and skin tone without any distortion.",
+      "createdAt": "2026-09-26T02:03:23.984Z",
+      "locked": false
+    }
+  ]
 }
