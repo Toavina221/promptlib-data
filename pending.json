@@ -15,6 +15,22 @@
       "prompt": "Create a realistic split-composition artistic portrait collage of the person in the photo. On the right side, show a large close-up portrait of the person smiling warmly, with dark curly quiff hair, light stubble, soft green eyes, and wearing an open-collar [SHIRT_COLOR: olive green] linen shirt with layered gold necklaces. On the left side, show a full-body shot of the same person wearing a matching olive green shirt, green trousers, and white sneakers, posing leaning back. The background features an artistic [BACKGROUND_STYLE: watercolor splash paint] texture in earthy green and off-white tones, blending behind both figures. Use smooth lighting, realistic skin texture, and a highly detailed editorial aesthetic. Keep the person's face and identity unchanged, preserving their exact facial features, hair, and natural appearance exactly as shown in the photo.",
       "createdAt": "2026-09-26T04:54:21.235Z",
       "locked": false
+    },
+    {
+      "id": "d1345139-c45b-4cbc-bd72-173778f379ee",
+      "title": "Duotone Ghost Portrait Composite",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Fashion Editorial",
+      "tags": [
+        "composite",
+        "editorial"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/af3f6cca-f2fb-4da6-a795-487cd39fbe53.jpg",
+      "prompt": "A layered composite portrait of the person in the photo, featuring a massive close-up duotone ghost portrait on the left within a large circular blue backdrop shape, and a smaller sharp full-color full-body walking portrait on the right, both set against a plain light-grey background. The ghost portrait shows a close-up of the person with their head angled slightly downward, slicked-back voluminous hair, wearing aviator-style sunglasses, a full moustache, and a light beard, softly blended within a large solid blue circle. The foreground subject shows a full-body walking pose, walking forward with one hand tucked in a trouser pocket, the other arm relaxed near the waist, head turned slightly to the side, with a calm composed expression. The subject has a medium-tan skin tone, a lean build, and wears an [OUTFIT_COLOR: cream-white] linen blazer over a matching light cream button-up shirt unbuttoned at the collar, matching cream tailored trousers, and black leather lace-up dress shoes. Use soft even studio lighting from the front, a [COLOR_GRADE: cool blue-grey duotone and warm natural] color grade, and a clean editorial aesthetic. Keep the person's face and identity unchanged in both the background portrait and the foreground figure, preserving their exact facial structure, hairstyle, facial features, and natural appearance exactly as shown in the photo.",
+      "createdAt": "2026-09-26T05:08:11.248Z",
+      "locked": false
     }
   ]
 }
