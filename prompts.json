@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "66af87c2-c444-40f8-adcd-0b732b8cf925",
+      "title": "Steampunk Character",
+      "category": "Steampunk",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Steampunk Character",
+      "tags": [
+        "steampunk",
+        "victorian"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/1d4c56a4-6ed6-415c-ab79-f1c2cf3fe795.jpg",
+      "prompt": "Create a steampunk character design sheet of the person in the photo. Show a full illustration of them in brass goggles, leather gear and Victorian clothing, surrounded by callouts pointing to each gadget: a pocket watch with gears, a mechanical glove, a steam pistol and a leather bag of tools, each with a small detailed drawing and handwritten description. Use warm sepia paper and copper ink accents. Keep the person's face and identity unchanged.",
+      "createdAt": "2026-10-02T14:00:28.627Z",
+      "locked": false
+    },
+    {
       "id": "640b5da5-7dc8-4e69-968a-ecae6ee0ced9",
       "title": "Samurai Manga",
       "category": "Manga",
