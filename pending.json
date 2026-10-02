@@ -31,6 +31,22 @@
       "prompt": "Create a folded Christmas card featuring the person in the photo. The front has one large photo of them in a cozy sweater by a decorated tree, and two small round photo windows: one holding a mug of cocoa, one laughing in the snow. Add the greeting \"[GREETING: Merry Christmas]\" in elegant gold script, a holly border, falling snowflakes and a deep green and red card design with gold foil. Keep the person's face and identity unchanged in all three photos.",
       "createdAt": "2026-10-02T08:22:49.728Z",
       "locked": false
+    },
+    {
+      "id": "ff11fd41-c6e1-495b-b1b7-20f9df85af93",
+      "title": "Shonen Action Panel",
+      "category": "Manga",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Shonen Action Panel",
+      "tags": [
+        "shonen",
+        "action"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/4929734a-0be3-45f8-8495-edd6752510b1.jpg",
+      "prompt": "Redraw the person in the photo as the hero of a black and white shonen manga action panel, keeping their face, hairstyle and identity recognizable. Use dynamic speed lines, impact effects, screentone shading and a bold sound effect. Show them leaping toward the reader with a clenched fist and a fierce grin, with a smaller inset panel of their eyes in close-up. Use bold, confident ink lines, deep blacks and dynamic screentone gradients. Keep the composition energetic and readable, like a key page from a famous manga. Keep the person's face recognizable.",
+      "createdAt": "2026-10-02T11:29:09.308Z",
+      "locked": false
     }
   ]
 }
