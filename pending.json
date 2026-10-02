@@ -175,6 +175,22 @@
       "prompt": "Redraw the person in the photo as a wandering samurai in a black and white manga, keeping their face and identity recognizable. Use brush-ink strokes, a katana, wind-blown grass and a dramatic sky. Show them standing still with a hand on the hilt, petals blowing across the frame and a rival waiting in the distance. Use expressive brush-ink strokes, dramatic negative space and fine detail on the kimono and the blade. Keep the atmosphere calm, noble and tense. Keep the person's face recognizable.",
       "createdAt": "2026-10-02T11:31:48.699Z",
       "locked": false
+    },
+    {
+      "id": "0fcd6234-2bf9-4abd-bab4-3e93ab13f039",
+      "title": "Ink Portrait",
+      "category": "Manga",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Ink Portrait",
+      "tags": [
+        "ink",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/1b1d92d0-f044-4b3d-a5bb-76015bf3d8dd.jpg",
+      "prompt": "Create a black and white manga page starring the person in the photo, laid out in four panels. Panel 1: a wide establishing shot of a quiet street at dusk with them walking. Panel 2: a close-up of their eyes with fine hatching. Panel 3: a medium shot as they turn toward the reader with a speech bubble. Panel 4: a detailed ink portrait with screentone shading and a thoughtful expression. Use clean line art, screentones and Japanese sound effects. Keep the person's face and identity recognizable in every panel.",
+      "createdAt": "2026-10-02T11:32:05.361Z",
+      "locked": false
     }
   ]
 }
