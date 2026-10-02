@@ -111,6 +111,22 @@
       "prompt": "Create a set of three manga volumes standing side by side, each cover starring the person in the photo in a different dynamic pose: volume 1 calm and mysterious, volume 2 in an intense battle pose, volume 3 smiling with allies around. Show the colorful covers, the spines with the title \"[TITLE: Rising Spirit]\" and volume numbers, and a glossy finish under soft bookstore lighting. Add a small obi band around one volume with a bestseller line, and a soft reflection on the glossy covers. Keep the person's face and identity recognizable on every cover.",
       "createdAt": "2026-10-02T11:30:30.446Z",
       "locked": false
+    },
+    {
+      "id": "be15e536-c155-4511-8800-31af96887f2d",
+      "title": "Four-Panel Yonkoma",
+      "category": "Manga",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Four-Panel Yonkoma",
+      "tags": [
+        "yonkoma",
+        "comic"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/54986843-3a18-41cf-91d5-c7bfc78a3a97.jpg",
+      "prompt": "Turn the person in the photo into the main character of a funny four-panel yonkoma manga strip, keeping their face recognizable. Use black and white ink, simple backgrounds and a punchline in the last panel. Add exaggerated reactions with sweat drops, sparkles and a final panel where everything goes hilariously wrong. Keep the drawing clean and expressive, with simple, readable panels and a lighthearted atmosphere that makes the reader smile. Keep the person's face recognizable.",
+      "createdAt": "2026-10-02T11:30:53.663Z",
+      "locked": false
     }
   ]
 }
