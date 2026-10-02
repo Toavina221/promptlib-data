@@ -95,6 +95,22 @@
       "prompt": "Create a set of three manga volumes standing side by side, each cover starring the person in the photo in a different dynamic pose: volume 1 calm and mysterious, volume 2 in an intense battle pose, volume 3 smiling with allies around. Show the colorful covers, the spines with the title \"[TITLE: Rising Spirit]\" and volume numbers, and a glossy finish under soft bookstore lighting. Add a small obi band around one volume with a bestseller line, and a soft reflection on the glossy covers. Keep the person's face and identity recognizable on every cover.",
       "createdAt": "2026-10-02T11:30:11.186Z",
       "locked": false
+    },
+    {
+      "id": "5cbc29fe-b107-47ed-94eb-57edbc1a4a84",
+      "title": "Manga Volume Cover",
+      "category": "Manga",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Manga Volume Cover",
+      "tags": [
+        "cover",
+        "volume"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/8f7118aa-a344-44bd-a0bb-35a47ee1b392.jpg",
+      "prompt": "Create a set of three manga volumes standing side by side, each cover starring the person in the photo in a different dynamic pose: volume 1 calm and mysterious, volume 2 in an intense battle pose, volume 3 smiling with allies around. Show the colorful covers, the spines with the title \"[TITLE: Rising Spirit]\" and volume numbers, and a glossy finish under soft bookstore lighting. Add a small obi band around one volume with a bestseller line, and a soft reflection on the glossy covers. Keep the person's face and identity recognizable on every cover.",
+      "createdAt": "2026-10-02T11:30:30.446Z",
+      "locked": false
     }
   ]
 }
