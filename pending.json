@@ -15,6 +15,22 @@
       "prompt": "Create a birthday photo booth strip of four photos of the person in the photo at their party. Frame 1: smiling with a party hat. Frame 2: blowing out [NUMBER: 30] candles on a cake. Frame 3: laughing with confetti in the air. Frame 4: a silly pose with party glasses. Add a gold glitter backdrop, balloons and a strip footer with the date and \"Happy Birthday\". Use warm flash light, a little glitter in the air and the slightly grainy look of a real photo booth print, with a festive, joyful mood. Keep the person's face and identity unchanged in every frame.",
       "createdAt": "2026-10-02T08:20:49.265Z",
       "locked": false
+    },
+    {
+      "id": "07704040-532d-42db-a824-91a255765fff",
+      "title": "New Year's Eve",
+      "category": "Events",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "New Year's Eve",
+      "tags": [
+        "newyear",
+        "fireworks"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/ea916227-dea3-4f68-9d05-b6769f3921ea.jpg",
+      "prompt": "Show the person in the photo celebrating New Year's Eve on a rooftop, raising a glass of sparkling drink while fireworks burst over a city skyline. Dress them in a sparkly festive outfit with gold confetti in the air. Show them laughing with the glass raised high, streamers in their hair and the countdown clock showing midnight. Add the reflection of fireworks in the windows of the skyline. Let the fireworks light up the scene in gold and violet, with sparkles reflecting in the glass and the eyes. Use a festive, glowing color grade with soft bokeh and the magic of midnight. Keep the person's face and identity unchanged.",
+      "createdAt": "2026-10-02T08:21:40.359Z",
+      "locked": false
     }
   ]
 }
