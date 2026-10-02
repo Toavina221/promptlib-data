@@ -255,6 +255,22 @@
       "prompt": "Create a vintage road trip postcard collage featuring the person in the photo on [ROAD: Route 66]. In the center, a large faded photo of them leaning on a classic convertible with a retro motel sign behind. Around it, four smaller postcards: a desert road, a diner, a gas station and a sunset over the canyon, the person appearing in two of them. Add stamps, postmarks, a road map and handwritten notes on aged paper. Keep the person's face and identity unchanged in every photo.",
       "createdAt": "2026-10-02T14:01:45.016Z",
       "locked": false
+    },
+    {
+      "id": "8cba62a9-6ead-4423-9b28-08c65810eef1",
+      "title": "Latte Art Coffee",
+      "category": "Food",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Latte Art Coffee",
+      "tags": [
+        "coffee",
+        "latteart"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/52605a55-7979-4f9a-a72f-1ac5a547ca7d.jpg",
+      "prompt": "Turn the coffee in the photo into a cafe-style latte art photo, keeping the same cup. Add a perfect [ART: rosetta] pattern in the creamy foam, coffee beans scattered on a wooden table, a small spoon and soft morning light. Use a shallow depth of field and warm, inviting tones. Add a croissant on a small plate, a notebook and steam curling from the cup. Let the soft light catch the glossy foam and the rim of the cup, with a gentle reflection on the table. Use warm brown and cream tones, a slight film grain and the calm, cozy atmosphere of a quiet cafe morning. Keep the same cup and colors.",
+      "createdAt": "2026-10-02T14:02:06.352Z",
+      "locked": false
     }
   ]
 }
