@@ -47,6 +47,22 @@
       "prompt": "Redraw the person in the photo as the hero of a black and white shonen manga action panel, keeping their face, hairstyle and identity recognizable. Use dynamic speed lines, impact effects, screentone shading and a bold sound effect. Show them leaping toward the reader with a clenched fist and a fierce grin, with a smaller inset panel of their eyes in close-up. Use bold, confident ink lines, deep blacks and dynamic screentone gradients. Keep the composition energetic and readable, like a key page from a famous manga. Keep the person's face recognizable.",
       "createdAt": "2026-10-02T11:29:09.308Z",
       "locked": false
+    },
+    {
+      "id": "332b0152-4134-4ef1-990d-2b3efa4a0cad",
+      "title": "Shojo Romance",
+      "category": "Manga",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Shojo Romance",
+      "tags": [
+        "shojo",
+        "romance"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/ec856c87-fe06-4989-ae12-be35423022ef.jpg",
+      "prompt": "Redraw the person in the photo as a shojo manga character, keeping their face, hairstyle and identity recognizable. Use delicate ink lines, sparkling eyes, floating flowers and soft screentone backgrounds. Show them blushing slightly with a hand near the heart, a love letter in the other hand and a gentle breeze lifting the hair. Use soft, airy screentones, delicate lines and gentle sparkle effects. Keep the atmosphere tender, emotional and romantic. Keep the person's face recognizable.",
+      "createdAt": "2026-10-02T11:29:29.676Z",
+      "locked": false
     }
   ]
 }
