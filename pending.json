@@ -271,6 +271,22 @@
       "prompt": "Turn the coffee in the photo into a cafe-style latte art photo, keeping the same cup. Add a perfect [ART: rosetta] pattern in the creamy foam, coffee beans scattered on a wooden table, a small spoon and soft morning light. Use a shallow depth of field and warm, inviting tones. Add a croissant on a small plate, a notebook and steam curling from the cup. Let the soft light catch the glossy foam and the rim of the cup, with a gentle reflection on the table. Use warm brown and cream tones, a slight film grain and the calm, cozy atmosphere of a quiet cafe morning. Keep the same cup and colors.",
       "createdAt": "2026-10-02T14:02:06.352Z",
       "locked": false
+    },
+    {
+      "id": "53112465-f558-4a35-8c88-81bd9baef14c",
+      "title": "Sneakers",
+      "category": "Products",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Sneakers",
+      "tags": [
+        "sneakers",
+        "shoes"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/4c88915c-e7bf-49e8-9c40-40272f1e67a7.jpg",
+      "prompt": "Create a 2x2 grid of four colorway versions of the shoe in the photo, keeping its exact design, shape and logo placement in every panel, like a sneaker release poster. Panel 1: the original colors. Panel 2: an all-black edition. Panel 3: a pastel edition. Panel 4: a bold neon edition. Each shoe floats at the same dynamic angle on its own matching gradient background, with crisp studio lighting and a small edition name under it. Keep its exact design and logos.",
+      "createdAt": "2026-10-02T14:02:26.801Z",
+      "locked": false
     }
   ]
 }
