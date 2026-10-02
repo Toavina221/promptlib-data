@@ -207,6 +207,22 @@
       "prompt": "Create a steampunk character design sheet of the person in the photo. Show a full illustration of them in brass goggles, leather gear and Victorian clothing, surrounded by callouts pointing to each gadget: a pocket watch with gears, a mechanical glove, a steam pistol and a leather bag of tools, each with a small detailed drawing and handwritten description. Use warm sepia paper and copper ink accents. Keep the person's face and identity unchanged.",
       "createdAt": "2026-10-02T14:00:28.627Z",
       "locked": false
+    },
+    {
+      "id": "dcdf2a61-b5ed-49a5-821f-9c1f469a80ab",
+      "title": "Retro Video Game Hero",
+      "category": "Transformations",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Retro Video Game Hero",
+      "tags": [
+        "videogame",
+        "hero"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/da37cc19-afb6-4ca5-90e7-3953bbe38edd.jpg",
+      "prompt": "Create a retro video game character select screen featuring the person in the photo as a playable hero from a [ERA: 1990s] game, keeping their face, hairstyle and outfit recognizable. Show them large in the center in a heroic idle pose, with stat bars for strength, speed and magic, a special move name, and a row of small portraits of other characters at the bottom with theirs highlighted. Add a pixel font PLAYER 1 title and a colorful arcade background. Keep the person's face recognizable.",
+      "createdAt": "2026-10-02T14:01:01.756Z",
+      "locked": false
     }
   ]
 }
