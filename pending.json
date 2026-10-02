@@ -127,6 +127,22 @@
       "prompt": "Turn the person in the photo into the main character of a funny four-panel yonkoma manga strip, keeping their face recognizable. Use black and white ink, simple backgrounds and a punchline in the last panel. Add exaggerated reactions with sweat drops, sparkles and a final panel where everything goes hilariously wrong. Keep the drawing clean and expressive, with simple, readable panels and a lighthearted atmosphere that makes the reader smile. Keep the person's face recognizable.",
       "createdAt": "2026-10-02T11:30:53.663Z",
       "locked": false
+    },
+    {
+      "id": "fa22a32a-f8ac-461b-88ac-102e6c5e1461",
+      "title": "Horror Manga",
+      "category": "Manga",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Horror Manga",
+      "tags": [
+        "horror",
+        "manga"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/26de5134-b549-4463-b9e5-5c66b450fe5a.jpg",
+      "prompt": "Redraw the person in the photo in an eerie horror manga style, keeping their face and identity recognizable. Use intricate ink detail, spiral motifs, unsettling shadows and a creepy abandoned house behind. Show them looking over the shoulder with wide eyes, a long shadow on the wall behind and a faint hand reaching from the darkness. Use detailed ink textures, deep shadows and subtle unsettling details hidden in the background. Keep the atmosphere chilling and suspenseful. Keep the person's face recognizable.",
+      "createdAt": "2026-10-02T11:31:14.114Z",
+      "locked": false
     }
   ]
 }
