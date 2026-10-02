@@ -11,7 +11,7 @@
         "birthday",
         "party"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/df4e4941-e415-43a1-9000-114a5b40e751.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/c4e8a744-707c-4c29-be09-f35817aaab4e.jpg",
       "prompt": "Create a birthday photo booth strip of four photos of the person in the photo at their party. Frame 1: smiling with a party hat. Frame 2: blowing out [NUMBER: 30] candles on a cake. Frame 3: laughing with confetti in the air. Frame 4: a silly pose with party glasses. Add a gold glitter backdrop, balloons and a strip footer with the date and \"Happy Birthday\". Use warm flash light, a little glitter in the air and the slightly grainy look of a real photo booth print, with a festive, joyful mood. Keep the person's face and identity unchanged in every frame.",
       "createdAt": "2026-10-02T08:20:49.265Z",
       "locked": false
