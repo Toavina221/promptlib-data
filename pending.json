@@ -207,6 +207,21 @@
       "prompt": "Create a vertical full-color webtoon strip of three stacked panels starring the person in the photo, keeping their face, hairstyle and identity recognizable. Panel 1: them entering a [SETTING: cafe] with soft sunlight. Panel 2: a close-up as they smile shyly with sparkles around. Panel 3: them sitting by the window with a coffee cup and a speech bubble. Use soft digital coloring, glowing highlights and smooth gradients between panels. Keep the person's face and identity recognizable in every panel.",
       "createdAt": "2026-10-02T11:32:23.137Z",
       "locked": false
+    },
+    {
+      "id": "535bd34f-08ed-4a2b-8c22-8aa8baa60678",
+      "title": "Phone test reject me",
+      "category": "Painting",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Pop Art",
+      "tags": [
+        "test tagd"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/143026a1-0ab3-418d-9396-ba2a9eebd08c.jpg",
+      "prompt": "Pop art portrait test from phone",
+      "createdAt": "2026-10-02T12:55:03.351Z",
+      "locked": false
     }
   ]
 }
