@@ -271,6 +271,22 @@
       "prompt": "Turn the place in the photo into a snowy mountain village in winter, keeping its buildings and layout recognizable. Add thick fresh snow on the roofs, icicles, warm glowing windows, smoke from chimneys, falling snowflakes and mountains in the background at blue dusk. Use a cozy, magical winter atmosphere. Add a horse-drawn sleigh on the road, lanterns along the path and a church spire glowing in the center. Keep its buildings and layout recognizable.",
       "createdAt": "2026-10-02T14:02:54.712Z",
       "locked": false
+    },
+    {
+      "id": "f88a6e7d-a5ca-4d84-a97c-0d4bb38dea51",
+      "title": "Graduation Day",
+      "category": "Life Milestones",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Graduation Day",
+      "tags": [
+        "graduation",
+        "success"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/dafc27a4-1166-4c78-8cac-4fa9f3d03f9a.jpg",
+      "prompt": "Create a graduation memories collage of the person in the photo. In the center, a large photo of them in a cap and gown holding a diploma in front of a [PLACE: university] building. Around it, three smaller photos: throwing the cap in the air, a candid laugh with the stole, and a close-up of the diploma with their hand. Add the graduation year in gold, confetti, a tassel and handwritten congratulations on textured paper. Keep the person's face and identity unchanged in every photo.",
+      "createdAt": "2026-10-02T18:39:38.227Z",
+      "locked": false
     }
   ]
 }
