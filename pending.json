@@ -191,6 +191,22 @@
       "prompt": "Create a black and white manga page starring the person in the photo, laid out in four panels. Panel 1: a wide establishing shot of a quiet street at dusk with them walking. Panel 2: a close-up of their eyes with fine hatching. Panel 3: a medium shot as they turn toward the reader with a speech bubble. Panel 4: a detailed ink portrait with screentone shading and a thoughtful expression. Use clean line art, screentones and Japanese sound effects. Keep the person's face and identity recognizable in every panel.",
       "createdAt": "2026-10-02T11:32:05.361Z",
       "locked": false
+    },
+    {
+      "id": "939d1369-ddb0-415e-b0db-303d1b2aedd7",
+      "title": "Webtoon Color",
+      "category": "Manga",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Webtoon Color",
+      "tags": [
+        "webtoon",
+        "color"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/3616800c-58ec-4451-baec-fc6e97153add.jpg",
+      "prompt": "Create a vertical full-color webtoon strip of three stacked panels starring the person in the photo, keeping their face, hairstyle and identity recognizable. Panel 1: them entering a [SETTING: cafe] with soft sunlight. Panel 2: a close-up as they smile shyly with sparkles around. Panel 3: them sitting by the window with a coffee cup and a speech bubble. Use soft digital coloring, glowing highlights and smooth gradients between panels. Keep the person's face and identity recognizable in every panel.",
+      "createdAt": "2026-10-02T11:32:23.137Z",
+      "locked": false
     }
   ]
 }
