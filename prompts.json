@@ -1,6 +1,21 @@
 {
   "prompts": [
     {
+      "id": "f2d966b0-bc39-420e-82b2-0737be93fc2a",
+      "title": "Manga Portrait",
+      "category": "Manga",
+      "famille": "Other",
+      "axis": "style",
+      "tags": [
+        "manga",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/c9e72c74-db77-47c1-9489-564534e3573d.jpg",
+      "prompt": "Transform the person in the photo into a black and white manga character, keeping their face, hairstyle and identity recognizable. Use clean ink lines, screentone shading, dramatic speed lines and a [SETTING: city rooftop at dusk] background.",
+      "createdAt": "2026-10-02T05:57:39.726Z",
+      "locked": false
+    },
+    {
       "id": "deed4587-a9f7-42f3-94d2-4285220f4f5f",
       "title": "Miniature World",
       "category": "3D/CGI",
