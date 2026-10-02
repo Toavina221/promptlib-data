@@ -47,6 +47,22 @@
       "prompt": "Create a folded Christmas card featuring the person in the photo. The front has one large photo of them in a cozy sweater by a decorated tree, and two small round photo windows: one holding a mug of cocoa, one laughing in the snow. Add the greeting \"[GREETING: Merry Christmas]\" in elegant gold script, a holly border, falling snowflakes and a deep green and red card design with gold foil. Keep the person's face and identity unchanged in all three photos.",
       "createdAt": "2026-10-02T08:22:49.728Z",
       "locked": false
+    },
+    {
+      "id": "baeba905-d7ae-4868-8722-125f0d1a9828",
+      "title": "Halloween Costume",
+      "category": "Events",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Halloween Costume",
+      "tags": [
+        "halloween",
+        "costume"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/0305f837-2db5-42f8-b20c-8241005eb9b4.jpg",
+      "prompt": "Dress the person in the photo in a detailed Halloween [COSTUME: vampire] costume, keeping their face and identity unchanged. Add carved glowing pumpkins, purple fog, bats and a spooky full moon. Use dramatic moody lighting. Show them in a dramatic pose on a porch decorated with cobwebs, a black cat on the railing and a bowl of candy. Use orange and purple light and swirling fog. Let the glow of the pumpkins light the scene from below, with soft fog curling at the feet and moonlight from behind. Use an orange and violet color grade and a spooky but fun atmosphere. Keep the person's face and identity unchanged.",
+      "createdAt": "2026-10-02T08:25:36.028Z",
+      "locked": false
     }
   ]
 }
