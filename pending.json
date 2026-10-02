@@ -223,6 +223,22 @@
       "prompt": "Create a retro video game character select screen featuring the person in the photo as a playable hero from a [ERA: 1990s] game, keeping their face, hairstyle and outfit recognizable. Show them large in the center in a heroic idle pose, with stat bars for strength, speed and magic, a special move name, and a row of small portraits of other characters at the bottom with theirs highlighted. Add a pixel font PLAYER 1 title and a colorful arcade background. Keep the person's face recognizable.",
       "createdAt": "2026-10-02T14:01:01.756Z",
       "locked": false
+    },
+    {
+      "id": "6c12ddf0-3890-4dea-aba2-d1a2b699adbf",
+      "title": "Office Chaos Comic",
+      "category": "Humor",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Office Chaos Comic",
+      "tags": [
+        "comic",
+        "office"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/9918e1c2-9b55-4684-91ee-5115acaf300f.jpg",
+      "prompt": "Turn the person in the photo into the hero of a funny four-panel office comic strip, keeping their face recognizable. Show a chaotic Monday morning: a printer jam, a coffee spill, an endless meeting and a final triumphant moment, with short speech bubbles and bright comic colors. Add expressive sweat drops, sound effects like BEEP and SPLASH, and the final panel showing them victorious with a perfect cup of coffee. Keep the person's face recognizable.",
+      "createdAt": "2026-10-02T14:01:24.930Z",
+      "locked": false
     }
   ]
 }
