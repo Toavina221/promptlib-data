@@ -239,6 +239,22 @@
       "prompt": "Turn the person in the photo into the hero of a funny four-panel office comic strip, keeping their face recognizable. Show a chaotic Monday morning: a printer jam, a coffee spill, an endless meeting and a final triumphant moment, with short speech bubbles and bright comic colors. Add expressive sweat drops, sound effects like BEEP and SPLASH, and the final panel showing them victorious with a perfect cup of coffee. Keep the person's face recognizable.",
       "createdAt": "2026-10-02T14:01:24.930Z",
       "locked": false
+    },
+    {
+      "id": "77210fb6-1c4f-4dd9-86e0-52126dd87a06",
+      "title": "Vintage Road Trip",
+      "category": "Travel",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Vintage Road Trip",
+      "tags": [
+        "roadtrip",
+        "vintage"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/50ac6af0-62ca-4e52-bd2d-ad281e4db566.jpg",
+      "prompt": "Create a vintage road trip postcard collage featuring the person in the photo on [ROAD: Route 66]. In the center, a large faded photo of them leaning on a classic convertible with a retro motel sign behind. Around it, four smaller postcards: a desert road, a diner, a gas station and a sunset over the canyon, the person appearing in two of them. Add stamps, postmarks, a road map and handwritten notes on aged paper. Keep the person's face and identity unchanged in every photo.",
+      "createdAt": "2026-10-02T14:01:45.016Z",
+      "locked": false
     }
   ]
 }
