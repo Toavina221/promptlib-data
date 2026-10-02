@@ -31,6 +31,22 @@
       "prompt": "Show the person in the photo celebrating New Year's Eve on a rooftop, raising a glass of sparkling drink while fireworks burst over a city skyline. Dress them in a sparkly festive outfit with gold confetti in the air. Show them laughing with the glass raised high, streamers in their hair and the countdown clock showing midnight. Add the reflection of fireworks in the windows of the skyline. Let the fireworks light up the scene in gold and violet, with sparkles reflecting in the glass and the eyes. Use a festive, glowing color grade with soft bokeh and the magic of midnight. Keep the person's face and identity unchanged.",
       "createdAt": "2026-10-02T08:21:40.359Z",
       "locked": false
+    },
+    {
+      "id": "c771994d-6750-4fc3-8f5c-aca00135bd18",
+      "title": "Christmas Card",
+      "category": "Events",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Christmas Card",
+      "tags": [
+        "christmas",
+        "card"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/402b6ad7-4df2-483a-9cea-4b5c57af0467.jpg",
+      "prompt": "Create a folded Christmas card featuring the person in the photo. The front has one large photo of them in a cozy sweater by a decorated tree, and two small round photo windows: one holding a mug of cocoa, one laughing in the snow. Add the greeting \"[GREETING: Merry Christmas]\" in elegant gold script, a holly border, falling snowflakes and a deep green and red card design with gold foil. Keep the person's face and identity unchanged in all three photos.",
+      "createdAt": "2026-10-02T08:22:49.728Z",
+      "locked": false
     }
   ]
 }
