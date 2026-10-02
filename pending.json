@@ -63,6 +63,22 @@
       "prompt": "Redraw the person in the photo as a shojo manga character, keeping their face, hairstyle and identity recognizable. Use delicate ink lines, sparkling eyes, floating flowers and soft screentone backgrounds. Show them blushing slightly with a hand near the heart, a love letter in the other hand and a gentle breeze lifting the hair. Use soft, airy screentones, delicate lines and gentle sparkle effects. Keep the atmosphere tender, emotional and romantic. Keep the person's face recognizable.",
       "createdAt": "2026-10-02T11:29:29.676Z",
       "locked": false
+    },
+    {
+      "id": "497090b1-99af-4b02-8776-e818f3e8e66a",
+      "title": "Seinen Gritty",
+      "category": "Manga",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Seinen Gritty",
+      "tags": [
+        "seinen",
+        "gritty"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/4185d2ed-fe72-446c-b1a7-a7f00675da02.jpg",
+      "prompt": "Redraw the person in the photo in a gritty seinen manga style, keeping their face and identity recognizable. Use heavy cross-hatching, realistic proportions, deep shadows and a tense urban setting. Show them leaning on a wall in a long coat with a tired, sharp gaze and rain streaks drawn in fine lines. Use dense cross-hatching, heavy blacks and realistic textures on the clothes and walls. Keep the atmosphere mature, tense and cinematic. Keep the person's face recognizable.",
+      "createdAt": "2026-10-02T11:29:47.221Z",
+      "locked": false
     }
   ]
 }
