@@ -287,6 +287,22 @@
       "prompt": "Create a 2x2 grid of four colorway versions of the shoe in the photo, keeping its exact design, shape and logo placement in every panel, like a sneaker release poster. Panel 1: the original colors. Panel 2: an all-black edition. Panel 3: a pastel edition. Panel 4: a bold neon edition. Each shoe floats at the same dynamic angle on its own matching gradient background, with crisp studio lighting and a small edition name under it. Keep its exact design and logos.",
       "createdAt": "2026-10-02T14:02:26.801Z",
       "locked": false
+    },
+    {
+      "id": "6a6a8287-f6a9-453e-b2b5-787c3e2dc36b",
+      "title": "Snowy Mountain Village",
+      "category": "Places",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Snowy Mountain Village",
+      "tags": [
+        "snow",
+        "village"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/57c5fd33-8ccc-415b-ad95-277c7b3c8f81.jpg",
+      "prompt": "Turn the place in the photo into a snowy mountain village in winter, keeping its buildings and layout recognizable. Add thick fresh snow on the roofs, icicles, warm glowing windows, smoke from chimneys, falling snowflakes and mountains in the background at blue dusk. Use a cozy, magical winter atmosphere. Add a horse-drawn sleigh on the road, lanterns along the path and a church spire glowing in the center. Keep its buildings and layout recognizable.",
+      "createdAt": "2026-10-02T14:02:54.712Z",
+      "locked": false
     }
   ]
 }
