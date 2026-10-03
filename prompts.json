@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "d081ca70-9496-4080-ab57-4db78384bacd",
+      "title": "1960s Mod Pop",
+      "category": "Vintage / Retro",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "1960s Mod Pop",
+      "tags": [
+        "1960s",
+        "mod"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/b3bf1d69-30f2-470e-b9ba-0d4f40180409.jpg",
+      "prompt": "Restyle the person in the photo as a 1960s mod icon, keeping their face and identity unchanged. Dress them in a sharp mod outfit with a bold geometric print, white go-go boots or a slim suit, posed confidently against a [COLOR: orange] backdrop with large overlapping circles and stripes. Use flat saturated colors, slight halftone texture and the look of a vintage fashion magazine page from 1966 with playful retro typography. Pose them with a playful hand on the hip and a slight head tilt, with a vintage scooter parked beside them. Keep the person's face and identity unchanged.",
+      "createdAt": "2026-10-03T04:19:42.449Z",
+      "locked": false
+    },
+    {
       "id": "f88a6e7d-a5ca-4d84-a97c-0d4bb38dea51",
       "title": "Graduation Day",
       "category": "Life Milestones",
