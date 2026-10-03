@@ -1,22 +1,6 @@
 {
   "prompts": [
     {
-      "id": "912f40aa-8917-49b3-b0a2-cee51ce94f01",
-      "title": "African Safari",
-      "category": "Travel",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "African Safari",
-      "tags": [
-        "safari",
-        "wildlife"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/c08165e8-853a-41e5-ad5e-31328ecb9684.jpg",
-      "prompt": "Show the person in the photo on an African safari, standing in an open jeep with binoculars and a khaki outfit. Add [ANIMAL: elephants] crossing the savanna in the distance, acacia trees and golden late afternoon light with dust in the air. Show them smiling as they lower the binoculars, with a giraffe passing between the acacias and birds taking off from the grass. Add a dusty track, a warm sky streaked with clouds and the jeep's open roof frame. Keep the person's face and identity unchanged.",
-      "createdAt": "2026-10-03T18:37:22.578Z",
-      "locked": false
-    },
-    {
       "id": "d081ca70-9496-4080-ab57-4db78384bacd",
       "title": "1960s Mod Pop",
       "category": "Vintage / Retro",
