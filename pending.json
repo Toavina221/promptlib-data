@@ -271,22 +271,6 @@
       "prompt": "Turn the place in the photo into a snowy mountain village in winter, keeping its buildings and layout recognizable. Add thick fresh snow on the roofs, icicles, warm glowing windows, smoke from chimneys, falling snowflakes and mountains in the background at blue dusk. Use a cozy, magical winter atmosphere. Add a horse-drawn sleigh on the road, lanterns along the path and a church spire glowing in the center. Keep its buildings and layout recognizable.",
       "createdAt": "2026-10-02T14:02:54.712Z",
       "locked": false
-    },
-    {
-      "id": "d081ca70-9496-4080-ab57-4db78384bacd",
-      "title": "1960s Mod Pop",
-      "category": "Vintage / Retro",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "1960s Mod Pop",
-      "tags": [
-        "1960s",
-        "mod"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/b3bf1d69-30f2-470e-b9ba-0d4f40180409.jpg",
-      "prompt": "Restyle the person in the photo as a 1960s mod icon, keeping their face and identity unchanged. Dress them in a sharp mod outfit with a bold geometric print, white go-go boots or a slim suit, posed confidently against a [COLOR: orange] backdrop with large overlapping circles and stripes. Use flat saturated colors, slight halftone texture and the look of a vintage fashion magazine page from 1966 with playful retro typography. Pose them with a playful hand on the hip and a slight head tilt, with a vintage scooter parked beside them. Keep the person's face and identity unchanged.",
-      "createdAt": "2026-10-03T04:19:42.449Z",
-      "locked": false
     }
   ]
 }
