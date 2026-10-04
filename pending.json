@@ -287,22 +287,6 @@
       "prompt": "Create a soft window light portrait of the person in the photo, seated next to a large window with sheer white curtains moving gently. Light falls across one side of the face, with soft natural shadows on the other side and a catchlight in the eyes. Their expression is quiet and introspective, hands resting near a cup of tea on the windowsill. Dress them in a cozy knit sweater. Use muted natural tones, a calm indoor atmosphere, gentle grain and the look of an intimate lifestyle magazine photo. Add the soft pattern of the window frame on the wall behind them and a few dust particles floating in the light. Keep the person's face and identity unchanged.",
       "createdAt": "2026-10-03T05:42:43.041Z",
       "locked": false
-    },
-    {
-      "id": "3f6b3c17-26c3-4b6d-8815-f38d93dfc317",
-      "title": "Age Progression Timeline Portrait",
-      "category": "Photography",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Cinematic Portrait",
-      "tags": [
-        "timeline",
-        "composite"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/c8fe2101-af43-4d09-a5a9-206020b85ed0.jpg",
-      "prompt": "Create a cinematic photorealistic composite portrait showing the same person at [NUMBER_OF_STAGES: 6] different stages of life, from childhood to adulthood, arranged in a diagonal sequence from left to right. Each stage appears in a vertical slice or panel, separated by thin glowing vertical lines. The subject faces forward with a serious, calm, and determined expression. They are wearing age-appropriate casual clothing: a white shirt as a child, a dark jacket as a teenager, a denim jacket, and a red overshirt as an adult. Use a [BACKGROUND_COLOR: plain light grey] studio background, soft even lighting, and a clean editorial composition. Adapt the subject's gender, ethnicity, and body type to match the person in the photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Keep the person's core facial identity, recognizable features, and essential facial structure consistent across all ages, while showing natural aging and growth. Do not change their fundamental identity, do not replace them with a different person, and do not beautify or cartoonize. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing body parts, and no distorted anatomy. Every limb must be correctly attached to the body and naturally positioned.",
-      "createdAt": "2026-10-04T03:49:49.511Z",
-      "locked": false
     }
   ]
 }
