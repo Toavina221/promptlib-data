@@ -271,6 +271,22 @@
       "prompt": "Turn the place in the photo into a snowy mountain village in winter, keeping its buildings and layout recognizable. Add thick fresh snow on the roofs, icicles, warm glowing windows, smoke from chimneys, falling snowflakes and mountains in the background at blue dusk. Use a cozy, magical winter atmosphere. Add a horse-drawn sleigh on the road, lanterns along the path and a church spire glowing in the center. Keep its buildings and layout recognizable.",
       "createdAt": "2026-10-02T14:02:54.712Z",
       "locked": false
+    },
+    {
+      "id": "66bbf081-b7cf-450d-8bd3-617ba9dcfb04",
+      "title": "Teal Water Roses Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "cinematic",
+        "roses"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/1b847c4b-c0fe-4dc0-a93e-3063e124f453.jpg",
+      "prompt": "Create a cinematic photorealistic portrait of the person in the photo kneeling in shallow water. They are holding a large bouquet of [FLOWER_COLOR: bright red] roses with both arms. The background is a dramatic, glowing [BACKGROUND_COLOR: teal and cyan] cloudy sky, creating a mystical and powerful atmosphere. They are wearing a black spaghetti-strap top and ripped light-blue jeans. Use dramatic cinematic backlighting with clear reflections on the water surface. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-04T14:47:04.863Z",
+      "locked": false
     }
   ]
 }
