@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "125ac5b6-a61f-448a-903e-4a6cf32322bc",
+      "title": "Cinematic Mountain Road Composite",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "cinematic",
+        "composite"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/fbf38898-f2d0-483a-8b0b-5e65dd16ea0c.jpg",
+      "prompt": "Generate a cinematic photorealistic composite of the person in the photo with stylish hair, preserving their exact facial identity. Show them walking along the middle of a winding mountain road toward the camera, under dramatic cloudy skies. They are wearing a [JACKET_COLOR: rust-brown] utility jacket, an off-white t-shirt, dark distressed jeans, and hiking sneakers. They are wearing round reflective sunglasses, carrying a small backpack over one shoulder, with one hand holding the shoulder strap, looking far away with full attitude. Ensure realistic human anatomy with exactly two hands and two legs, no extra limbs. A huge soft close-up half portrait of the person wearing sunglasses looking confidently toward the horizon blends into the clouds and distant mountains. The environment features dark green hills, roadside grass, a distant concrete milestone written \"[TEXT: 18km]\", subtle mist, diffused evening light, a dark moody atmosphere, natural wind, and realistic landscape details. Use a premium outdoor editorial photography style. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority.",
+      "createdAt": "2026-10-04T03:18:59.144Z",
+      "locked": false
+    },
+    {
       "id": "d081ca70-9496-4080-ab57-4db78384bacd",
       "title": "1960s Mod Pop",
       "category": "Vintage / Retro",
