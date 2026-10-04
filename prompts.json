@@ -1,22 +1,6 @@
 {
   "prompts": [
     {
-      "id": "9860a01a-5855-4404-8116-33a5f611b81b",
-      "title": "Office Chaos Comic",
-      "category": "Humor",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Office Chaos Comic",
-      "tags": [
-        "comic",
-        "office"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/32500d81-e98a-46d7-b5f2-714cd32bd257.jpg",
-      "prompt": "Turn the person in the photo into the hero of a funny four-panel office comic strip, keeping their face recognizable. Show a chaotic Monday morning: a printer jam, a coffee spill, an endless meeting and a final triumphant moment, with short speech bubbles and bright comic colors. Add expressive sweat drops, sound effects like BEEP and SPLASH, and the final panel showing them victorious with a perfect cup of coffee. Keep the person's face recognizable.",
-      "createdAt": "2026-10-04T03:25:18.769Z",
-      "locked": false
-    },
-    {
       "id": "d081ca70-9496-4080-ab57-4db78384bacd",
       "title": "1960s Mod Pop",
       "category": "Vintage / Retro",
