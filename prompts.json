@@ -1,6 +1,23 @@
 {
   "prompts": [
     {
+      "id": "4f7b8865-f991-4d52-994d-db595ea78fa6",
+      "title": "Double Exposure Denim Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "double exposure",
+        "editorial"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/456b36b1-095b-49ed-9995-cba9497a078e.jpg",
+      "prompt": "Create a cinematic photorealistic double-exposure portrait of the person in the photo. The background features a large close-up profile view of the person wearing [SUNGLASSES_STYLE: aviator] sunglasses, looking to the side. The foreground shows a full-body shot of the same person standing with hands in their pockets, smiling gently. They are wearing a [JACKET_STYLE: light denim] jacket over a [SHIRT_COLOR: black] t-shirt, black jeans, a black belt, and aviator sunglasses. The background is an abstract studio backdrop with dramatic golden light rays and smoke. Use a premium editorial photography style. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-04T14:21:10.209Z",
+      "locked": false,
+      "signature": "Admin"
+    },
+    {
       "id": "1a7b2706-069e-417d-a576-f9375d0888a2",
       "title": "Giant With Miniature Clones Composite",
       "category": "Photography",
