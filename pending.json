@@ -287,22 +287,6 @@
       "prompt": "Create a soft window light portrait of the person in the photo, seated next to a large window with sheer white curtains moving gently. Light falls across one side of the face, with soft natural shadows on the other side and a catchlight in the eyes. Their expression is quiet and introspective, hands resting near a cup of tea on the windowsill. Dress them in a cozy knit sweater. Use muted natural tones, a calm indoor atmosphere, gentle grain and the look of an intimate lifestyle magazine photo. Add the soft pattern of the window frame on the wall behind them and a few dust particles floating in the light. Keep the person's face and identity unchanged.",
       "createdAt": "2026-10-03T05:42:43.041Z",
       "locked": false
-    },
-    {
-      "id": "9860a01a-5855-4404-8116-33a5f611b81b",
-      "title": "Office Chaos Comic",
-      "category": "Humor",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Office Chaos Comic",
-      "tags": [
-        "comic",
-        "office"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/32500d81-e98a-46d7-b5f2-714cd32bd257.jpg",
-      "prompt": "Turn the person in the photo into the hero of a funny four-panel office comic strip, keeping their face recognizable. Show a chaotic Monday morning: a printer jam, a coffee spill, an endless meeting and a final triumphant moment, with short speech bubbles and bright comic colors. Add expressive sweat drops, sound effects like BEEP and SPLASH, and the final panel showing them victorious with a perfect cup of coffee. Keep the person's face recognizable.",
-      "createdAt": "2026-10-04T03:25:18.769Z",
-      "locked": false
     }
   ]
 }
