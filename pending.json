@@ -271,22 +271,6 @@
       "prompt": "Turn the place in the photo into a snowy mountain village in winter, keeping its buildings and layout recognizable. Add thick fresh snow on the roofs, icicles, warm glowing windows, smoke from chimneys, falling snowflakes and mountains in the background at blue dusk. Use a cozy, magical winter atmosphere. Add a horse-drawn sleigh on the road, lanterns along the path and a church spire glowing in the center. Keep its buildings and layout recognizable.",
       "createdAt": "2026-10-02T14:02:54.712Z",
       "locked": false
-    },
-    {
-      "id": "1a7b2706-069e-417d-a576-f9375d0888a2",
-      "title": "Giant With Miniature Clones Composite",
-      "category": "Photography",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Cinematic Portrait",
-      "tags": [
-        "composite",
-        "miniature"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/829cf291-f7a4-4f7f-8238-c364747b2792.jpg",
-      "prompt": "Create a cinematic photorealistic composite portrait of the person in the photo as a giant central figure sitting cross-legged on the floor, facing the camera with a calm, serious expression. The main subject is wearing a [HOODIE_COLOR: grey] hoodie, dark ripped jeans, and brown leather boots. Their hands are open with palms facing upward, resting near their knees. Surround them with six miniature versions of the same person, placed as separate small figures: one standing on each open palm, one sitting thoughtfully on each shoulder, one sitting cross-legged on the ground near the left boot, and one crouching thoughtfully on the ground near the right boot. The miniature figures wear matching brown hoodies and dark jeans. Use a plain warm beige studio background, soft cinematic lighting, and realistic shadows. The small figures are separate individuals, not extra limbs or body parts of the main subject. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the main subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. Each miniature figure must also have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
-      "createdAt": "2026-10-04T13:31:52.621Z",
-      "locked": false
     }
   ]
 }
