@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "5a32641f-e790-4437-87e9-b32531ff65b8",
+      "title": "Desert Camel Trek",
+      "category": "Travel",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Desert Camel Trek",
+      "tags": [
+        "desert",
+        "camel"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/25a033ff-b9b4-4ba1-9944-fbcc8f6c522b.jpg",
+      "prompt": "Show the person in the photo on a camel trek across the [DESERT: Sahara], riding a camel along rolling sand dunes with a light scarf moving in the wind. Use a low orange sun, long shadows and a wide cinematic frame. Show them wrapped in a light scarf, holding the reins, with a caravan of camels behind them on the ridge of a dune. Add ripples in the sand, a distant oasis with palm trees and a huge low sun. Keep the person's face and identity unchanged.",
+      "createdAt": "2026-10-04T03:05:39.613Z",
+      "locked": false
+    },
+    {
       "id": "5dc43ccf-8b52-480c-851a-4398b9d67c2d",
       "title": "Golf",
       "category": "Sport",
