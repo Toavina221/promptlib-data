@@ -287,22 +287,6 @@
       "prompt": "Create a soft window light portrait of the person in the photo, seated next to a large window with sheer white curtains moving gently. Light falls across one side of the face, with soft natural shadows on the other side and a catchlight in the eyes. Their expression is quiet and introspective, hands resting near a cup of tea on the windowsill. Dress them in a cozy knit sweater. Use muted natural tones, a calm indoor atmosphere, gentle grain and the look of an intimate lifestyle magazine photo. Add the soft pattern of the window frame on the wall behind them and a few dust particles floating in the light. Keep the person's face and identity unchanged.",
       "createdAt": "2026-10-03T05:42:43.041Z",
       "locked": false
-    },
-    {
-      "id": "629909b8-a3b7-4473-b5f6-b0f137ea6593",
-      "title": "Romantic Couple Portrait",
-      "category": "Couple",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Romantic Couple Portrait",
-      "tags": [
-        "couple",
-        "love"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/b1f3d101-4e3a-40ac-8d78-bafd15429c0b.jpg",
-      "prompt": "Create a vintage photo booth strip of four black and white photos of the couple in the photo. Frame 1: both smiling at the camera. Frame 2: one whispering in the other's ear while they laugh. Frame 3: a playful funny face together. Frame 4: a tender moment with foreheads touching. Show the strip slightly curled on a wooden table, with a heart drawn in pen in the corner, soft flash lighting and authentic photo booth grain. Keep both faces and identities unchanged in every frame.",
-      "createdAt": "2026-10-04T03:07:03.464Z",
-      "locked": false
     }
   ]
 }
