@@ -33,22 +33,6 @@
       "locked": false
     },
     {
-      "id": "5dc43ccf-8b52-480c-851a-4398b9d67c2d",
-      "title": "Golf",
-      "category": "Sport",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Tennis",
-      "tags": [
-        "golf",
-        "course"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/948f0b98-4ff0-449a-82a3-83d8e2846394.jpg",
-      "prompt": "Show the person in the photo as a golfer finishing a perfect swing on a lush green course, eyes following the ball into the sky. Dress them in a polo shirt, trousers and a cap. Use crisp afternoon light, a clear blue sky, a flag and a distant clubhouse. If the photo is a close-up, generate a natural full body. Add the ball flying toward a distant green with a flag and a caddy holding the bag. Keep the person's face, identity and body build unchanged.",
-      "createdAt": "2026-10-04T03:03:57.863Z",
-      "locked": false
-    },
-    {
       "id": "d081ca70-9496-4080-ab57-4db78384bacd",
       "title": "1960s Mod Pop",
       "category": "Vintage / Retro",
