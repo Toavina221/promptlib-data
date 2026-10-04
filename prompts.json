@@ -1,22 +1,6 @@
 {
   "prompts": [
     {
-      "id": "629909b8-a3b7-4473-b5f6-b0f137ea6593",
-      "title": "Romantic Couple Portrait",
-      "category": "Couple",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Romantic Couple Portrait",
-      "tags": [
-        "couple",
-        "love"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/b1f3d101-4e3a-40ac-8d78-bafd15429c0b.jpg",
-      "prompt": "Create a vintage photo booth strip of four black and white photos of the couple in the photo. Frame 1: both smiling at the camera. Frame 2: one whispering in the other's ear while they laugh. Frame 3: a playful funny face together. Frame 4: a tender moment with foreheads touching. Show the strip slightly curled on a wooden table, with a heart drawn in pen in the corner, soft flash lighting and authentic photo booth grain. Keep both faces and identities unchanged in every frame.",
-      "createdAt": "2026-10-04T03:07:03.464Z",
-      "locked": false
-    },
-    {
       "id": "d081ca70-9496-4080-ab57-4db78384bacd",
       "title": "1960s Mod Pop",
       "category": "Vintage / Retro",
