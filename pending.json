@@ -287,6 +287,22 @@
       "prompt": "Create a soft window light portrait of the person in the photo, seated next to a large window with sheer white curtains moving gently. Light falls across one side of the face, with soft natural shadows on the other side and a catchlight in the eyes. Their expression is quiet and introspective, hands resting near a cup of tea on the windowsill. Dress them in a cozy knit sweater. Use muted natural tones, a calm indoor atmosphere, gentle grain and the look of an intimate lifestyle magazine photo. Add the soft pattern of the window frame on the wall behind them and a few dust particles floating in the light. Keep the person's face and identity unchanged.",
       "createdAt": "2026-10-03T05:42:43.041Z",
       "locked": false
+    },
+    {
+      "id": "5dc43ccf-8b52-480c-851a-4398b9d67c2d",
+      "title": "Golf",
+      "category": "Sport",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Golf",
+      "tags": [
+        "golf",
+        "course"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/948f0b98-4ff0-449a-82a3-83d8e2846394.jpg",
+      "prompt": "Show the person in the photo as a golfer finishing a perfect swing on a lush green course, eyes following the ball into the sky. Dress them in a polo shirt, trousers and a cap. Use crisp afternoon light, a clear blue sky, a flag and a distant clubhouse. If the photo is a close-up, generate a natural full body. Add the ball flying toward a distant green with a flag and a caddy holding the bag. Keep the person's face, identity and body build unchanged.",
+      "createdAt": "2026-10-04T03:03:57.863Z",
+      "locked": false
     }
   ]
 }
