@@ -287,22 +287,6 @@
       "prompt": "Create a soft window light portrait of the person in the photo, seated next to a large window with sheer white curtains moving gently. Light falls across one side of the face, with soft natural shadows on the other side and a catchlight in the eyes. Their expression is quiet and introspective, hands resting near a cup of tea on the windowsill. Dress them in a cozy knit sweater. Use muted natural tones, a calm indoor atmosphere, gentle grain and the look of an intimate lifestyle magazine photo. Add the soft pattern of the window frame on the wall behind them and a few dust particles floating in the light. Keep the person's face and identity unchanged.",
       "createdAt": "2026-10-03T05:42:43.041Z",
       "locked": false
-    },
-    {
-      "id": "3a285517-b61a-42e7-a99a-bd7a863daf09",
-      "title": "Flower Garden Cat Portrait",
-      "category": "Nature & Animals",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Pets",
-      "tags": [
-        "cat",
-        "flowers"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/319db4b5-1f27-4fa5-b3a1-3e3c8885836e.jpg",
-      "prompt": "Create a photorealistic outdoor lifestyle portrait of the person in the photo standing in a lush garden surrounded by blooming [FLOWER_COLOR: vibrant pink] bougainvillea flowers. The person is wearing a crisp [SHIRT_COLOR: white] button-up shirt and clear glasses. A fluffy white cat is resting comfortably on their shoulder, and the person is looking gently to the side toward the cat with a calm, warm expression. Bright sunny daylight filters through the flowers, creating a soft glowing atmosphere. Use a shallow depth of field with blurred pink flowers in the foreground and a bright blue sky in the background. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the person must have exactly two arms, two hands with five fingers each, two legs, and two feet. The cat must have exactly four legs, one tail, and two ears. No extra limbs, no duplicated hands, no floating fingers, no missing body parts, and no distorted anatomy. Every limb must be correctly attached to the body and naturally positioned.",
-      "createdAt": "2026-10-04T03:58:40.361Z",
-      "locked": false
     }
   ]
 }
