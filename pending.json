@@ -287,6 +287,22 @@
       "prompt": "Create a soft window light portrait of the person in the photo, seated next to a large window with sheer white curtains moving gently. Light falls across one side of the face, with soft natural shadows on the other side and a catchlight in the eyes. Their expression is quiet and introspective, hands resting near a cup of tea on the windowsill. Dress them in a cozy knit sweater. Use muted natural tones, a calm indoor atmosphere, gentle grain and the look of an intimate lifestyle magazine photo. Add the soft pattern of the window frame on the wall behind them and a few dust particles floating in the light. Keep the person's face and identity unchanged.",
       "createdAt": "2026-10-03T05:42:43.041Z",
       "locked": false
+    },
+    {
+      "id": "b4b00cbe-887a-4cc7-83f2-598e958b8fc4",
+      "title": "Cozy Attic Reading Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "cozy",
+        "lifestyle"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/7f74a4f6-ae4b-48f3-8c2f-36bc2b2fb65d.jpg",
+      "prompt": "Create a cinematic movie still of the person in the photo with a strip of three smaller frames below it, like a storyboard from the same scene. The main still shows them with [LIGHTING_STYLE: dramatic side] light, a shallow depth of field and a [MOOD: dark moody] grade, framed like a 2.39:1 widescreen shot with black bars. The three frames below show the moment before, a close-up of the eyes and the moment after. Add subtle anamorphic flares and film grain. Keep the person's face and identity unchanged in every frame.",
+      "createdAt": "2026-10-04T03:38:28.880Z",
+      "locked": false
     }
   ]
 }
