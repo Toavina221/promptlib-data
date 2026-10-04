@@ -271,22 +271,6 @@
       "prompt": "Turn the place in the photo into a snowy mountain village in winter, keeping its buildings and layout recognizable. Add thick fresh snow on the roofs, icicles, warm glowing windows, smoke from chimneys, falling snowflakes and mountains in the background at blue dusk. Use a cozy, magical winter atmosphere. Add a horse-drawn sleigh on the road, lanterns along the path and a church spire glowing in the center. Keep its buildings and layout recognizable.",
       "createdAt": "2026-10-02T14:02:54.712Z",
       "locked": false
-    },
-    {
-      "id": "56f1d3eb-84ee-43a6-920d-de1d515405b4",
-      "title": "Window Light Portrait",
-      "category": "Solo",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Window Light Portrait",
-      "tags": [
-        "windowlight",
-        "natural"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/ec87938e-56a9-434c-a41d-21546efd7d06.jpg",
-      "prompt": "Create a soft window light portrait of the person in the photo, seated next to a large window with sheer white curtains moving gently. Light falls across one side of the face, with soft natural shadows on the other side and a catchlight in the eyes. Their expression is quiet and introspective, hands resting near a cup of tea on the windowsill. Dress them in a cozy knit sweater. Use muted natural tones, a calm indoor atmosphere, gentle grain and the look of an intimate lifestyle magazine photo. Add the soft pattern of the window frame on the wall behind them and a few dust particles floating in the light. Keep the person's face and identity unchanged.",
-      "createdAt": "2026-10-03T05:42:43.041Z",
-      "locked": false
     }
   ]
 }
