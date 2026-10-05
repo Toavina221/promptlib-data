@@ -1,6 +1,23 @@
 {
   "prompts": [
     {
+      "id": "c4ddc9c7-8d7f-48ef-8df0-94e8928cd0f6",
+      "title": "Art Studio Sketch Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "studio",
+        "sketch"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/3f9bb2e8-5cab-423d-9089-f6be8b2c87c1.jpg",
+      "prompt": "Create a vibrant, photorealistic studio portrait of the person in the photo sitting cross-legged on the floor, smiling warmly with their arms open and palms facing upward. They are wearing a [SHIRT_COLOR: rust orange] linen shirt over a white t-shirt, white trousers, and white sneakers. The background is a warm [BACKGROUND_COLOR: terracotta] studio with wooden display blocks. Behind them are four large drawn portraits of the same person in different artistic styles: a colored pencil drawing with a peace sign and wink, a monochrome sketch with a surprised expression, a detailed sketch with a heart gesture, and a realistic pencil portrait with a hand on the chin. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-04T15:00:00.815Z",
+      "locked": false,
+      "signature": "Admin"
+    },
+    {
       "id": "4f7b8865-f991-4d52-994d-db595ea78fa6",
       "title": "Double Exposure Denim Portrait",
       "category": "Photography",
