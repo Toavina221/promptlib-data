@@ -1,6 +1,23 @@
 {
   "prompts": [
     {
+      "id": "292ea84b-f990-4665-b6ad-49d0caaa221c",
+      "title": "Papercraft",
+      "category": "2D / 3D",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Papercraft",
+      "tags": [
+        "papercraft",
+        "paper"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/13dd558f-5894-477d-8590-915e367340c4.jpg",
+      "prompt": "Create a pop-up book spread where the subject of the photo rises from the pages as layered papercraft, keeping its shape and colors recognizable. Show the open book with folded paper layers standing up, paper trees, clouds on strings and a little paper sun, with soft shadows between the layers and visible paper texture. Use a [COLOR_PALETTE: pastel] palette and soft side light. Add a little paper bird hanging over the scene and a small handwritten title on the page, with a calm, magical, handmade atmosphere. Keep its shape and colors recognizable.",
+      "createdAt": "2026-10-05T16:20:02.543Z",
+      "locked": false,
+      "signature": "Admin"
+    },
+    {
       "id": "ea61fc20-4838-4796-83ba-293c3ed11216",
       "title": "Red Smoke Studio Portrait",
       "category": "Photography",
