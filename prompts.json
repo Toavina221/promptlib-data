@@ -1,6 +1,23 @@
 {
   "prompts": [
     {
+      "id": "ea61fc20-4838-4796-83ba-293c3ed11216",
+      "title": "Red Smoke Studio Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "cinematic",
+        "studio"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/5891c91d-0a83-4f73-a0f8-24ac77358869.jpg",
+      "prompt": "Create a cinematic photorealistic studio portrait of the person in the photo standing confidently with both hands in their pockets, smiling gently at the camera. They are wearing a [SHIRT_COLOR: red] t-shirt, [PANTS_COLOR: black] cargo pants, and white sneakers. The background is a dramatic [BACKGROUND_STYLE: red and black smoke] with volumetric lighting and a wet reflective floor. Use cinematic lighting, a shallow depth of field, and a premium editorial photography style. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-04T15:22:19.753Z",
+      "locked": false,
+      "signature": "Admin"
+    },
+    {
       "id": "c4ddc9c7-8d7f-48ef-8df0-94e8928cd0f6",
       "title": "Art Studio Sketch Portrait",
       "category": "Photography",
