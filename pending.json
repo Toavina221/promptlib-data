@@ -321,18 +321,6 @@
       "createdAt": "2026-10-04T15:22:19.753Z",
       "locked": false,
       "signature": "Admin"
-    },
-    {
-      "id": "ae99db44-824a-4af2-9cee-285b55e9f63a",
-      "title": "Image suggestion",
-      "category": "",
-      "tags": [],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/pending/a89c57a2-d8bb-4f87-aa8d-c7846f73f625.jpg",
-      "prompt": "",
-      "createdAt": "2026-10-05T05:08:56.790Z",
-      "locked": false,
-      "kind": "image-suggestion",
-      "signature": "ZZ TEST reject me"
     }
   ]
 }
