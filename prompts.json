@@ -1,23 +1,6 @@
 {
   "prompts": [
     {
-      "id": "e6bd39cd-6246-433a-92fd-aebde150bbaa",
-      "title": "Typographic Ink Portrait",
-      "category": "Typography & Poster",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Typography Poster",
-      "tags": [
-        "typography",
-        "ink"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/3e3fc52c-64b0-4224-b141-2d2b53878fab.jpg",
-      "prompt": "A photorealistic typographic portrait of the person in the photo, smiling warmly with long wavy dark brown hair. The composition blends the subject seamlessly into a creative double-exposure effect made of black ink splatters, vintage newspaper textures, handwritten script, and scattered typographic letters in black and gold. Repeated words such as [TEXT_ELEMENTS: KRIM AI, Makarila, Roznama, Eki] are layered around and behind the subject, creating a dynamic editorial collage. The background is an off-white aged paper with an elegant, artistic layout. Use a [COLOR_PALETTE: black, gold, and cream] color scheme. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
-      "createdAt": "2026-10-07T10:53:34.129Z",
-      "locked": false,
-      "signature": "Admin"
-    },
-    {
       "id": "2e91a58b-eb64-42b1-bce2-2a6a8d2ad25b",
       "title": "Character Reference Sheet Sketch",
       "category": "Illustration",
