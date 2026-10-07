@@ -1,6 +1,23 @@
 {
   "prompts": [
     {
+      "id": "2e91a58b-eb64-42b1-bce2-2a6a8d2ad25b",
+      "title": "Character Reference Sheet Sketch",
+      "category": "Illustration",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Pencil Sketch",
+      "tags": [
+        "character",
+        "sketch"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/763edd35-0380-4770-8e3d-307b95ac6779.jpg",
+      "prompt": "Create a detailed character reference sheet illustration in a realistic pencil sketch style of the person in the photo. Show the same person in multiple views: a full-body front standing pose with both hands in pockets, a full-body back view, a large close-up face portrait, a side profile portrait, and small detail panels for the collar, rolled sleeve, trouser pocket, and leather dress shoes. The subject wears a [SUIT_COLOR: dark grey] vest over a white button-up shirt with rolled sleeves, matching dark trousers, and black leather dress shoes. They wear [GLASSES_STYLE: black rectangular] glasses and a dark wristwatch. Use a [PALETTE: warm sepia pencil] color scheme on aged paper, with handwritten-style labels and technical annotations. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-07T11:04:45.861Z",
+      "locked": false,
+      "signature": "Admin"
+    },
+    {
       "id": "66bbf081-b7cf-450d-8bd3-617ba9dcfb04",
       "title": "Teal Water Roses Portrait",
       "category": "Photography",
