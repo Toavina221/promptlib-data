@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "5fd94669-a15d-4e1d-817d-046b8fe17f62",
+      "title": "Mixed-Media Typographic Portrait",
+      "category": "Typography & Poster",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Typography Poster",
+      "tags": [
+        "typography",
+        "mixedmedia"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/e158dce4-8524-4a66-94e5-00a29228f1dc.jpg",
+      "prompt": "A realistic mixed-media collage portrait of the person in the photo, shown in a [FRAMING: chest-up] view, smiling warmly with long wavy dark brown hair, wearing a [TOP_COLOR: black] top. The artwork combines photography with graphic design on an off-white, aged paper background. Black ink splatters, vintage newspaper textures, and large graphic typographic letters are artistically integrated around the subject and blended into the edges of their hair. The text elements include scattered words such as \"[TEXT_ELEMENTS: KRIM AI, Makarila, Roznama]\" in an elegant black and gold font. Ensure the graphic text does not obscure the subject's face. Use a [COLOR_PALETTE: black, gold, and cream] color scheme. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-08T02:08:46.938Z",
+      "locked": false
+    },
+    {
       "id": "2e91a58b-eb64-42b1-bce2-2a6a8d2ad25b",
       "title": "Character Reference Sheet Sketch",
       "category": "Illustration",
