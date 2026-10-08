@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "1282be2c-3ac8-468f-a0d5-e1aef86a3766",
+      "title": "Golden Field Portrait with Plume",
+      "category": "Solo",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Golden Hour Outdoor",
+      "tags": [
+        "portrait",
+        "nature"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/afcb61e8-3bc4-49de-8d94-235fa82f76d6.jpg",
+      "prompt": "A cinematic photorealistic portrait of the person in the photo standing in a lush green field of tall grasses with white feathery plumes. They have long dark wavy hair and are wearing a [OUTFIT_COLOR: deep burgundy] traditional outfit with delicate gold embroidery, along with [JEWELRY_STYLE: traditional gold] jewelry including dangling earrings, a delicate necklace, and bangles. They are gently holding a single white feathery plume near their face, looking off to the side with a serene, contemplative expression. The background features a cloudy evening sky and distant trees. Use a [COLOR_PALETTE: warm earthy] color grade with soft, natural, diffused light. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-08T04:57:53.066Z",
+      "locked": false
+    },
+    {
       "id": "5fd94669-a15d-4e1d-817d-046b8fe17f62",
       "title": "Mixed-Media Typographic Portrait",
       "category": "Typography & Poster",
