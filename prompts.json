@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "e68b2399-78d4-437f-adfa-db82094584b6",
+      "title": "Monochrome Studio Portrait with Assisting Hands",
+      "category": "Solo",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Black and White Fine Art",
+      "tags": [
+        "monochrome",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/571ed082-8c9f-4d02-aa9b-9ec0b4c3ac41.jpg",
+      "prompt": "A fine art monochrome studio portrait of the person in the photo, captured from the chest up against a textured backdrop. The subject faces the camera with a calm, introspective expression, wearing a light open shirt over a white t-shirt. Another person's hands enter the frame from the left side: one hand rests gently on top of the subject's head, and the other hand cradles the subject's chin, framing the face. The assisting person remains off-camera, with only their hands visible. The lighting is soft and even, highlighting natural skin texture, subtle facial hair, and the folds of the clothing. Use a [COLOR_PALETTE: warm sepia monochrome] palette, a [SHIRT_COLOR: light beige] shirt, and a [BACKGROUND_TEXTURE: mottled grey] background. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the main subject must have exactly two arms, two hands with five fingers each, two legs, and two feet; the assisting hands must also have exactly five fingers each and belong to a separate person outside the frame. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add anyone else's face or body into the frame.",
+      "createdAt": "2026-10-08T10:42:38.479Z",
+      "locked": false
+    },
+    {
       "id": "1282be2c-3ac8-468f-a0d5-e1aef86a3766",
       "title": "Golden Field Portrait with Plume",
       "category": "Solo",
