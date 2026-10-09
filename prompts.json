@@ -1,6 +1,23 @@
 {
   "prompts": [
     {
+      "id": "380ab474-7f5a-45d6-a039-39bbe6258892",
+      "title": "Watercolor Double Portrait Composite",
+      "category": "Illustration",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Watercolor Portrait",
+      "tags": [
+        "watercolor",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/de32ce88-46c7-46ee-a67e-453f49f25390.jpg",
+      "prompt": "A realistic watercolor composite portrait of the person in the photo, featuring two versions of the same subject: a large close-up portrait on the right side and a full-body figure on the left. The full-body figure stands casually with both hands in their pockets, one leg crossed, wearing a [SWEATER_COLOR: royal blue] crewneck sweater, white trousers, white sneakers, and a dark wristwatch. The large portrait shows the same person smiling gently, looking at the camera. The background is a clean white space filled with artistic blue watercolor splashes, soft washes, and botanical leaf silhouettes in blue tones. Use a [PALETTE: blue and white] color scheme. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-07T10:59:38.478Z",
+      "locked": false,
+      "signature": "Admin"
+    },
+    {
       "id": "e68b2399-78d4-437f-adfa-db82094584b6",
       "title": "Monochrome Studio Portrait with Assisting Hands",
       "category": "Solo",
