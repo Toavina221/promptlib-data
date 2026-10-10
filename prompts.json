@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "132441f2-c3c3-481d-861d-1f0ce99f33e6",
+      "title": "Romantic Sketch Couple Portrait",
+      "category": "Illustration",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Pencil Sketch",
+      "tags": [
+        "romantic",
+        "sketch"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/7a002923-43b8-4b94-a33d-65f031240150.jpg",
+      "prompt": "A detailed graphite pencil sketch illustration with a light watercolor wash of the couple in the photo, depicted in a tender romantic embrace. One figure gently kisses the other's forehead with eyes closed, while the other smiles softly with eyes closed, leaning into the embrace. Both wear [SHIRT_COLOR: black] button-up shirts, and the second figure has their hair styled in a loose bun. The background is a plain off-white paper texture with soft grey watercolor shading and subtle pencil strokes, plus a small hand-drawn heart in the bottom right corner. Use a [SKETCH_STYLE: graphite and watercolor] style. Keep the subjects' faces and identities exactly the same as in the photo, preserving their exact facial structures, hairstyles, hairlines, forehead shapes, eyebrows, eye shapes, nose structures, lips, jawlines, skin tones, facial textures, and natural appearances exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their faces with different people. Identity preservation is the highest priority. Adapt each subject's gender, body type, and appearance to match the people in the uploaded photo exactly. If they are men, generate men; if women, generate women. Do not change their gender. Ensure absolute anatomical correctness for each subject: exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-08T04:48:44.609Z",
+      "locked": false
+    },
+    {
       "id": "88d1899c-57de-4216-a0ad-20c47bec63d4",
       "title": "Black and White Family Studio Portrait",
       "category": "Family",
