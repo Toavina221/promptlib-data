@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "88d1899c-57de-4216-a0ad-20c47bec63d4",
+      "title": "Black and White Family Studio Portrait",
+      "category": "Family",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Generations Portrait",
+      "tags": [
+        "family",
+        "blackandwhite"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/28ee3a3d-5155-4c13-9773-0948530cae06.jpg",
+      "prompt": "A black-and-white fine art studio portrait of the people in the photo, arranged vertically in a stacked composition. A man at the top wears a dark suit with a white shirt and has both hands resting gently on the head of the person below him. A woman in the middle wears a dark top with embroidered sleeves and has both hands resting gently on the head of the child below her. A child at the bottom rests both hands on their cheeks. The woman and child are making playful pouty faces. The background is a solid dark studio backdrop with soft, even studio lighting and a warm, affectionate, playful family atmosphere. Use a [COLOR_PALETTE: black and white] color scheme, a [BACKGROUND_TONE: dark charcoal] background, and a [MOOD: playful and affectionate] mood. Adapt each person's gender, body type, and appearance to match the people in the uploaded photo exactly. If they are men, generate men; if women, generate women; if the child is a boy, generate a boy; if a girl, generate a girl. Do not change anyone's gender. Keep each person's face and identity exactly the same as in the photo, preserving their exact facial structures, hairstyles, hairlines, forehead shapes, eyebrows, eye shapes, nose structures, lips, jawlines, skin tones, facial textures and natural appearances exactly as shown. Do not beautify, smooth skin, cartoonize, or replace any face with a different person. Identity preservation is the highest priority for every person in the group. Ensure absolute anatomical correctness for every person: each must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add or remove anyone from the group.",
+      "createdAt": "2026-10-08T05:15:57.660Z",
+      "locked": false
+    },
+    {
       "id": "380ab474-7f5a-45d6-a039-39bbe6258892",
       "title": "Watercolor Double Portrait Composite",
       "category": "Illustration",
