@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "e4e2079a-9883-4cc0-8ab3-68371fbadaa0",
+      "title": "Graphite Sketch with Beanie",
+      "category": "Illustration",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Pencil Sketch",
+      "tags": [
+        "pencil",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/67420128-6957-4df5-9e9a-ef3a1166656e.jpg",
+      "prompt": "A detailed graphite pencil sketch illustration of the person in the photo, shown from the chest up against a warm beige paper background with faint construction lines. The subject has short hair with bangs, wears a [BEANIE_COLOR: light grey] knit beanie with a small cat pin, a [SWEATER_STYLE: diamond-patterned] sweater, and a pearl necklace. They are smiling gently and making a quiet \"shh\" gesture with one index finger resting on their lips, while the other hand gently holds their wrist. The artwork uses realistic shading, fine cross-hatching, and a monochrome graphite style. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no legs, no feet).",
+      "createdAt": "2026-10-09T12:08:56.894Z",
+      "locked": false
+    },
+    {
       "id": "132441f2-c3c3-481d-861d-1f0ce99f33e6",
       "title": "Romantic Sketch Couple Portrait",
       "category": "Illustration",
