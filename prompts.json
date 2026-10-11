@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "97319e94-d1b1-4e5d-9120-dafe81beedbf",
+      "title": "80s Denim Studio Portrait",
+      "category": "Vintage / Retro",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "1980s Synthwave",
+      "tags": [
+        "vintage",
+        "denim"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/81e91ec1-6922-4c77-9b08-c926a1425c87.jpg",
+      "prompt": "A photorealistic studio portrait of the person in the photo, captured from the head down to mid-thigh. They have voluminous [HAIR_COLOR: blonde] hair with bangs, styled in a classic 1980s look, and are looking directly at the camera with a calm, confident expression. They are wearing a [JACKET_COLOR: denim blue] acid-wash denim jacket with large pockets, a blue and white striped button-up shirt, a white leather belt with a large silver buckle, and matching acid-wash high-waisted jeans. One hand rests inside the front pocket of the jeans, while the other hand lightly grips the edge of the denim jacket. The background is a bold [BACKGROUND_COLOR: red] studio backdrop with white geometric shapes and a small star icon in the lower right. Use a vibrant, high-contrast, retro editorial lighting style. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, torso, and upper legs as visible. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body part that is not visible in the original photo (no lower legs, no feet).",
+      "createdAt": "2026-10-09T11:53:39.653Z",
+      "locked": false
+    },
+    {
       "id": "e4e2079a-9883-4cc0-8ab3-68371fbadaa0",
       "title": "Graphite Sketch with Beanie",
       "category": "Illustration",
