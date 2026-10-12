@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "6a4fed08-fe0b-4ebe-a3aa-dec5ff56ac0f",
+      "title": "Retro 1986 Denim Car Portrait",
+      "category": "Vintage / Retro",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "1980s Synthwave",
+      "tags": [
+        "retro",
+        "car"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/38b13513-b55e-49ad-b57f-2f0ca4cc79dd.jpg",
+      "prompt": "A cinematic photorealistic full-body portrait of the person in the photo, styled as a confident 1980s fashion model. They have voluminous curly hair and hoop earrings, and are leaning casually against a [CAR_STYLE: vintage black Mercedes] sedan. One hand rests on the hood of the car, while the other hand is tucked into the pocket of their high-waisted jeans. They are wearing a [JACKET_COLOR: light denim] jacket over a [TOP_COLOR: pink] top, matching light denim jeans, and retro sneakers. The background features a cream Mediterranean-style villa with a balcony, vibrant bougainvillea, palm trees, and a warm sunset sky. The image has a vintage 1980s film aesthetic with grain, slight vignette, and the text \"1986\" in the bottom right corner. Use a warm, nostalgic color grade. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the subject must have exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Only include the body parts visible in the original photo.",
+      "createdAt": "2026-10-09T12:10:23.014Z",
+      "locked": false
+    },
+    {
       "id": "97319e94-d1b1-4e5d-9120-dafe81beedbf",
       "title": "80s Denim Studio Portrait",
       "category": "Vintage / Retro",
