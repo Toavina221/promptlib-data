@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "83bbe0d3-b2c2-42d8-b0bb-65c1280b5e5e",
+      "title": "Rugged Watercolor Portrait",
+      "category": "Illustration",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Watercolor Portrait",
+      "tags": [
+        "watercolor",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/052e2423-1603-4dd1-8a0c-b5432bdfd9a9.jpg",
+      "prompt": "Create a detailed watercolor and ink portrait illustration of the person in the photo transformed into a rugged, confident man. He has thick curly dark hair, a full beard and mustache, aviator sunglasses, and a thin cigarette resting in the corner of his mouth. He wears a [SHIRT_COLOR: blue denim] button-up shirt worn open over a black t-shirt, with sleeves rolled up, arms crossed over his chest. He has multiple rings on his fingers and a thin red string bracelet on one wrist. The background is an aged paper texture with loose watercolor splatters in warm beige and sepia tones. Use a [COLOR_PALETTE: warm sepia, denim blue, and black] color scheme. Add a handwritten signature \"[SIGNATURE_TEXT: Aarav]\" in the bottom right corner. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-08T10:36:24.743Z",
+      "locked": false
+    },
+    {
       "id": "6a4fed08-fe0b-4ebe-a3aa-dec5ff56ac0f",
       "title": "Retro 1986 Denim Car Portrait",
       "category": "Vintage / Retro",
