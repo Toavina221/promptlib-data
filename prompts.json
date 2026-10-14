@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "7bcc27d9-cbae-43b4-a63b-2a25caa847a7",
+      "title": "Surreal Autumn Field with Giant Bees",
+      "category": "Nature & Animals",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Insects / Macro",
+      "tags": [
+        "surreal",
+        "autumn"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/c0b90b44-873b-45b5-883a-3d4b14450d42.jpg",
+      "prompt": "A surreal, dreamlike portrait of the person in the photo standing in a sunlit wildflower field, captured from the chest up. The subject faces the camera with a calm, neutral expression, their gaze direct and steady. They have short, wavy hair and are wearing a [SWEATER_COLOR: dark teal] long-sleeved crewneck sweater with small white embroidered text on the chest. The person stands still and centered, surrounded by a vibrant field of tall yellow wildflowers and dried seed heads. Several oversized, photorealistic bumblebees hover and fly around the subject in the foreground and midground, with detailed yellow and black fuzzy bodies and translucent wings. Golden autumn leaves float and swirl in mid-air all around the subject, as if suspended by an invisible breeze. In the extreme foreground, large blurred yellow flowers and a massive out-of-focus orange-yellow shape create a strong depth-of-field effect, framing the subject naturally. The background is a [SKY_MOOD: bright blue sky with white clouds], creating a fresh and open atmosphere. The lighting is natural and warm, suggesting a late afternoon in early autumn, with soft shadows and rich color saturation. The overall mood is magical, calm, and slightly surreal, blending photorealism with fantasy elements. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no legs, no feet).",
+      "createdAt": "2026-10-14T07:42:17.526Z",
+      "locked": false
+    },
+    {
       "id": "d02b0f00-ac3f-4813-86bc-1b71e302a740",
       "title": "Autumn Leaves Portrait",
       "category": "Solo",
