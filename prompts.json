@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "3bae73ff-275a-472b-bf3a-70c516871229",
+      "title": "Neon Red & Teal Dramatic Portrait",
+      "category": "Solo",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Low-Key Dramatic Portrait",
+      "tags": [
+        "neon",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/dcd424db-79f1-43d0-8602-d14a4274f8bc.jpg",
+      "prompt": "A dramatic, cinematic low-key portrait of the person in the photo, captured in a close-up from the chest up. The subject is turned slightly away from the camera but looking back over their shoulder directly at the viewer with a calm, intense expression. The person has thick, voluminous, dark curly hair that catches the light beautifully. They are wearing a simple black t-shirt with a subtle lace trim at the neckline. The lighting is the defining feature of this image: a strong, [RIM_LIGHT_COLOR: vibrant red] light source illuminates the subject from the left side and behind, creating a glowing rim light that highlights the edges of their hair and face. A cool, moody [SHADOW_LIGHT_COLOR: deep teal] light fills the background and the shadowed side of the subject's face, creating a striking color contrast. The background is heavily blurred with a shallow depth of field, showing abstract bokeh shapes in deep teal and dark tones, with soft, out-of-focus red light flares in the foreground. The overall atmosphere is mysterious, elegant, and highly atmospheric. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Do not add any body part that is not visible in the original photo (no arms, no hands, no legs, no feet).",
+      "createdAt": "2026-10-14T06:16:36.525Z",
+      "locked": false
+    },
+    {
       "id": "7bcc27d9-cbae-43b4-a63b-2a25caa847a7",
       "title": "Surreal Autumn Field with Giant Bees",
       "category": "Nature & Animals",
