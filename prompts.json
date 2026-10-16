@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "672fd24f-9330-4ac8-9e25-64a7a37714f1",
+      "title": "Watercolor Portrait with Butterflies & Wildflowers",
+      "category": "Illustration",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Watercolor Portrait",
+      "tags": [
+        "watercolor",
+        "butterflies"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/98e9418a-7427-4888-ba55-ffe253bf2485.jpg",
+      "prompt": "A delicate, hand-painted watercolor portrait of the person in the photo, captured from the chest up in a soft, front-facing pose. The subject has wavy, shoulder-length dark hair with loose strands framing the face, and wears large, round tortoiseshell glasses. They have a gentle, warm smile with visible red-tinted lips and a subtle rosy blush on the cheeks. The person is wearing a simple dark teal or navy blue top with a round neckline. The composition is heavily decorated with botanical and nature elements integrated into the watercolor style. A cluster of small wildflowers in white, yellow, and blue is woven into the hair on the left side. Several monarch butterflies with bright orange and black wings flutter around the subject — one near the hair on the left, one on the upper right, one on the lower right, and two near the bottom left among a bouquet of wildflowers. Loose watercolor splashes and washes in soft [WATERCOLOR_PALETTE: teal, blue and warm beige] surround the figure, creating a dreamy, ethereal halo effect. The background is a textured, off-white watercolor paper surface with visible grain and scattered paint droplets. The overall mood is whimsical, soft, and poetic, blending realistic facial features with expressive, loose watercolor techniques. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Do not add any body part that is not visible in the original photo (no arms, no hands, no legs, no feet).",
+      "createdAt": "2026-10-14T06:45:26.154Z",
+      "locked": false
+    },
+    {
       "id": "3bae73ff-275a-472b-bf3a-70c516871229",
       "title": "Neon Red & Teal Dramatic Portrait",
       "category": "Solo",
