@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "b597b5f4-badc-4608-a9c4-5288744b1057",
+      "title": "Campfire Guitar Under Starry Sky",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "campfire",
+        "night"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/4520e729-7609-49b3-9ba7-a41f86c358a6.jpg",
+      "prompt": "A warm, cinematic nighttime portrait of the person in the photo sitting comfortably on a rustic wooden chair, playing an acoustic guitar. The subject is captured from the knees up, seated with the guitar resting naturally across their lap. They have long, dark, straight hair cascading over their shoulders and wear large silver hoop earrings. Their expression is peaceful and gentle, with a soft smile as they look down lovingly at the guitar strings. The person is wearing a [JACKET_STYLE: dark brown bomber jacket] over a simple dark top, paired with loose-fitting khaki cargo pants. One hand is positioned on the fretboard of the guitar, pressing the strings, while the other hand rests over the sound hole in a strumming position. Both hands are fully visible with natural fingers.\n\nThe guitar is a classic acoustic model with a natural light wood finish, a dark teardrop-shaped pickguard, and visible tuning pegs on the headstock. The scene is set outdoors at night in a forest clearing, with tall, dark silhouettes of pine trees surrounding the subject. In the foreground, a bright, roaring campfire crackles with vivid orange and yellow flames, casting a warm, glowing light onto the subject's face, hands, and guitar. The background is a breathtaking night sky filled with thousands of stars and the soft, glowing band of the Milky Way stretching across the dark blue sky. The overall mood is intimate, peaceful, and magical, blending the warmth of the fire with the cool vastness of the starry night.\n\nAdapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs, and full torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no feet).",
+      "createdAt": "2026-10-14T08:05:05.928Z",
+      "locked": false
+    },
+    {
       "id": "672fd24f-9330-4ac8-9e25-64a7a37714f1",
       "title": "Watercolor Portrait with Butterflies & Wildflowers",
       "category": "Illustration",
