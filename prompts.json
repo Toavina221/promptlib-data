@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "c7d17cb1-0b0b-442f-b5b2-61128d16baff",
+      "title": "Rooftop Jump Perspective Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "perspective",
+        "cinematic"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/4f83104b-cb5e-429a-b9c8-a179ad92f4e2.jpg",
+      "prompt": "A dramatic cinematic photorealistic portrait of the person in the photo captured mid-air as if jumping or falling toward the camera. The shot is taken from an extreme high-angle aerial perspective, looking down past the subject toward a busy city street far below. The person is wearing a black t-shirt, an [JACKET_COLOR: olive green] jacket, dark blue jeans, [SNEAKER_COLOR: black] sneakers, and a black backpack with visible straps. Both arms are spread wide with hands open toward the camera, legs bent apart, and the expression is intense and surprised with the mouth open. The background below shows a dense [CITY_STYLE: New York City] street with yellow taxis, crosswalks, cars, pedestrians, and tall colorful buildings in orange, teal, and beige tones. The lighting is bright daylight with strong depth and perspective. Use a [COLOR_PALETTE: vibrant urban] color scheme. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-08T05:07:52.264Z",
+      "locked": false
+    },
+    {
       "id": "b597b5f4-badc-4608-a9c4-5288744b1057",
       "title": "Campfire Guitar Under Starry Sky",
       "category": "Photography",
