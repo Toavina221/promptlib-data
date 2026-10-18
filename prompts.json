@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "73ef5f66-6e0c-44f5-b496-b87fe4d372c1",
+      "title": "Golden Sunset Double Exposure Beach",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "sunset",
+        "double exposure"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/b0c3c7c1-9d68-4154-b9bc-a2af3110d839.jpg",
+      "prompt": "A breathtaking, cinematic double-exposure portrait of the person in the photo, blending two moments into a single dreamy composition. Dominating the upper right portion of the image is a large, soft-focus close-up of the person's face in profile, with eyes gently closed and a serene, peaceful smile. Their long dark hair flows softly, merging seamlessly into the warm, glowing clouds of the sky. In the lower left portion, the same person is seen from behind, walking slowly along the shoreline of a beach. They are wearing a flowing, semi-transparent white dress that catches the breeze, and their long dark hair falls down their back. Their bare feet leave soft reflections in the wet sand as gentle waves wash around their ankles.\n\nThe setting is a stunning golden hour sunset over the ocean. The sky is filled with dramatic, textured clouds illuminated in rich shades of amber, orange, and gold, with a bright sun setting just above the horizon, casting a shimmering golden path across the rippling water. A small flock of birds flies silhouetted across the glowing sky. In the distant left background, the dark silhouette of a tropical coastline with trees is visible. The entire image is bathed in warm golden light, with soft bokeh sparkles and glowing particles floating in the foreground, creating a magical, ethereal, and deeply emotional atmosphere. The overall aesthetic is that of a beautiful cinematic dream, blending portraiture, landscape, and surreal photographic art.\n\nAdapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, and upper torso for the large close-up portrait. For the smaller background figure, ensure a single correctly proportioned body walking away. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy.",
+      "createdAt": "2026-10-14T06:43:56.988Z",
+      "locked": false
+    },
+    {
       "id": "c7d17cb1-0b0b-442f-b5b2-61128d16baff",
       "title": "Rooftop Jump Perspective Portrait",
       "category": "Photography",
