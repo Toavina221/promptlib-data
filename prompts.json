@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "af277b29-9d21-49ac-ac16-4e54638d471d",
+      "title": "Neon Name Studio Portrait",
+      "category": "Solo",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Low-Key Dramatic Portrait",
+      "tags": [
+        "neon",
+        "studio"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/b862fbff-ef7e-4002-b553-30abc12e39d4.jpg",
+      "prompt": "A photorealistic full-body studio portrait of the person in the photo, styled as a young child with blonde hair in a high ponytail, round sunglasses, a delicate necklace, bracelets, and a watch. They are wearing a [SHIRT_COLOR: pink] oversized t-shirt, [PANTS_COLOR: beige] cargo pants, and white sneakers. They are standing or walking forward with one hand in their pocket and the other arm relaxed by their side. The background is a dark, moody studio with a spotlight from above, faint smoke and floating particles, and large glowing neon letters spelling [NEON_TEXT: Alice] behind them, with a reflection on the glossy floor. The lighting is dramatic and cinematic. Adapt the subject's gender, age, body type, and appearance to match the person in the uploaded photo exactly. If the person is a child, generate a child; if a man, generate a man; if a woman, generate a woman. Do not change their gender or age. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Only include the body parts visible in the original photo, and do not invent additional elements.",
+      "createdAt": "2026-10-09T12:03:18.042Z",
+      "locked": false
+    },
+    {
       "id": "73ef5f66-6e0c-44f5-b496-b87fe4d372c1",
       "title": "Golden Sunset Double Exposure Beach",
       "category": "Photography",
