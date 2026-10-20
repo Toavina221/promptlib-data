@@ -1868,22 +1868,6 @@
       "subSection": "Skate Photography"
     },
     {
-      "id": "S1O6B8",
-      "title": "Neon City",
-      "category": "Urban/Street",
-      "tags": [
-        "neon",
-        "night"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O6B8.jpg",
-      "prompt": "Place the person in the photo on a neon-lit city street at night, keeping their face and identity unchanged. Use glowing signs, wet reflective pavement, blurred traffic lights, and a [MOOD: cyberpunk] atmosphere.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Neon City"
-    },
-    {
       "id": "S2O1B1",
       "title": "Solo Portrait",
       "category": "Other",
