@@ -1402,18 +1402,6 @@
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
     {
-      "id": "p7",
-      "title": "Cyberpunk Character Transformation",
-      "tags": [
-        "cyberpunk",
-        "neon",
-        "character"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p7.jpeg",
-      "prompt": "Cyberpunk character transformation of the person in the photo: wearing glowing neon glasses, rain-slicked city reflections, holographic tattoos, high-tech leather jacket, cinematic volumetric lighting, photorealistic",
-      "createdAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
       "id": "p8",
       "title": "Corporate Executive Headshot",
       "tags": [
