@@ -1556,22 +1556,6 @@
       "subSection": "Cinematic Portrait"
     },
     {
-      "id": "S1O2B6",
-      "title": "Macro Photography",
-      "category": "Photography",
-      "tags": [
-        "macro",
-        "detail"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B6.jpg",
-      "prompt": "Turn the photo into a macro photography shot of its main subject. Use extreme close-up framing, a very shallow depth of field, soft natural lighting, and highly detailed textures.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Macro Photography"
-    },
-    {
       "id": "S1O3B1",
       "title": "Anime / Manga",
       "category": "Illustration/Drawing",
