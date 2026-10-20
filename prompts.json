@@ -1740,22 +1740,6 @@
       "subSection": "Line Art Minimalist"
     },
     {
-      "id": "S1O3B7",
-      "title": "Concept Art",
-      "category": "Illustration/Drawing",
-      "tags": [
-        "concept",
-        "art"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B7.jpg",
-      "prompt": "Turn the subject of the photo into a professional concept art piece, keeping its features and silhouette recognizable. Use a cinematic composition, dramatic lighting, rich environmental details, and a digital painting style.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Concept Art"
-    },
-    {
       "id": "S1O3B8",
       "title": "Cyanotype / Blueprint",
       "category": "Illustration/Drawing",
