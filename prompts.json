@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "d87935ea-5ded-4933-bb81-b6b6520ab755",
+      "title": "70s Summer Portrait",
+      "category": "Vintage / Retro",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Vintage Travel Postcard 1970s",
+      "tags": [
+        "retro",
+        "summer"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/2149a10d-77eb-476b-afc3-615d18387254.jpg",
+      "prompt": "A warm, photorealistic retro portrait of the person in the photo, captured in a chest-up framing typical of 1970s film photography. The subject has medium-length wavy brown hair and wears [SUNGLASSES_STYLE: gold aviator] sunglasses. They are wearing a [JACKET_COLOR: brown] suede jacket over a floral patterned shirt, with a gold coin necklace. The subject has a calm, confident expression, looking directly at the camera. The background is a slightly blurred outdoor scene with a bright blue sky, a few palm trees, and warm sunlight. The image has a vintage film aesthetic with soft grain and warm color tones. Use a [COLOR_PALETTE: warm 70s film] color grade. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, upper torso, and the visible portion of one arm. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Do not add any body part that is not visible in the original photo (no full hands, no legs, no feet).",
+      "createdAt": "2026-10-12T10:52:52.841Z",
+      "locked": false
+    },
+    {
       "id": "514884ff-bf53-462c-b609-76a81594bd53",
       "title": "Modern Birthday Editorial with Prism Light",
       "category": "Typography & Poster",
