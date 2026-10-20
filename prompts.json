@@ -1624,22 +1624,6 @@
       "subSection": "Group / Team"
     },
     {
-      "id": "S2O1B5",
-      "title": "Selfie / Lifestyle",
-      "category": "Other",
-      "tags": [
-        "selfie",
-        "lifestyle"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B5.jpg",
-      "prompt": "Create a casual lifestyle selfie of the person in the photo, keeping their face and identity unchanged. Use a handheld selfie angle, natural daylight, a candid expression, and an [BACKGROUND: urban or travel] background.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "People & Life",
-      "axis": "famille",
-      "subSection": "Selfie / Lifestyle"
-    },
-    {
       "id": "S2O1B6",
       "title": "Wedding",
       "category": "Other",
