@@ -1580,22 +1580,6 @@
       "subSection": "Fashion Editorial"
     },
     {
-      "id": "S1O2B3",
-      "title": "Product Photography",
-      "category": "Photography",
-      "tags": [
-        "product",
-        "commercial"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B3.jpg",
-      "prompt": "Create a professional product photography shot of the object in the photo, keeping its exact shape, colors and branding. Use a clean seamless background, soft studio lighting, subtle reflections, and sharp focus on every detail.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Product Photography"
-    },
-    {
       "id": "S1O2B5",
       "title": "Cinematic Portrait",
       "category": "Photography",
