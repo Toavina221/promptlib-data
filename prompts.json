@@ -1852,22 +1852,6 @@
       "subSection": "Cubism"
     },
     {
-      "id": "S1O6B1",
-      "title": "Graffiti Mural",
-      "category": "Urban/Street",
-      "tags": [
-        "graffiti",
-        "mural"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O6B1.jpg",
-      "prompt": "Paint the person in the photo as a large graffiti mural on a city wall, keeping their face recognizable. Use bold spray paint colors, dynamic lettering, urban decay textures, and a gritty street atmosphere.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Graffiti Mural"
-    },
-    {
       "id": "S1O6B3",
       "title": "Urban Tag",
       "category": "Urban/Street",
