@@ -1261,21 +1261,6 @@
       "subSection": "3D Pixar Character Transformation"
     },
     {
-      "id": "p18",
-      "title": "Warm Family Portrait",
-      "tags": [
-        "family",
-        "portrait"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/Gemini_Generated_Image_lb0qwlb0qwlb0qwl (1).jpg",
-      "prompt": "Warm family portrait of the people in the photo, keeping every person and adding nobody: natural relaxed poses, soft outdoor lighting, a cozy home or park setting, genuine smiles, lifestyle photography.",
-      "createdAt": "2026-09-21T00:00:00.000Z",
-      "category": "Other",
-      "famille": "People & Life",
-      "axis": "famille",
-      "subSection": "Family"
-    },
-    {
       "id": "p19",
       "title": "Realistic Soldier Portrait",
       "tags": [
