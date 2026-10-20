@@ -678,22 +678,6 @@
       "locked": false
     },
     {
-      "id": "395ba347-0747-4031-bf32-e70b8ad66665",
-      "title": "Cinematic Fantasy Poster",
-      "category": "Typography/Poster",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Epic Movie Poster",
-      "tags": [
-        "fantasy",
-        "poster"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/1c4b11ba-145b-42fc-a713-56d31e77fd21.jpg",
-      "prompt": "Create a cinematic fantasy poster of the person in the photo. They wear a premium black tailored suit with a black shirt and elegant black sunglasses, in a confident three-quarter pose with a calm, mysterious expression. Blend a surreal futuristic city into the right side of the portrait with a double-exposure effect: sci-fi skyscrapers, glowing golden rings, floating platforms, mountains, dramatic clouds, a golden sunset over a calm lake, and a waterfall. In the lower center, a tiny figure with a backpack walks along a wet rocky path toward the city. Epic cinematic lighting, a [COLOR_PALETTE: warm golden sunset and deep blue-gray shadows] palette, atmospheric haze, and soft film grain. At the bottom, an elegant bold serif title \"[TITLE_TEXT: SHAMIM]\" and subtitle \"[SUBTITLE_TEXT: CREATIVE VISIONARY / VISUAL STORYTELLER]\" in golden-cream. Keep their face, hair and skin tone exactly as in the photo.",
-      "createdAt": "2026-09-25T10:15:23.779Z",
-      "locked": false
-    },
-    {
       "id": "e7f6ac95-53c1-4875-a0f3-39393c285804",
       "title": "Fragmented Luxury Fashion Portrait",
       "category": "Photography",
