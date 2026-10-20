@@ -933,22 +933,6 @@
       "subSection": "3D Pixar Character Transformation"
     },
     {
-      "id": "p19",
-      "title": "Realistic Soldier Portrait",
-      "tags": [
-        "military",
-        "soldier"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/Gemini_Generated_Image_7lvn257lvn257lvn.jfif",
-      "prompt": "Show the person in the photo as a soldier in full infantry combat gear, keeping their face and identity unchanged. Use a gritty battlefield environment, dusty air, dramatic lighting, and a determined expression.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "category": "Other",
-      "famille": "Sports & Military",
-      "axis": "famille",
-      "subSection": "Infantry Soldier"
-    },
-    {
       "id": "S1O2B1",
       "title": "Corporate Headshot",
       "category": "Photography",
