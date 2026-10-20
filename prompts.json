@@ -1692,22 +1692,6 @@
       "subSection": "Digital Painting"
     },
     {
-      "id": "S1O3B3",
-      "title": "Flat Design Vector",
-      "category": "Illustration/Drawing",
-      "tags": [
-        "vector",
-        "flat"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O3B3.jpg",
-      "prompt": "Redraw the subject of the photo as a flat design vector illustration, keeping its shape and main colors recognizable. Use simple geometric shapes, solid colors, no gradients, and a clean minimalist composition.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Flat Design Vector"
-    },
-    {
       "id": "S1O3B4",
       "title": "Comic Book",
       "category": "Illustration/Drawing",
