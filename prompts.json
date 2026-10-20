@@ -1572,22 +1572,6 @@
       "subSection": "Macro Photography"
     },
     {
-      "id": "S1O2B7",
-      "title": "Wildlife Photography",
-      "category": "Photography",
-      "tags": [
-        "animal",
-        "wild"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B7.jpg",
-      "prompt": "Create a wildlife photography shot of the animal in the photo, keeping its species, markings and colors. Use a telephoto lens look, [LIGHTING_STYLE: golden hour] lighting, a blurred [BACKGROUND: savanna] background, and sharp focus on the eyes.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Wildlife Photography"
-    },
-    {
       "id": "S1O3B1",
       "title": "Anime / Manga",
       "category": "Illustration/Drawing",
