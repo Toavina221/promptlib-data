@@ -1318,22 +1318,6 @@
       "locked": false
     },
     {
-      "id": "640fda4e-8b44-475c-8f64-b6d64e07bd68",
-      "title": "Romantic Rain Charcoal Sketch",
-      "category": "Illustration",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Digital Painting",
-      "tags": [
-        "charcoal",
-        "romance"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/dacc142b-5cbf-45b6-8992-57db6a48347b.jpg",
-      "prompt": "A romantic double-exposure charcoal pencil sketch portrait of the person in the photo. Top: the woman with long wavy hair and a gentle smile behind a wet glass window pane covered in rain droplets, tracing a glowing heart shape on the foggy glass with one finger. She has exactly two hands. Bottom: the handsome man with dark wavy wet hair standing outside in the rain, wearing a wet dark jacket. He is looking up with a joyful expression. He has exactly two arms and two hands. One hand is holding the vibrant bouquet of fresh red, pink, and peach roses in front of his chest. His other hand is open and resting naturally at his side, not extended outward. Ensure realistic human anatomy with absolutely no extra hands, no extra arms, no floating limbs, and no duplicated limbs. Mostly black and white graphite with selective coloring on the rose bouquet and subtle pink blush on the girl's cheeks. Emotional and dreamlike atmosphere, fine pencil textures, hyper-detailed, cinematic lighting. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority.",
-      "createdAt": "2026-09-23T16:18:07.075Z",
-      "locked": false
-    },
-    {
       "id": "0a1ec6c8-b023-40a3-94d4-7d7de876aaa8",
       "title": "Industrial Exploded View",
       "category": "3D/CGI",
