@@ -1189,22 +1189,6 @@
       "subSection": "Baroque Painting"
     },
     {
-      "id": "S1O4B4",
-      "title": "Pop Art",
-      "category": "Painting/Classical Art",
-      "tags": [
-        "popart",
-        "warhol"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O4B4.jpg",
-      "prompt": "Turn the person in the photo into a Warhol-inspired Pop Art portrait, keeping their face recognizable. Use bold flat colors, thick black outlines, halftone dots, and a single bright solid-color background.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Pop Art"
-    },
-    {
       "id": "S1O4B5",
       "title": "Art Nouveau",
       "category": "Painting/Classical Art",
