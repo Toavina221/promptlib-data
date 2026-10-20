@@ -1463,18 +1463,6 @@
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
     {
-      "id": "p12",
-      "title": "Luxury Cosmetics Packaging",
-      "tags": [
-        "packaging",
-        "cosmetics",
-        "luxury"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p12.jpeg",
-      "prompt": "Minimalist luxury cosmetics packaging mockup for \"[PRODUCT_NAME]\": brand name \"[BRAND_NAME]\" embossed in gold lettering, featuring the design shown in the photo, frosted glass bottle, studio lighting",
-      "createdAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
       "id": "p14",
       "title": "Fine Art Watercolor Portrait",
       "tags": [
