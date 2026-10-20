@@ -1391,22 +1391,6 @@
       "famille": "Other",
       "axis": "style",
       "subSection": "Art Nouveau"
-    },
-    {
-      "id": "S2O1B6",
-      "title": "Wedding",
-      "category": "Other",
-      "tags": [
-        "wedding",
-        "couple"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B6.jpg",
-      "prompt": "Create an elegant wedding portrait of the couple in the photo, keeping both faces and identities unchanged. Dress them in formal wedding attire, use soft natural light, a romantic outdoor setting, and a joyful emotional expression.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "People & Life",
-      "axis": "famille",
-      "subSection": "Wedding"
     }
   ]
 }
