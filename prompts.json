@@ -1186,18 +1186,6 @@
       "subSection": "3D Pixar Character Transformation"
     },
     {
-      "id": "p4",
-      "title": "Epic Movie Poster",
-      "tags": [
-        "movie-poster",
-        "cinematic",
-        "action"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p4-movie-poster.jpg",
-      "prompt": "Epic movie poster titled \"[MOVIE_TITLE]\" featuring the person in the photo: tagline \"[YOUR_TAGLINE]\" at the bottom, wearing high-tech composite armor with glowing power core, dramatic rim lighting, particle smoke and embers in background, photorealistic",
-      "createdAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
       "id": "p5",
       "title": "GTA V Loading Screen",
       "tags": [
