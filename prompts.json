@@ -1842,22 +1842,6 @@
       "famille": "People & Life",
       "axis": "famille",
       "subSection": "Wedding"
-    },
-    {
-      "id": "S2O1B8",
-      "title": "Elderly Person",
-      "category": "Other",
-      "tags": [
-        "senior",
-        "portrait"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B8.jpg",
-      "prompt": "Create a dignified portrait of the person in the photo, keeping their face and identity unchanged. Use warm natural light, a shallow depth of field, visible skin texture and character, and a gentle wise expression.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "People & Life",
-      "axis": "famille",
-      "subSection": "Elderly Person"
     }
   ]
 }
