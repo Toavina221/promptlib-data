@@ -1524,22 +1524,6 @@
       "subSection": "Corporate Headshot"
     },
     {
-      "id": "S1O2B2",
-      "title": "Fashion Editorial",
-      "category": "Photography",
-      "tags": [
-        "fashion",
-        "editorial"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B2.jpg",
-      "prompt": "Create a high fashion editorial photo of the person in the photo, keeping their face and identity unchanged. Dress them in avant-garde designer clothing, use [LIGHTING_STYLE: dramatic studio] lighting, a minimalist background, and a strong confident pose.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Fashion Editorial"
-    },
-    {
       "id": "S1O2B5",
       "title": "Cinematic Portrait",
       "category": "Photography",
