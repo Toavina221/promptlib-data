@@ -1852,22 +1852,6 @@
       "subSection": "Cubism"
     },
     {
-      "id": "S1O6B3",
-      "title": "Urban Tag",
-      "category": "Urban/Street",
-      "tags": [
-        "tag",
-        "graffiti"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O6B3.jpg",
-      "prompt": "Show the person in the photo spray-painting a graffiti tag on a subway train, keeping their face and identity unchanged. Use bold marker strokes, quick spray paint lines, and a raw street style.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Urban Tag"
-    },
-    {
       "id": "S1O6B6",
       "title": "Skate Photography",
       "category": "Urban/Street",
