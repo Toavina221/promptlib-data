@@ -1532,22 +1532,6 @@
       "subSection": "Cubism"
     },
     {
-      "id": "S1O6B6",
-      "title": "Skate Photography",
-      "category": "Urban/Street",
-      "tags": [
-        "skate",
-        "action"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O6B6.jpg",
-      "prompt": "Show the person in the photo riding a skateboard mid-trick, keeping their face and identity unchanged. Use a low angle, motion blur, bright daylight, and an urban skatepark background.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Skate Photography"
-    },
-    {
       "id": "S2O1B3",
       "title": "Family",
       "category": "Other",
