@@ -1652,22 +1652,6 @@
       "subSection": "Cyanotype / Blueprint"
     },
     {
-      "id": "S1O4B1",
-      "title": "Renaissance Oil Portrait",
-      "category": "Painting/Classical Art",
-      "tags": [
-        "renaissance",
-        "oil"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O4B1.jpg",
-      "prompt": "Paint the person in the photo as a Renaissance-style oil portrait, keeping their face and features recognizable. Use chiaroscuro lighting, rich earthy tones, visible brushwork, and a dark classical background.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Renaissance Oil Portrait"
-    },
-    {
       "id": "S1O4B2",
       "title": "Baroque Painting",
       "category": "Painting/Classical Art",
