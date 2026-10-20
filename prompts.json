@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "4f420222-adc6-4484-b3ec-2a876ca7afb9",
+      "title": "Crimson Saree in Golden Dust",
+      "category": "Fashion & Cultures",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Indian Festive Wear",
+      "tags": [
+        "saree",
+        "cinematic"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/e2be58d7-56a7-4675-9802-52c1cadf4aee.jpg",
+      "prompt": "A cinematic, full-body portrait of the person in the photo walking confidently toward the camera along a dry, dusty dirt path. The person is dressed in an elegant, [SAREE_COLOR: deep crimson red] saree with fluid, silky draping that falls gracefully, paired with a fitted black short-sleeved blouse. Their dark hair is pulled back neatly into a low bun, adorned with a bright red flower tucked behind the left ear. They wear a small red bindi on the forehead and have a calm, serene expression with a subtle, confident gaze directed straight at the viewer. One hand rests gently near the waist, holding the saree fabric, while the other arm hangs relaxed at their side, lightly holding a pair of dark sunglasses between the fingers. The background is a warm, hazy environment of tall, dry golden grass and dust-filled air, with a very shallow depth of field that blurs the surroundings into soft, painterly strokes of ochre, amber, and muted brown. Tiny specks of dust and particles float in the air, catching the warm natural light, giving the scene a dreamy, golden-hour atmosphere. The lighting is soft and diffused, highlighting the rich texture of the red saree against the earthy tones of the landscape. The overall mood is elegant, earthy, and deeply atmospheric, like a still from a poetic film. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs, two feet, and full torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo.",
+      "createdAt": "2026-10-14T06:29:05.969Z",
+      "locked": false
+    },
+    {
       "id": "d87935ea-5ded-4933-bb81-b6b6520ab755",
       "title": "70s Summer Portrait",
       "category": "Vintage / Retro",
