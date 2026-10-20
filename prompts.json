@@ -1608,22 +1608,6 @@
       "subSection": "Family"
     },
     {
-      "id": "S2O1B4",
-      "title": "Group / Team",
-      "category": "Other",
-      "tags": [
-        "team",
-        "group"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B4.jpg",
-      "prompt": "Create a professional group portrait of the people in the photo, keeping every person, their faces and their positions, and adding nobody. Give them coordinated smart outfits, a clean [SETTING: studio or office] background, balanced lighting, and a corporate aesthetic.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "People & Life",
-      "axis": "famille",
-      "subSection": "Group / Team"
-    },
-    {
       "id": "S2O1B6",
       "title": "Wedding",
       "category": "Other",
