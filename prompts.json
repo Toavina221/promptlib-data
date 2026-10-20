@@ -1358,18 +1358,6 @@
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
     {
-      "id": "p14",
-      "title": "Fine Art Watercolor Portrait",
-      "tags": [
-        "watercolor",
-        "fine-art",
-        "portrait"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p14.jpeg",
-      "prompt": "Expressive fine art watercolor portrait of the subject in the photo: delicate paint splatters, visible textured paper grain, soft color bleeding, elegant artistic brushstrokes",
-      "createdAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
       "id": "p17",
       "title": "Expressive Caricature",
       "tags": [
