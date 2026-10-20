@@ -1421,22 +1421,6 @@
       "subSection": "Cubism"
     },
     {
-      "id": "S2O1B3",
-      "title": "Family",
-      "category": "Other",
-      "tags": [
-        "family",
-        "group"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B3.jpg",
-      "prompt": "Create a warm family portrait of the people in the photo, keeping every face and identity unchanged. Use natural relaxed poses, soft outdoor lighting, a [SETTING: cozy home or park] setting, and genuine smiles.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "People & Life",
-      "axis": "famille",
-      "subSection": "Family"
-    },
-    {
       "id": "S2O1B6",
       "title": "Wedding",
       "category": "Other",
