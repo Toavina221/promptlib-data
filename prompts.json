@@ -1644,22 +1644,6 @@
       "subSection": "Wildlife Photography"
     },
     {
-      "id": "S1O2B8",
-      "title": "Paparazzi Candid",
-      "category": "Photography",
-      "tags": [
-        "paparazzi",
-        "candid"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S1O2B8.jpg",
-      "prompt": "Create a paparazzi-style candid photo of the person in the photo on a busy city street, keeping their face and identity unchanged. Use a harsh on-camera flash, high contrast, motion blur in the background, and a grainy tabloid aesthetic.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Paparazzi Candid"
-    },
-    {
       "id": "S1O3B1",
       "title": "Anime / Manga",
       "category": "Illustration/Drawing",
