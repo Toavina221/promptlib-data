@@ -1386,19 +1386,6 @@
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
     {
-      "id": "p8",
-      "title": "Corporate Executive Headshot",
-      "tags": [
-        "corporate",
-        "headshot",
-        "professional"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/p8.jpeg",
-      "prompt": "Professional corporate executive headshot of the person in the photo: wearing a navy blue tailored blazer, soft diffused softbox lighting, clean blurred office backdrop, 85mm portrait lens",
-      "createdAt": "2026-01-01T00:00:00.000Z",
-      "locked": false
-    },
-    {
       "id": "p9",
       "title": "Studio Ghibli Anime Portrait",
       "tags": [
