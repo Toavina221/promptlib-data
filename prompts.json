@@ -2012,22 +2012,6 @@
       "subSection": "Wedding"
     },
     {
-      "id": "S2O1B7",
-      "title": "Baby / Newborn",
-      "category": "Other",
-      "tags": [
-        "baby",
-        "birth"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/S2O1B7.jpg",
-      "prompt": "Create a tender newborn portrait of the baby in the photo, keeping their face unchanged. Use soft [COLOR_PALETTE: pastel] colors, gentle natural light, a cozy blanket, and a peaceful expression.",
-      "createdAt": "2026-09-23T00:00:00.000Z",
-      "locked": false,
-      "famille": "People & Life",
-      "axis": "famille",
-      "subSection": "Baby / Newborn"
-    },
-    {
       "id": "S2O1B8",
       "title": "Elderly Person",
       "category": "Other",
