@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "b052c7bc-64b3-44fb-88cc-d3d6b6dc947a",
+      "title": "Urban Mural Self-Reflection Portrait",
+      "category": "Urban / Street",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Graffiti Mural",
+      "tags": [
+        "streetart",
+        "mural"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/bbfcd704-6396-4d31-a47b-222c9d6674e8.jpg",
+      "prompt": "A cinematic, warm-toned portrait of the person in the photo sitting on a rough, paved urban street. The subject is captured in a seated pose, looking directly at the camera with a bright, genuine smile. They wear round wire-rimmed glasses, a white scoop-neck top, and an unbuttoned [OVERSHIRT_COLOR: beige] long-sleeved shirt over it, paired with blue jeans. A delicate necklace with a small pendant rests on their chest. One hand is resting on the ground for support. Their wavy, shoulder-length brown hair frames their face.\n\nDirectly behind the subject is a massive, striking street art mural painted on a thick concrete pillar. The mural features a giant, textured, slightly faded portrait of the same person's face, creating a powerful, surreal self-reflection effect. The mural has a weathered, grunge aesthetic with peeling paint, speckles, and distressed textures. The surrounding background is a softly blurred city street with warm, golden hour sunset light illuminating the scene, casting a soft amber glow on the subject and the mural. The overall mood is artistic, urban, and deeply personal.\n\nAdapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs, and full torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no feet).",
+      "createdAt": "2026-10-21T05:32:41.650Z",
+      "locked": false
+    },
+    {
       "id": "4f420222-adc6-4484-b3ec-2a876ca7afb9",
       "title": "Crimson Saree in Golden Dust",
       "category": "Fashion & Cultures",
