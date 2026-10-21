@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "258be8f7-01d4-424f-989c-c76c99886cd5",
+      "title": "WWII Vintage Scrapbook Collage",
+      "category": "Military",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "WWII Vintage Soldier",
+      "tags": [
+        "vintage",
+        "military"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/207fe9d9-f703-4aa1-acd5-73c6a02f631f.jpg",
+      "prompt": "A vintage, sepia-toned scrapbook collage portrait featuring the person in the photo. The central, dominant element is a chest-up portrait of the subject dressed in a historical military uniform and a classic steel helmet. They have a mustache and a goatee. The composition is arranged on a textured, dark brown leather background and surrounded by various vintage artifacts. To the top left, an aged, torn handwritten letter is visible with cursive writing that reads \"[LETTER_TEXT: To my dearest family]\". To the top right, a smaller, slightly faded photograph of the same person in uniform is pinned. On the middle right, a round military medal with a fabric ribbon hangs from a clip. In the bottom left, another vintage photograph shows a group of five soldiers in similar uniforms and helmets standing together. In the bottom right, a torn piece of an old geographical map with delicate red and blue lines and faded text is laid out. On the middle left, a worn leather identification tag with stamped text reading \"[TAG_TEXT: 1944]\" hangs from a string. The entire image has a distressed, nostalgic, and historical aesthetic. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: for the central figure, exactly one head, one neck, two shoulders, and upper torso. For the smaller inset photos, only the visible parts as shown in the original image (chest up for the top right, full bodies for the group photo). No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-21T08:13:12.898Z",
+      "locked": false
+    },
+    {
       "id": "9f21012f-c674-411b-adcd-8a402694694c",
       "title": "Dynamic Skateboarder Action Shot",
       "category": "Sport",
