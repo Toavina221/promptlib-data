@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "d9fbf8fd-e74e-41fc-b8dc-425843e4ef62",
+      "title": "Professional Businessman in Modern Office",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Corporate Headshot",
+      "tags": [
+        "businessman",
+        "corporate"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/5031936c-884b-4f27-b727-5e171bc58e16.jpg",
+      "prompt": "A polished, professional portrait of the person in the photo, captured from the mid-thigh up. The subject stands facing the camera directly with a warm, confident, and approachable smile, their hands gently clasped together in front of their waist. They have short, styled dark hair and a well-groomed beard and stubble. They are wearing a sharp, [SUIT_COLOR: dark charcoal grey] tailored suit jacket over a crisp white dress shirt, paired with a [TIE_COLOR: navy blue] patterned tie. A classic silver watch with a dark face is visible on their left wrist. The background is a modern, brightly lit corporate office with large glass windows overlooking a blurred city skyline. A polished wooden desk with a few out-of-focus documents is visible in the foreground. The lighting is soft, natural, and even, creating a professional and trustworthy atmosphere. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, full torso, and upper legs. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no knees, no lower legs, no feet).",
+      "createdAt": "2026-10-21T07:39:33.957Z",
+      "locked": false
+    },
+    {
       "id": "a3f4c055-3b3a-4434-bb9a-4d75470b656b",
       "title": "Professional Pilot in Cockpit",
       "category": "Work",
