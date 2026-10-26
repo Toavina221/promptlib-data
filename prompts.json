@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "782779ce-1886-4421-937e-a0010f3a9055",
+      "title": "Sci-Fi Armored Hero Poster",
+      "category": "Fiction & Fantasy",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Superheroes",
+      "tags": [
+        "scifi",
+        "superhero"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/bdcd6e20-7527-4c51-abd2-7af85eaf80a9.jpg",
+      "prompt": "A cinematic, sci-fi movie poster portrait of the person in the photo, captured from the mid-thigh up. The subject stands facing forward with a serious, determined, and heroic expression. They have short, dark wavy hair and are wearing a highly detailed, futuristic metallic armored suit. The suit is primarily dark grey and black with textured plating, glowing electric blue accents, and a bright, luminous circular energy core in the center of the chest. The subject's arms are down at their sides, with hands partially visible in armored gloves. The background is a dramatic, war-torn futuristic cityscape with destroyed buildings, thick smoke, and floating embers. The scene is illuminated by a warm, fiery orange glow from the background, which contrasts strikingly with the cool blue lights of the suit. At the top of the image, large, distressed metallic typography reads \"[TITLE_TEXT: CYBER VANGUARD]\". At the bottom, smaller clean text reads \"[TAGLINE_TEXT: ONE PATH. ONE GOAL. OUR DESTINY.]\". Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each (partially visible in gloves), and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no lower legs, no feet).",
+      "createdAt": "2026-10-21T06:32:28.501Z",
+      "locked": false
+    },
+    {
       "id": "d9fbf8fd-e74e-41fc-b8dc-425843e4ef62",
       "title": "Professional Businessman in Modern Office",
       "category": "Photography",
