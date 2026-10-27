@@ -982,22 +982,6 @@
       "locked": false
     },
     {
-      "id": "a8fd52bc-9254-440f-9df9-3619f8d4efd1",
-      "title": "Rainy Night Cinematic Portrait",
-      "category": "Photography",
-      "famille": "Other",
-      "axis": "style",
-      "subSection": "Cinematic Portrait",
-      "tags": [
-        "cinematic",
-        "rain"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/3a1f0ecb-dd13-43ed-acc5-6455464c4031.jpg",
-      "prompt": "An ultra-photorealistic cinematic waist-up portrait of the person in the photo standing in heavy rain at night, centered and facing the camera, with relaxed shoulders and a slightly vulnerable posture. Their own hair is soaked by the rain, with wet strands falling across the forehead. They wear a wet white shirt clinging to them, with water droplets on skin and fabric. Blurred city street at night with warm glowing street lamps, dramatic cinematic lighting, and a shallow depth of field. Keep their face, hair color, skin tone and body build exactly as in the photo.",
-      "createdAt": "2026-09-24T16:57:47.035Z",
-      "locked": false
-    },
-    {
       "id": "909a89b7-19bc-4bad-8347-331ffcf798b7",
       "title": "Dreamy Vintage Sticker Collage",
       "category": "Illustration/Drawing",
