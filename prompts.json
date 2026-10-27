@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "ce769f2c-657a-49a0-8a75-c97ae19151cb",
+      "title": "Coastal Cliff Wedding Portrait",
+      "category": "Wedding",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Beach Wedding",
+      "tags": [
+        "wedding",
+        "coastal"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/1767e593-a9c5-4d4e-ba87-606e12ef4aba.jpg",
+      "prompt": "A romantic, intimate wedding portrait of the person in the photo and their partner, captured from the mid-thigh up on a rugged coastal cliff. The couple stands close together, facing each other and holding hands with wide, joyful smiles. The person in the photo is dressed as a bride, wearing a delicate white sleeveless lace wedding gown with a V-neckline, and a small floral hairpiece tucked into their dark hair with bangs. The partner is dressed as a groom, wearing a sharp [SUIT_COLOR: dark navy blue] suit, a crisp white dress shirt, and a soft green tie. The groom has short dark hair and a light beard. They are standing on a grassy patch dotted with small white wildflowers, with a winding dirt path behind them. The background features a breathtaking coastal landscape with calm, deep blue ocean water stretching to the horizon and rocky cliffs on the right. The lighting is soft and warm, indicating a golden hour sunset that casts a gentle, romantic glow over the entire scene. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly two heads, two necks, four shoulders, two visible arms, two visible hands with five fingers each, and upper torsos for both figures. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-21T04:46:09.809Z",
+      "locked": false
+    },
+    {
       "id": "3c02b14f-c531-42b5-85e3-2ac05d1d8a14",
       "title": "Cinematic Composite Sports Car Portrait",
       "category": "Photography",
