@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "3c02b14f-c531-42b5-85e3-2ac05d1d8a14",
+      "title": "Cinematic Composite Sports Car Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "cinematic",
+        "composite"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/76b1909f-97ac-438d-947f-b8c37e5a58ac.jpg",
+      "prompt": "A cinematic, surreal composite portrait featuring the person in the photo walking confidently toward the camera on a wet, reflective asphalt surface. The subject is captured in a full-body shot, wearing a black baseball cap, round dark sunglasses, an [JACKET_COLOR: olive-brown] overshirt jacket over a dark grey t-shirt, black pants, and black boots. One hand is raised to adjust the brim of the cap, while the other arm hangs relaxed. Splashes of water are visible around their boots. Directly behind them is a sleek, dark metallic blue sports car with its headlights glowing brightly, parked on the wet ground. Dominating the upper background is a massive, semi-transparent, floating giant portrait of the same person's head in a side profile, wearing the same cap and sunglasses, blending into the dramatic sky. The far background features a distant modern city skyline with tall skyscrapers, including a prominent spire, set against a warm sunset on the horizon. Rugged mountains are visible on the left. The sky is filled with moody, dramatic clouds. The lighting is highly cinematic, using a cool teal and dark blue color palette contrasted by the warm, glowing light from the horizon and car headlights. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs, two feet, and full torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-21T04:37:21.796Z",
+      "locked": false
+    },
+    {
       "id": "e793a889-49b1-4569-88ed-dec9b76a8865",
       "title": "Epic Fantasy Warrior Portrait",
       "category": "Fiction & Fantasy",
