@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "d55233e4-ef6e-464a-a2e5-634567ec98b3",
+      "title": "Cinematic Basketball Dunk Action Shot",
+      "category": "Sport",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Basketball",
+      "tags": [
+        "basketball",
+        "action"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/17295938-fe35-4d63-a1e0-0420898f64f0.jpg",
+      "prompt": "A dynamic, cinematic action shot of the person in the photo playing basketball, captured in a full-body view mid-air. The subject is performing a powerful one-handed slam dunk, their body fully extended with legs spread wide in an athletic pose. They are wearing a black basketball jersey with red accents and the number \"[JERSEY_NUMBER: 42]\" prominently displayed on the chest, matching black shorts with red trim, black compression leggings underneath, and black and red high-top basketball shoes. One hand grips the orange rim of the hoop while the other pushes the basketball through the white net. The background is a packed indoor arena with bright, dramatic stadium lights shining down, creating a cinematic halo effect. The polished wooden court reflects the bright lights, and the cheering crowd in the stands is blurred with a shallow depth of field. Golden confetti falls through the air, adding to the high-energy, triumphant atmosphere of the moment. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs, two feet, and full torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-21T07:54:05.335Z",
+      "locked": false
+    },
+    {
       "id": "cb7b64e3-4aeb-436b-ba28-28b78158f650",
       "title": "Cozy Multi-Generational Family Portrait",
       "category": "Family",
