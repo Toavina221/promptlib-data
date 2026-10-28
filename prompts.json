@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "cb7b64e3-4aeb-436b-ba28-28b78158f650",
+      "title": "Cozy Multi-Generational Family Portrait",
+      "category": "Family",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Generations Portrait",
+      "tags": [
+        "family",
+        "generations"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/7225cec1-1e44-46e7-ac42-50581131112b.jpg",
+      "prompt": "A warm, heartwarming multi-generational family portrait set in a cozy, sunlit living room. The person in the photo is seamlessly integrated into this happy family gathering. Multiple generations are present, all smiling warmly and interacting with each other. On a large brown leather sofa, an older man and woman sit together, wearing a plaid shirt and a beige top. Next to them sits a young woman wearing a [MOTHER_SHIRT_COLOR: dark brown] t-shirt and jeans, with a young girl cuddled beside her. Standing behind the sofa is a man wearing an [FATHER_SHIRT_COLOR: olive green] t-shirt. In the foreground, two toddlers sit on a patterned rug, happily playing with wooden building blocks, one in a beige shirt and the other in a light green shirt. The background features large windows on the left letting in bright, soft natural light, a potted plant, and a wooden bookshelf filled with books and framed photos on the right. The overall mood is deeply loving, peaceful, and nostalgic, capturing a perfect family moment. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: each visible person must have exactly one head, one neck, two shoulders, two arms, and two hands with five fingers each where visible. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo.",
+      "createdAt": "2026-10-21T06:28:16.964Z",
+      "locked": false
+    },
+    {
       "id": "2ab15502-ba15-40b4-b066-6caa710cf50e",
       "title": "Graduation Day Scrapbook Collage",
       "category": "Life Milestones",
