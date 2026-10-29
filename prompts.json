@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "0cfbf9e4-b175-405e-8fcc-27afc6639402",
+      "title": "Romantic Cliffside Couple Portrait",
+      "category": "Couple",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Romantic Couple Portrait",
+      "tags": [
+        "couple",
+        "romantic"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/034b686d-0e84-4f07-b36a-71cc183a136a.jpg",
+      "prompt": "A romantic, cinematic portrait of the person in the photo and their partner, captured from the mid-thigh up on a scenic coastal cliff. The couple stands intimately close, their faces only inches apart, gazing lovingly into each other's eyes with warm, genuine smiles. The person on the left has long, wavy brown hair and is wearing a cozy, textured [SWEATER_COLOR: cream-colored] knit sweater and a delicate gold pendant necklace. One of their hands rests gently on the partner's chest. The partner on the right has short brown hair and a light beard, wearing a [SHIRT_STYLE: dark navy blue] long-sleeved button-down shirt. The partner's arm is wrapped affectionately around the other's waist, with fingers naturally positioned.\n\nThe background is a breathtaking coastal landscape. A winding dirt path through green grass and small white wildflowers leads to the edge of the cliff. Below and behind them is a vast, deep blue ocean with gentle waves crashing against rugged, rocky shores. The lighting is soft and golden, capturing the warm glow of a sunset on the horizon, which beautifully backlights the couple and creates a peaceful, romantic, and highly atmospheric mood.\n\nAdapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly two heads, two necks, four shoulders, two visible arms, two visible hands with five fingers each, and upper torsos for both figures. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no lower legs, no feet).",
+      "createdAt": "2026-10-21T04:54:44.120Z",
+      "locked": false
+    },
+    {
       "id": "426f0edf-e8dd-4ac1-b900-3fea8dced6f9",
       "title": "Professional Engineer with Laptop",
       "category": "Work",
