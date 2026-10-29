@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "426f0edf-e8dd-4ac1-b900-3fea8dced6f9",
+      "title": "Professional Engineer with Laptop",
+      "category": "Work",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Engineer / Developer",
+      "tags": [
+        "engineer",
+        "office"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/bd53186a-0ff8-46ed-937a-5bafd85a903c.jpg",
+      "prompt": "A professional, bright portrait of the person in the photo, captured from the mid-thigh up, standing in a modern, sunlit office. The subject is facing forward with a warm, confident smile, holding an open laptop in their left hand while the right arm rests relaxed at their side. They have short dark hair and a light beard and mustache. They are wearing a [SHIRT_COLOR: blue denim] button-down shirt worn open over a plain white t-shirt, paired with [TROUSER_COLOR: dark grey] trousers. A silver watch is visible on the right wrist. The laptop screen displays lines of programming code. Both hands are fully visible, with fingers naturally gripping the laptop or resting relaxed. The background is a softly blurred modern office environment with large windows on the left letting in bright natural daylight, a concrete ceiling, and a few indistinct colleagues working at a table in the distance. The overall mood is professional, innovative, and welcoming. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, full torso, and upper legs. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no knees, no lower legs, no feet).",
+      "createdAt": "2026-10-21T07:41:23.381Z",
+      "locked": false
+    },
+    {
       "id": "b33428f7-cd31-464a-9cd0-7ed4c457c58a",
       "title": "Gritty Urban Combat Soldier",
       "category": "Military",
