@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "b33428f7-cd31-464a-9cd0-7ed4c457c58a",
+      "title": "Gritty Urban Combat Soldier",
+      "category": "Military",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Infantry Soldier",
+      "tags": [
+        "military",
+        "soldier"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/d489ff5d-61b4-4c58-8d44-5e0c6688e4c8.jpg",
+      "prompt": "A cinematic, gritty portrait of the person in the photo dressed as a modern soldier, captured from the mid-thigh up. They are standing in a destroyed urban environment, looking off to their left with a serious, focused expression. They are wearing a [UNIFORM_COLOR: multicam camouflage] combat uniform, a heavy tactical plate carrier vest with various pouches, and a combat helmet equipped with a communication headset and a side-mounted tactical device. Both hands are firmly gripping a black [WEAPON_TYPE: assault rifle] held diagonally across their chest, with fingers naturally positioned on the weapon. The background features the ruins of a war-torn city with crumbling concrete buildings, scattered rubble, and thick smoke or dust hanging in the air. A blurred, warm glow of a fire or explosion is visible in the distance on the right. The lighting is dramatic and cinematic, highlighting the textures of the gear and the subject's face. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, full torso, and upper legs. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no knees, no lower legs, no feet).",
+      "createdAt": "2026-10-22T05:05:26.865Z",
+      "locked": false
+    },
+    {
       "id": "d55233e4-ef6e-464a-a2e5-634567ec98b3",
       "title": "Cinematic Basketball Dunk Action Shot",
       "category": "Sport",
