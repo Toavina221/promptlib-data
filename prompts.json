@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "826b1f39-d99b-48e2-99cb-9600b655cf6d",
+      "title": "Cinematic Villain Red Light Portrait",
+      "category": "Fiction & Fantasy",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Villains",
+      "tags": [
+        "villain",
+        "cinematic"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/4df6860a-31f0-4612-bf7f-0f93a7187ec7.jpg",
+      "prompt": "A dramatic, cinematic close-up portrait of the person in the photo, captured from the chest up. The subject has a serious, intense, and slightly menacing expression, looking directly at the viewer. They are wearing a [JACKET_COLOR: black leather] jacket with a high, structured collar. Both hands are clasped together near the chin in a thoughtful, powerful gesture, with a large, ornate silver ring clearly visible on one finger. The lighting is highly stylized and moody: a strong, vibrant red light illuminates the left side of their face and hands, while the rest of the subject falls into deep shadow. The background is a dark, misty, gothic stone corridor with arched doorways, featuring cool teal and blue ambient tones. A faint silhouette of a throne is visible in the foggy distance. The overall mood is dark, mysterious, and powerful. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no legs, no feet).",
+      "createdAt": "2026-10-21T05:52:41.822Z",
+      "locked": false
+    },
+    {
       "id": "0cfbf9e4-b175-405e-8fcc-27afc6639402",
       "title": "Romantic Cliffside Couple Portrait",
       "category": "Couple",
