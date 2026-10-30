@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "7ce6737a-857d-4360-8035-b30de5ca4b59",
+      "title": "Jungle Warrior and Giant Lioness",
+      "category": "Fiction & Fantasy",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "High Fantasy",
+      "tags": [
+        "fantasy",
+        "jungle"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/3484c79a-fc8e-4fc2-a572-2ce49db5bb80.jpg",
+      "prompt": "A stunning, cinematic fantasy portrait of the person in the photo standing full-body in a lush, tropical jungle, posing confidently next to a massive, photorealistic [ANIMAL_TYPE: lioness]. The person is looking directly at the camera with a calm, fierce expression, their right hand resting gently on the giant animal's neck. They have long, wavy dark hair with intricate braided details, glistening with water droplets. They are wearing a tribal-inspired outfit consisting of a light-colored wrapped bandeau top and a layered, tattered [SKIRT_COLOR: rust-orange] skirt with a leather belt adorned with hanging feathers and coins. Leather straps are wrapped around their lower legs, and they are barefoot. The giant lioness stands tall beside them, its wet fur catching the light, with a majestic and calm expression. The background features a breathtaking tropical waterfall cascading down rocky cliffs into turquoise water, surrounded by lush green foliage. Dramatic, cinematic god rays of sunlight break through the jungle canopy, illuminating the subjects. The ground is covered in vibrant green moss and wet rocks. The overall style is highly detailed, photorealistic fantasy art. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs, two feet, and full torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-21T04:32:51.849Z",
+      "locked": false
+    },
+    {
       "id": "2a68ec49-9184-414b-8f34-c0f24c7f1568",
       "title": "Romantic Garden Wedding Portrait",
       "category": "Wedding",
