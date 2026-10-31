@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "46040ee1-76ed-4da7-949d-b26eabadb265",
+      "title": "Modern Corporate Team Portrait",
+      "category": "Group / Team",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Startup Office Team",
+      "tags": [
+        "corporate",
+        "team"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/10217ec9-6475-44ca-a6f6-1ccefbfcf775.jpg",
+      "prompt": "A professional corporate team portrait featuring a diverse group of five colleagues in a modern, brightly lit office. The person in the photo is seamlessly integrated into the group. The background features a textured grey concrete wall adorned with large architectural blueprints pinned to it. In the center, there is a small white table holding a coffee mug with the text \"[MUG_TEXT: I love tea]\". The individuals are dressed in smart-casual business attire. On the left, one person is seated wearing a rust-colored sweater and light trousers. Next to them stands a person in an olive blazer and white shirt. The central person stands holding a digital tablet, wearing a blue button-down shirt and khaki pants. To their right stands a person in a dark blue shirt holding a book. On the far right, a person sits wearing a beige hoodie and glasses. The group exudes a collaborative and friendly atmosphere, all smiling towards the camera. The framing captures the subjects from the mid-thigh up. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly five heads, five necks, ten shoulders, ten arms, ten hands with five fingers each, and five torsos. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no lower legs, no feet).",
+      "createdAt": "2026-10-21T04:53:37.937Z",
+      "locked": false
+    },
+    {
       "id": "7ce6737a-857d-4360-8035-b30de5ca4b59",
       "title": "Jungle Warrior and Giant Lioness",
       "category": "Fiction & Fantasy",
