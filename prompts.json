@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "e204f2bf-f578-4f75-a753-9cd7e9766dcd",
+      "title": "Epic Sci-Fi Split Movie Poster",
+      "category": "Typography & Poster",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Epic Movie Poster",
+      "tags": [
+        "cinematic",
+        "poster"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-10/dfa94769-0ac9-4890-9748-9d05450c7dad.jpg",
+      "prompt": "A cinematic, epic movie poster featuring a surreal split composition of the person in the photo. On the left side, a large, dominant portrait of the person is shown from the chest up. They wear a black suit jacket, a black button-down shirt, and dark sunglasses, looking slightly to the side with a serious, confident expression. The left side background shows dramatic mountains and clouds. A sharp vertical line divides the image. The right side reveals a vibrant, futuristic cityscape bathed in golden sunset light, featuring soaring skyscrapers with glowing rings, floating platforms, waterfalls, and distant mountains. At the bottom center, a small silhouette of the same person is seen walking away from the viewer on a rocky path toward the glowing city. The composition blends realism with sci-fi fantasy. At the bottom, large elegant serif typography reads \"[NAME: Marcus]\", with smaller clean sans-serif text beneath it reading \"[TITLE_TEXT: VISIONARY CREATOR / FILM DIRECTOR]\". Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, and upper torso for the large portrait on the left. For the small background silhouette, exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs, two feet, and full torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-22T05:12:07.025Z",
+      "locked": false
+    },
+    {
       "id": "9a896b09-2c45-435c-8b15-09736dece55e",
       "title": "Professional Chef Portrait in Kitchen",
       "category": "Work",
