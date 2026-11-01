@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "07749dce-fb77-44fc-abc9-6de1e26da904",
+      "title": "Moonlit Forest Walk",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "moonlit",
+        "cinematic"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/7f3345c0-61d3-43f1-8fb2-9b794b2cadca.jpg",
+      "prompt": "A cinematic, atmospheric portrait of the person in the photo walking toward the camera along a paved path through a forest at night. The subject is captured in a full-body shot, looking slightly off to the side with a calm, neutral expression. Their hands are casually tucked into the pockets of grey baggy sweatpants. They are wearing a black long-sleeved sweatshirt featuring a red and blue graphic design with the text \"[TEXT_1: Lightning]\" on the chest, and light-colored sneakers. They have short, tousled, wavy hair. The setting is a misty, dark forest with tall trees framing the path. A large, bright full moon hangs in the deep blue night sky. Antique streetlamps line the path, casting a warm, yellowish glow that contrasts beautifully with the cool blue moonlight. A layer of soft fog rolls across the ground, adding a mysterious and cinematic mood to the scene. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs, two feet, and full torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-21T04:39:58.229Z",
+      "locked": false
+    },
+    {
       "id": "82853596-9321-4df9-b6f8-d78586449fb5",
       "title": "Inspiring Teacher in Classroom",
       "category": "Work",
