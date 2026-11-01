@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "1ab188fd-4203-4709-bb6d-b65c28f17d9c",
+      "title": "Rainy Night Urban Portrait",
+      "category": "Solo",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Rainy Night Portrait",
+      "tags": [
+        "rainy",
+        "cinematic"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/b42c36d0-fd56-42ac-8037-596e5898e476.jpg",
+      "prompt": "A cinematic, moody portrait of the person in the photo standing in the pouring rain on a city street at night. The subject is captured from the waist up, looking directly at the viewer with an intense, serious expression. They have wet, twisted hair with visible water droplets dripping down their face and neck. They are wearing an unbuttoned, completely soaked [SHIRT_COLOR: white] dress shirt, revealing a bare, muscular chest glistening with rain. The background is a blurred, atmospheric urban night scene with glowing streetlights and car headlights creating colorful bokeh in warm orange and cool blue tones against the dark buildings. The wet pavement reflects the city lights. The overall mood is dramatic, gritty, and cinematic. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two partially visible arms, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Do not add any body part that is not visible in the original photo (no hands, no legs, no feet).",
+      "createdAt": "2026-10-22T05:23:42.568Z",
+      "locked": false
+    },
+    {
       "id": "683e6b49-3265-4630-9328-889ed060f1cd",
       "title": "Urban Streetwear City Portrait",
       "category": "Urban / Street",
