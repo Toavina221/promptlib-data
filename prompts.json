@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "81b43fee-42be-44b6-997e-50fea14e7bf8",
+      "title": "Thoughtful Artist in Studio",
+      "category": "Work",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Artist / Creative",
+      "tags": [
+        "artist",
+        "studio"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/33cfdd11-f6e4-4ee2-8768-65f1ee4f4b26.jpg",
+      "prompt": "A warm, natural portrait of the person in the photo as an artist, captured from the mid-thigh up. The subject is sitting in a sunlit art studio, holding an open sketchbook in one hand and a paintbrush in the other. They are looking off to the side with a thoughtful, serene expression. They have short, grey hair and a grey beard. They are wearing a [SHIRT_COLOR: light beige] paint-splattered button-down overshirt over a dark grey t-shirt, and khaki trousers. The background is a rustic, creative studio with a large window on the left letting in soft natural light. Several wooden easels are scattered around, and the textured grey walls are covered with pinned sketches and colorful paint splatters. To the right, wooden shelves are filled with various paint bottles and brushes. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs (visible from mid-thigh up), and full torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no knees, no lower legs, no feet).",
+      "createdAt": "2026-10-21T07:33:19.030Z",
+      "locked": false
+    },
+    {
       "id": "1ab188fd-4203-4709-bb6d-b65c28f17d9c",
       "title": "Rainy Night Urban Portrait",
       "category": "Solo",
