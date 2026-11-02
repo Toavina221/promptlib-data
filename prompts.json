@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "e9b79b84-84a4-47e2-a3b2-1258161a5e92",
+      "title": "Candid Night City Street Portrait",
+      "category": "Urban / Street",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Neon City",
+      "tags": [
+        "streetphotography",
+        "candid"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/882dfbe5-49d8-41ca-a974-4cd52d788372.jpg",
+      "prompt": "A candid, flash-photography style street portrait of the person in the photo walking through a bustling city at night. The subject is captured from the mid-thigh up, looking back over their shoulder directly at the camera with a surprised, caught-off-guard expression, their mouth slightly open. One hand is raised near their forehead, gently touching their hair. They have shoulder-length blonde hair and are wearing a simple [TOP_COLOR: black] long-sleeved sweater and dark denim jeans. The background is a busy urban street at night, heavily blurred to emphasize the subject. Bright headlights from moving cars create streaks of light, and a crowd of pedestrians walks by, rendered with a soft motion blur. The lighting is cinematic and raw, with glowing city signs in the distance and the subject illuminated by a direct flash, creating a stark, high-contrast, candid aesthetic with a subtle film grain. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, one visible hand with five fingers, torso, and upper legs. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body part that is not visible in the original photo (no feet, no lower legs).",
+      "createdAt": "2026-10-21T04:22:42.453Z",
+      "locked": false
+    },
+    {
       "id": "fc1cb6ea-32f7-4b02-b758-e49de21ee6ed",
       "title": "Serene Green Field Portrait",
       "category": "Photography",
