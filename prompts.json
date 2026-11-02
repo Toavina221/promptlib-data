@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "fc1cb6ea-32f7-4b02-b758-e49de21ee6ed",
+      "title": "Serene Green Field Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "nature",
+        "serene"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/e8d22b4e-2f35-4876-b9db-9ec8c5d85cbb.jpg",
+      "prompt": "A serene, romantic portrait of the person in the photo standing in a lush, windswept field of tall green grass. The subject is captured from the mid-thigh up, with their head tilted slightly back and eyes gently closed, breathing in the fresh air with a peaceful, contented expression. The wind is blowing gently, causing their long, wavy brown hair to flow gracefully across their face and behind them. They are wearing a flowing, [DRESS_COLOR: sage green] long-sleeved linen dress with a high, buttoned collar and a gathered waist, which billows softly in the breeze.\n\nOne hand is raised delicately to rest near the collarbone, while the other arm hangs relaxed at their side, with fingers gently brushing against the top of the tall grass. Both hands are visible with natural fingers.\n\nThe background is a sea of vibrant, textured green grass that completely fills the frame, with a shallow depth of field that blurs the distant grass into soft, painterly strokes, keeping the subject in sharp focus. The lighting is soft, diffused, and natural, typical of a slightly overcast day, creating a gentle, intimate, and atmospheric mood. The overall aesthetic is earthy, poetic, and deeply tranquil, reminiscent of a scene from a classic romantic film.\n\nAdapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no legs, no feet).",
+      "createdAt": "2026-10-19T12:42:32.287Z",
+      "locked": false
+    },
+    {
       "id": "709eb80e-b094-44dc-90d1-30d0b43d7aeb",
       "title": "Professional Corporate Headshot",
       "category": "Photography",
