@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "709eb80e-b094-44dc-90d1-30d0b43d7aeb",
+      "title": "Professional Corporate Headshot",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Corporate Headshot",
+      "tags": [
+        "corporate",
+        "headshot"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/5ab73eb1-1ed3-4408-b2f3-9943c27efaa9.jpg",
+      "prompt": "A polished, professional corporate headshot of the person in the photo, captured from the chest up. The subject faces the camera directly with a gentle, confident, and approachable smile. They have long, dark, straight hair cascading past their shoulders, dark eyes, and a warm, natural complexion. They are wearing a [BLAZER_COLOR: navy blue] tailored blazer over a grey button-down shirt, paired with a light grey tie. A delicate gold necklace with a small heart pendant rests on the chest. The background is a bright, modern office environment with large windows letting in soft natural light, deliberately blurred with a shallow depth of field to show a few out-of-focus colleagues in the distance, keeping the focus entirely on the subject. The lighting is even, flattering, and professional. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Do not add any body part that is not visible in the original photo (no arms, no hands, no legs, no feet).",
+      "createdAt": "2026-10-21T04:25:22.547Z",
+      "locked": false
+    },
+    {
       "id": "81b43fee-42be-44b6-997e-50fea14e7bf8",
       "title": "Thoughtful Artist in Studio",
       "category": "Work",
