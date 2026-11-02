@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "cc84dc70-3a24-4856-9c4b-313ce55497a2",
+      "title": "Professional Healthcare Worker Portrait",
+      "category": "Work",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Doctor / Healthcare Worker",
+      "tags": [
+        "medical",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/2572e553-741d-4bcb-a1d9-43b7486b8bdb.jpg",
+      "prompt": "A professional, welcoming portrait of the person in the photo dressed as a healthcare worker, captured from the chest up. The subject is facing forward, looking directly at the camera with a warm, genuine smile showing their teeth. They have dark hair pulled back neatly and are wearing large, black-rimmed hexagonal glasses. They are dressed in a crisp [COAT_COLOR: white] medical lab coat over a light-colored top, with a delicate silver necklace and a small heart-shaped pendant resting on their chest. A black stethoscope is draped around their neck, with the earpieces resting on their shoulders. The background is a softly blurred medical office or clinic, featuring cool, clean tones and faint, out-of-focus anatomical posters on the wall. The lighting is bright, soft, and even, creating an approachable and trustworthy professional atmosphere. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Do not add any body part that is not visible in the original photo (no arms, no hands, no legs, no feet).",
+      "createdAt": "2026-10-21T06:39:46.887Z",
+      "locked": false
+    },
+    {
       "id": "d8c3451a-5884-4d2f-b439-4a3400d67f3a",
       "title": "Avant-Garde Metallic Couture Suit",
       "category": "Fashion & Cultures",
