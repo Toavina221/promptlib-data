@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "765a1d5e-c7cf-4f92-99d0-9d985fc7d96f",
+      "title": "A Beautiful Memory – Shattered Double Exposure",
+      "category": "Typography & Poster",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Epic Movie Poster",
+      "tags": [
+        "cinematic",
+        "doubleexposure"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/89092aef-7332-4192-82b5-376f7f03d89a.jpg",
+      "prompt": "A cinematic, emotional double-exposure portrait of the person in the photo, blending two moments into a single poetic composition. The right side of the image is dominated by a large, warm-toned portrait of the person's face, softly lit by golden sunlight, with long dark hair gently blowing across their features. They have a serene, slightly melancholic expression, looking off to the side with soft, glossy red lips and a gentle blush. They are wearing a simple black top.\n\nOn the left side, a smaller, softer portrait of the same person appears, looking upward with a dreamy expression, their face and hair dissolving into thousands of golden, bronze, and dark particles that scatter and float upward across the center of the composition. This shattered, pixelated effect creates a powerful sense of memory, loss, and fading moments.\n\nThe background behind the figures is a warm, blurred sunset over a calm ocean, with the glowing sun setting just above the water and reflecting softly on the waves. The sky is painted in gentle hues of amber, peach, and soft rose, with a dreamy, hazy atmosphere.\n\nElegant typography is placed on the left side of the composition. In the upper left, small uppercase serif text reads \"[TEXT_1: Some memories stay forever]\". Below it, the large title reads \"[TITLE_TEXT: A Distant Dream]\" in a mix of elegant serif fonts, with \"DISTANT\" in dark and \"DREAM\" in warm terracotta red. Beneath it, smaller text reads \"[TEXT_2: Some feelings never fade]\". In the lower left corner, small text reads \"[TEXT_3: Different places, same soul]\". The overall mood is nostalgic, poetic, and deeply emotional, like a cinematic poster for a romantic film about memory and longing.\n\nAdapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, and visible shoulders for each of the two portraits. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy.",
+      "createdAt": "2026-10-16T06:39:10.874Z",
+      "locked": false
+    },
+    {
       "id": "ba639de6-a121-49b1-9c3a-a831415a966a",
       "title": "Professional Airline Pilot Portrait",
       "category": "Work",
