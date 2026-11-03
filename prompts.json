@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "ba639de6-a121-49b1-9c3a-a831415a966a",
+      "title": "Professional Airline Pilot Portrait",
+      "category": "Work",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Pilot / Flight Attendant",
+      "tags": [
+        "pilot",
+        "aviation"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/7e8b0845-0ae3-44b4-9c72-c1c08dce7c63.jpg",
+      "prompt": "A cinematic, professional portrait of the person in the photo sitting in an airplane cockpit, captured from the chest up. The subject is looking slightly off to the side with a calm, confident, and warm smile. They have short, neatly styled grey hair and a well-groomed grey beard and mustache. They are wearing a crisp [UNIFORM_COLOR: dark navy blue] pilot uniform jacket over a white dress shirt and a black tie. Four gold stripes are visible on the epaulettes on the shoulders, and a gold pilot wings pin is attached to the left chest. The background is a modern cockpit with large windows revealing a runway and distant city lights under a soft [TIME_OF_DAY: twilight] sky. The instrument panels are visible but deliberately blurred with a shallow depth of field, keeping the focus entirely on the subject. The lighting is soft and cinematic, blending the cool ambient light from the windows with the warm glow of the cockpit instruments. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Do not add any body part that is not visible in the original photo (no arms, no hands, no legs, no feet).",
+      "createdAt": "2026-10-21T06:48:30.113Z",
+      "locked": false
+    },
+    {
       "id": "cc84dc70-3a24-4856-9c4b-313ce55497a2",
       "title": "Professional Healthcare Worker Portrait",
       "category": "Work",
