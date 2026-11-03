@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "2c49cfb1-0426-49b0-974a-85578fe626ff",
+      "title": "Elegant Linen Suit Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Corporate Headshot",
+      "tags": [
+        "menswear",
+        "suit"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/c376e844-3d85-4fa5-add7-5a6033e092ff.jpg",
+      "prompt": "A refined, editorial portrait of the person in the photo, captured from the waist up in a confident, three-quarter pose. The subject stands slightly angled, looking off to the side with a calm, self-assured expression and a subtle, relaxed smile. They have short, styled brown hair swept upward with volume, and a light, well-groomed beard and stubble. The subject is dressed in a sophisticated [SUIT_COLOR: beige linen] three-piece suit, featuring a tailored jacket, a matching buttoned waistcoat, and a crisp white dress shirt. A textured dark grey tie is neatly knotted at the collar, and a folded white pocket square peeks from the jacket's breast pocket.\n\nBoth hands are raised to the chest level, gently grasping the lapels of the jacket in a natural, elegant gesture, with all fingers correctly visible and positioned. On the left wrist, a silver watch with a dark face is visible beneath the shirt cuff. The jacket sleeves reveal white shirt cuffs with visible buttons. The background is a smooth, neutral concrete wall with a subtle, mottled texture in soft grey tones, providing a minimalist, modern backdrop that keeps the focus entirely on the subject. The lighting is soft and directional, highlighting the fine texture of the linen fabric, the subject's facial features, and the subtle details of the suit. The overall mood is polished, elegant, and sophisticated, reminiscent of a high-end fashion editorial or luxury menswear campaign.\n\nAdapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no legs, no feet).",
+      "createdAt": "2026-10-14T10:36:56.722Z",
+      "locked": false
+    },
+    {
       "id": "70357535-cbe5-4637-ae21-eeddd64d5e9f",
       "title": "80s Acid Wash Denim Portrait",
       "category": "Vintage / Retro",
