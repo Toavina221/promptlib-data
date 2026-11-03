@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "07af482e-6bbc-4c18-b68d-df08fb25147b",
+      "title": "Ink Splatter Triple Exposure in Misty Forest",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "double exposure",
+        "ink"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/5c50cf67-e9c7-48ec-a093-d3906beb747a.jpg",
+      "prompt": "A dramatic, cinematic composite portrait featuring the person in the photo three times, layered in a surreal double-exposure style. In the center foreground, the person walks confidently forward on a rocky, moss-covered path, pointing directly at the viewer with one hand while the other rests casually near their pocket. They wear a [SHIRT_STYLE: blue and white plaid flannel shirt] left open over a plain white t-shirt, paired with beige cargo pants and light beige sneakers. Their long dark hair flows naturally over their shoulders, and they wear a simple watch on one wrist. Behind this central figure, two large, semi-transparent portraits of the same person's face dominate the background. On the upper right, a soft, close-up portrait shows the person looking gently upward with a serene expression, their lips slightly parted. On the left, another faded portrait shows the person in a side profile, looking away thoughtfully. Both background faces blend into the composition through dark, expressive ink splatters and drips that cover the upper half of the image. The setting is a moody, atmospheric forest of tall, dark pine trees shrouded in thick, swirling mist. The background is rendered in cool desaturated tones of grey, blue, and black, with heavy fog rolling through the trees. The lower portion shows a rugged, dark rocky ground with patches of green moss. The overall aesthetic is dark, mysterious, and heavily textured, blending photographic realism with abstract ink-wash and grunge elements. The lighting is soft and diffused, creating an introspective, cinematic mood. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs, two feet, and full torso for the central walking figure. For the background portraits, only the visible head and shoulders are shown as in the original. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-14T07:32:37.388Z",
+      "locked": false
+    },
+    {
       "id": "2fd1c035-9cb5-48b7-a513-05af9a9cdd79",
       "title": "Casual Travel Selfie in Old Town",
       "category": "Solo",
