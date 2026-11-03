@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "13e24c90-d991-4282-9198-9e7848e6b409",
+      "title": "Subway Station Flower Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Street Photography",
+      "tags": [
+        "urban",
+        "flowers"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/c1b179a5-b077-479f-bbca-db455b6bfec1.jpg",
+      "prompt": "A romantic, candid-style street portrait of the person in the photo standing on a subway platform, looking back over their shoulder directly at the viewer with a warm, radiant smile. The subject has long, voluminous dark, wavy hair cascading down their back and over one shoulder, with a small bindi on their forehead. They are wearing a cozy, oversized [SWEATER_COLOR: cream-colored] chunky knit sweater that is pulled down off one shoulder, exposing their collarbone. A small, delicate dangling earring is visible, and the strap of a black bag hangs over their shoulder.\n\nThey are holding a large, beautiful bouquet of fresh gerbera daisies wrapped in brown kraft paper, clutching it gently with both hands against their chest. The flowers are a vibrant mix of bright orange and deep burgundy red, interspersed with green foliage. The subject's hands are visible holding the paper wrapping, with fingers naturally positioned.\n\nThe background is a classic underground subway station with arched tiled ceilings and warm, glowing overhead lights. On the left side, a dark train is rushing past, rendered with a strong motion blur effect that adds dynamic energy to the scene. On the right side, the platform stretches into the distance, with a few blurred figures of pedestrians walking away. A yellow illuminated sign reading \"[SIGN_TEXT: Way out]\" hangs from the ceiling, and a dark digital billboard displays the text \"A Brighter Journey Ahead\". The lighting is warm and cinematic, contrasting the stillness of the subject with the motion of the city. The overall mood is cheerful, romantic, and urban.\n\nAdapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no legs, no feet).",
+      "createdAt": "2026-10-19T12:45:58.138Z",
+      "locked": false
+    },
+    {
       "id": "2c49cfb1-0426-49b0-974a-85578fe626ff",
       "title": "Elegant Linen Suit Portrait",
       "category": "Photography",
