@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "448e2886-6c36-4736-9dfa-5bd02b41e86b",
+      "title": "Embroidered Thread Portrait",
+      "category": "Illustration",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Digital Painting",
+      "tags": [
+        "embroidery",
+        "portrait"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/f2253f24-0754-4e69-9acd-b505eaae360e.jpg",
+      "prompt": "Create a detailed portrait of the person in the photo rendered entirely in the style of a machine embroidery artwork. The entire image must look as if it is made of thousands of tiny, precise stitches, with raised satin-stitch lines, visible thread texture, and a tactile fabric surface. The subject has short dark wavy hair, blue eyes, a well-groomed beard, and a calm, confident expression. They are wearing a [SHIRT_STYLE: white traditional shirt with embroidered collar], featuring intricate blue and red floral embroidery along the collar and button placket. The background is a plain [BACKGROUND: white linen fabric] with loose, trailing threads and subtle wrinkles. Use a [THREAD_PALETTE: blue, red, and green] color scheme for the embroidered details. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-08T10:40:33.610Z",
+      "locked": false
+    },
+    {
       "id": "07af482e-6bbc-4c18-b68d-df08fb25147b",
       "title": "Ink Splatter Triple Exposure in Misty Forest",
       "category": "Photography",
