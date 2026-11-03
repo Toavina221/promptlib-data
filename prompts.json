@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "47593133-2d39-47ba-bae7-f1ff51df5e58",
+      "title": "Sunset Silhouette Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "sunset",
+        "cinematic"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/c364c216-a59d-4f2c-8f30-01db003e0ed9.jpg",
+      "prompt": "A striking, cinematic portrait of the person in the photo, captured from the chest up against a vibrant, glowing sunset. The subject stands facing the camera directly with a calm, intense, and slightly mysterious expression. Their hair is loose, slightly tousled, and blowing gently across their face, with individual strands beautifully backlit by the intense golden-orange sun. The setting sun is positioned directly behind their head, creating a dramatic halo effect and a brilliant rim light that outlines their hair and shoulders. They have a natural, minimal makeup look with soft, neutral lips.\n\nThe subject is wearing a simple, oversized [SHIRT_COLOR: black] crewneck t-shirt. A small, subtle white star logo is visible on the left sleeve. The background is a smooth, blurred gradient of deep sunset colors, transitioning from a bright, fiery orange right behind the subject's head to darker, muted brown and black tones toward the bottom and edges, ensuring the subject stands out sharply. The lighting is high-contrast and dramatic, focusing entirely on the subject's face and the glowing backlight, creating a powerful, moody, and atmospheric aesthetic.\n\nAdapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Do not add any body part that is not visible in the original photo (no hands, no legs, no feet).",
+      "createdAt": "2026-10-19T12:40:35.597Z",
+      "locked": false
+    },
+    {
       "id": "13e24c90-d991-4282-9198-9e7848e6b409",
       "title": "Subway Station Flower Portrait",
       "category": "Photography",
