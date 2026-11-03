@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "2fd1c035-9cb5-48b7-a513-05af9a9cdd79",
+      "title": "Casual Travel Selfie in Old Town",
+      "category": "Solo",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Environmental Portrait",
+      "tags": [
+        "selfie",
+        "travel"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/03a11b60-a8f5-4246-85d0-8b17af1be758.jpg",
+      "prompt": "A cheerful, casual selfie portrait of the person in the photo, captured from the chest up. They are holding the camera with one arm extended, looking directly at the viewer with a bright, warm smile showing their teeth. They have long, straight blonde hair cascading over their shoulders and a delicate silver necklace. They are wearing a casual [TOP_COLOR: heather grey] sleeveless textured tank top. The background is a charming, narrow cobblestone street in an old European town, with rustic stone buildings featuring wrought-iron balconies. In the softly blurred background to the left, an outdoor café with a light-colored umbrella and a few indistinct people sitting at tables can be seen, creating a relaxed travel atmosphere. The lighting is soft, natural daylight, giving the image a fresh and inviting look. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two upper arms, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb must be correctly attached to the body and naturally positioned. Do not add any body part that is not visible in the original photo (no hands, no legs, no feet).",
+      "createdAt": "2026-10-21T04:49:51.679Z",
+      "locked": false
+    },
+    {
       "id": "675f4c24-3e0b-4044-a1b8-1846aedc9ddc",
       "title": "Cubist Oil Painting Portrait",
       "category": "Painting",
