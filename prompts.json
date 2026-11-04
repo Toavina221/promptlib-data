@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "00451176-d13d-4a5b-b866-a102723fc8c9",
+      "title": "Urban Lifestyle Music Moodboard",
+      "category": "Typography & Poster",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Magazine Cover",
+      "tags": [
+        "urban",
+        "moodboard"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/7145a145-47d5-4c98-b6eb-78c312a40834.jpg",
+      "prompt": "A stylish mixed-media moodboard collage featuring three different photos of the person in the photo, all showing the same woman with curly dark hair wearing a [HAT_STYLE: brown plaid flat cap], oversized sunglasses, a [JACKET_STYLE: brown plaid blazer], a white shirt, a [TIE_COLOR: mustard yellow] tie, and dark trousers. In the top-left panel, she is seen in a mirror reflection, taking a selfie with a smartphone. In the top-right panel, she is walking on a cobblestone street, looking up with a playful pout. In the bottom-right panel, she is holding an iced coffee and wearing white earphones, with small technical crosshair overlays around her face.\n\nThe central element is a floating translucent music player widget displaying the song \"[SONG_TITLE: See You Again]\" by \"[ARTIST_NAME: Tyler, The Creator]\" with a pink album cover, playback controls, and a timestamp.\n\nThe background is a dark textured surface with editorial typography and overlays. Use the following modified text elements: \"[TEXT_1: STYLE, MINDSET, MUSIC, FREEDOM]\" (top left), \"[TEXT_2: Good Vibes, Better Days]\" (handwritten, left), \"[TEXT_3: DREAM, PLAN, EXECUTE]\" (handwritten, right), \"[TEXT_4: REAL PEOPLE, REAL STORIES]\" (right edge), \"[TEXT_5: LIFE IN FRAMES]\" (large serif, bottom left), \"[TEXT_6: SAME GIRL, DIFFERENT ANGLES, SAME VIBE]\" (bottom left), and \"[TEXT_7: Music Keeps Me Real]\" (handwritten, bottom right). Include a barcode and an Apple Music logo. Use a warm, moody, urban color grade. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for all visible portions: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, and upper torso per panel. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body part that is not visible in the original photo (no legs, no feet).",
+      "createdAt": "2026-10-12T10:42:01.115Z",
+      "locked": false
+    },
+    {
       "id": "47593133-2d39-47ba-bae7-f1ff51df5e58",
       "title": "Sunset Silhouette Portrait",
       "category": "Photography",
