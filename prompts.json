@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "f693380e-fa4d-459c-be74-c2ddbd8625a2",
+      "title": "Watercolor Heart Couple Portrait",
+      "category": "Couple",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Romantic Couple Portrait",
+      "tags": [
+        "watercolor",
+        "couple"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/f7221441-822d-4ce0-9a84-024bea7dfcb5.jpg",
+      "prompt": "A romantic, artistic watercolor-style portrait of the person in the photo and their partner, captured from the chest up in a tender, intimate pose. The two figures lean toward each other, their foreheads gently touching, both with eyes softly closed and peaceful, loving smiles on their faces. The person on the left has long, wavy brown hair cascading over their shoulders. The person on the right has short, styled brown hair with a well-groomed beard and mustache. Both are wearing matching [SHIRT_COLOR: deep red] button-down shirts with a soft, velvety texture. The partner on the left rests one hand gently on the other's shoulder, with fingers naturally positioned and visible.\n\nBehind the couple, a large, expressive watercolor heart dominates the composition, painted in vibrant, bleeding shades of crimson, magenta, deep blue, orange, and violet. The edges of the heart dissolve into artistic splatters, drips, and blooming washes of color that spread outward across the textured background. Small painted hearts in various colors float around the couple. The background is a warm, off-white watercolor paper texture with visible grain, enhancing the hand-painted, romantic aesthetic. The overall mood is deeply loving, warm, and poetic, blending realistic portrait details with loose, expressive watercolor techniques.\n\nAdapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly two heads, two necks, four shoulders, two visible arms, two visible hands with five fingers each, and upper torsos for both figures. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-14T08:07:32.008Z",
+      "locked": false
+    },
+    {
       "id": "c579a89f-655e-4a46-a035-a53cc6578542",
       "title": "Cozy Sage Green Scrapbook Portrait",
       "category": "Typography & Poster",
