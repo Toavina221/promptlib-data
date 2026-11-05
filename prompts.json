@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "2f641fb9-3178-44b5-8870-503d8a1bc7e3",
+      "title": "Monochrome Ink Splatter Portrait",
+      "category": "Illustration",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Watercolor Portrait",
+      "tags": [
+        "ink",
+        "monochrome"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/e23c682b-e561-4127-b4dd-d44d5aec8529.jpg",
+      "prompt": "Create a stylized mixed-media portrait of the person in the photo, showing a confident man with wavy dark hair, a full beard, and dark sunglasses, looking directly at the camera. He is wearing a [OUTFIT_COLOR: black] turtleneck sweater under a black jacket with silver zipper details. The portrait blends realistic skin texture with dramatic [INK_STYLE: black ink splatters and watercolor washes] that explode outward across a clean white background. The composition features strong black brush strokes, scattered ink dots, and high-contrast shading. Use a [COLOR_PALETTE: monochrome black and white] color scheme to create a bold, editorial, and artistic atmosphere. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness: the subject must have exactly two arms, two hands with five fingers each, two legs, and two feet. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned.",
+      "createdAt": "2026-10-07T12:41:57.373Z",
+      "locked": false
+    },
+    {
       "id": "00451176-d13d-4a5b-b866-a102723fc8c9",
       "title": "Urban Lifestyle Music Moodboard",
       "category": "Typography & Poster",
