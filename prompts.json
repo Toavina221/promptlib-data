@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "698d9885-3849-4fb7-80da-177602bf85f1",
+      "title": "Cinematic Triple Exposure Red Portrait",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "cinematic",
+        "tripleexposure"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/16a3cccd-3f21-4307-8b53-98f0d7c448c5.jpg",
+      "prompt": "A cinematic, high-end portrait of the person in the photo looking slightly to the right with a calm, confident expression. The subject has short, dark, wavy hair and a well-groomed beard and stubble. They are wearing a [BLAZER_COLOR: black] tailored blazer over a dark shirt. The composition features a sharp, highly detailed main portrait in the center, flanked by two blurred, semi-transparent duplicate faces of the same person on the left and right, creating a dynamic triple-exposure effect with horizontal motion blur streaks. The background is a deep, rich red. Warm golden rim lighting beautifully highlights the subject's hair, jawline, and shoulders. In the upper left corner, a small badge features the text \"[BRAND_TEXT: CREATIVE STUDIO]\", and in the mid-left, elegant cursive typography reads \"[SIGNATURE_TEXT: Visionary]\". The aesthetic is a luxury editorial, premium movie poster style with realistic skin texture and soft cinematic lighting. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Do not add any body part that is not visible in the original photo (no arms, no hands, no legs, no feet).",
+      "createdAt": "2026-10-22T05:43:03.601Z",
+      "locked": false
+    },
+    {
       "id": "dcbfb852-63d7-47e7-bec7-9b187b2f7272",
       "title": "Authoritative Judge in Law Library",
       "category": "Work",
