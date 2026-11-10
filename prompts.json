@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "607ecc96-dadd-48b7-a00d-6fceec2819ea",
+      "title": "Motivational Sketch Collage",
+      "category": "Illustration",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Pencil Sketch",
+      "tags": [
+        "sketch",
+        "motivational"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/669e182b-b5f9-486d-8698-2b1eb072ab0b.jpg",
+      "prompt": "A creative, mixed-media portrait collage of the person in the photo, blending a full-color central figure with several pencil sketch illustrations of the same person around the composition. In the center, the person stands facing forward in a relaxed, confident pose, wearing a [SWEATER_COLOR: dusty pink] crewneck sweater with a thin silver chain necklace, loose cream-colored trousers, and white sneakers. Both hands are tucked casually into the trouser pockets. They have short, textured dark hair with a fade on the sides, a well-groomed beard and mustache, and a warm, friendly smile. They wear a simple red bracelet on one wrist and a dark watch on the other.\n\nSurrounding this central colored figure are four detailed black-and-white pencil sketch illustrations of the same person: in the upper left, a side-profile sketch of them with a hand thoughtfully resting on the chin. In the upper right, a sketch of them wearing round sunglasses with a serious expression. In the lower left, a full-body sketch of them walking down an urban street, wearing a denim jacket over a t-shirt, jeans, and sneakers, with sunglasses. In the lower right, a close-up sketch of them with a hand resting under the chin, looking thoughtfully to the side. Each sketch is rendered in a fine, cross-hatched pencil style.\n\nThe composition is decorated with motivational handwritten-style text scattered throughout: \"[TEXT_1: Stay Creative]\" at the top, \"[TEXT_2: Dream Big]\" on the left side, \"Focus Grow Achieve\" on the right side, \"[TEXT_3: Make it Happen]\" on the right, and \"Just Be You\" at the bottom left. Small doodles of stars, hearts, arrows, music notes, and swirls add a creative, journal-like feel. The background is a clean, off-white paper texture, giving the whole composition the feel of a personal sketchbook or an inspirational mood board. The overall mood is uplifting, creative, and modern.\n\nAdapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs, two feet, and full torso for the central colored figure. For the sketch figures, only the visible body parts as shown in the original sketches are depicted. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every f",
+      "createdAt": "2026-10-16T07:47:55.454Z",
+      "locked": false
+    },
+    {
       "id": "e26b1b45-3140-4eef-a62b-ea18171c6b2b",
       "title": "Graphic Novel Pop Art Portrait",
       "category": "Illustration",
