@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "2f3401e7-3dc4-4de9-9463-50f46a1e3b18",
+      "title": "Watercolor Photographer with Camera",
+      "category": "Illustration",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Watercolor Portrait",
+      "tags": [
+        "watercolor",
+        "camera"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/5dfb4b65-8e6b-4857-a5b9-0c798aa05a1f.jpg",
+      "prompt": "A vibrant, hand-drawn watercolor illustration of the person in the photo, depicted from the mid-thigh up in a cheerful, friendly pose facing forward. The subject has long, wavy brown hair cascading down past their shoulders, and is smiling warmly with visible white teeth. They are wearing a [CAP_COLOR: mustard-yellow] baseball cap with a single pink and white plumeria flower tucked behind their left ear. The subject wears large, dangling gold earrings and a delicate gold necklace with a small round pendant. The person is dressed in a bright teal, off-the-shoulder blouse with ruffled elastic neckline and short puffy sleeves, paired with classic blue denim jeans. Both hands are holding a large black DSLR camera with a prominent lens at chest level, as if ready to take a photo. The camera strap, black with red trim, hangs over both shoulders. A gold bracelet is visible on the left wrist, and a brown leather watch with a round face is on the right wrist. The person's hands are fully visible and correctly gripping the camera body and lens. The background is a clean white paper texture, decorated with loose, artistic watercolor splashes and splatters in soft turquoise, gold, and pale pink hues that frame the subject. In the bottom left corner, hand-lettered cursive text reads \"pradeep Great Vibes\" with a small red heart next to the word \"Great\". The overall style is a bright, joyful, semi-realistic watercolor fashion illustration with black ink outlines. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no legs, no feet).",
+      "createdAt": "2026-10-14T06:22:28.042Z",
+      "locked": false
+    },
+    {
       "id": "25a4461f-a152-44ca-9df4-58fa609f8bb3",
       "title": "Urban Watercolor Composite Portrait",
       "category": "Illustration",
