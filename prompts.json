@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "4adbc31b-4abe-493e-b517-56574b63bba5",
+      "title": "Enchanted Moon Orb Portrait",
+      "category": "Fiction & Fantasy",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "High Fantasy",
+      "tags": [
+        "fantasy",
+        "moonlight"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/2575692e-aded-4f91-a04a-1e7be7c609cc.jpg",
+      "prompt": "A magical, ethereal fantasy portrait of the person in the photo, captured from the waist up in a serene, dreamlike pose. The subject sits peacefully with eyes gently closed and a soft, contented smile, their face illuminated by a mystical glow. They have long, flowing dark hair cascading down over their shoulders, with delicate dangling earrings catching the light. The person wears a layered delicate necklace with multiple fine chains and a small pendant, and a white sheer mesh top with long sleeves that reach the wrists. Several silver rings adorn their fingers, and a chain belt is visible at the waist over a dark garment.\n\nBoth hands are cupped gently in front of the chest, cradling a large, luminous [ORB_STYLE: glowing moon orb] that radiates a brilliant, soft white-blue light. The orb has a detailed surface resembling the moon's craters and is surrounded by tiny, sparkling light particles. Perched delicately on the top right edge of the orb is a translucent, shimmering butterfly with intricate glowing wings, as if made of light or crystal.\n\nThe background is a deep, mystical blue night scene with softly blurred foliage, giving the impression of an enchanted forest at twilight. The lighting is magical and dramatic, with the glowing orb as the primary light source, casting soft highlights on the subject's face, hands, and hair, while the surrounding shadows add depth and intimacy. The overall mood is enchanting, calm, and otherworldly, like a scene from a fairy tale.\n\nAdapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, and upper torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo (no legs, no feet).",
+      "createdAt": "2026-10-16T05:53:38.386Z",
+      "locked": false
+    },
+    {
       "id": "2f3401e7-3dc4-4de9-9463-50f46a1e3b18",
       "title": "Watercolor Photographer with Camera",
       "category": "Illustration",
