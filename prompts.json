@@ -1,6 +1,22 @@
 {
   "prompts": [
     {
+      "id": "2b49fd9a-c482-4994-8f1b-1087e0db7ea3",
+      "title": "Cozy Lounge with Giant Teddy Bear",
+      "category": "Photography",
+      "famille": "Other",
+      "axis": "style",
+      "subSection": "Cinematic Portrait",
+      "tags": [
+        "cozy",
+        "teddybear"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Toavina221/promptlib-data/main/images/2026-11/0fdfa134-3f36-4a6b-a498-f863411deca9.jpg",
+      "prompt": "A warm, relaxed lifestyle portrait of the person in the photo sitting comfortably on a plush, [SOFA_COLOR: deep blue velvet] curved sofa. The person is seated with their legs elegantly crossed at the knee, one arm casually draped around a giant, fluffy brown teddy bear sitting beside them on the left. The teddy bear is almost as tall as the person, with soft, textured fur and a blue-and-white checkered bow tie around its neck. The person has long, straight dark hair and a gentle, natural smile, looking directly at the camera with a calm and friendly expression. The person wears a casual outfit consisting of a plain black crop top, an open white button-down shirt worn loosely as a light layer, and white shorts. On their feet are clean white low-top sneakers. A thin gold necklace is visible around the neck. The visible arm resting on the sofa shows a relaxed hand with natural fingers. The setting is a stylish, cozy indoor lounge with a striking backdrop: a large circular wall panel featuring vertical wooden slats, illuminated from behind by a warm, glowing golden LED ring light. The surrounding walls are painted in a rich, [WALL_COLOR: deep purple]. Cascading purple artificial wisteria flowers hang from the top left and right corners, framing the circular panel beautifully. A tall green potted plant stands on the right side, and a light wooden stool is partially visible on the far left. The floor is a smooth, polished grey concrete surface. The lighting is soft and inviting, blending the warm golden ring light with the cool purple ambient tones, creating a cozy, modern, and slightly whimsical atmosphere. Adapt the subject's gender, body type, and appearance to match the person in the uploaded photo exactly. If the person is a man, generate a man; if a woman, generate a woman. Do not change their gender. Keep the person's face and identity exactly the same as in the photo, preserving their exact facial structure, hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture and natural appearance exactly as shown. Do not beautify, smooth skin, cartoonize, or replace their face with a different person. Identity preservation is the highest priority. Ensure absolute anatomical correctness for the visible portion only: exactly one head, one neck, two shoulders, two arms, two hands with five fingers each, two legs, two feet, and full torso. No extra limbs, no duplicated hands, no floating fingers, no missing fingers, no missing body parts within the visible framing, and no distorted anatomy. Every limb and every finger must be correctly attached to the body and naturally positioned. Do not add any body parts that are not visible in the original photo.",
+      "createdAt": "2026-10-14T06:33:11.283Z",
+      "locked": false
+    },
+    {
       "id": "4adbc31b-4abe-493e-b517-56574b63bba5",
       "title": "Enchanted Moon Orb Portrait",
       "category": "Fiction & Fantasy",
